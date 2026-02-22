@@ -1,0 +1,10 @@
+# Ignore generated PDF files
+CV.pdf
+cv.pdf
+
+# Ignore LaTeX auxiliary files
+cv.aux
+cv.log
+cv.out
+
+.aider*
