@@ -1,0 +1,1 @@
+docker run --rm -v /home/goviedo/proyectos/cv/linkedin/postulacion-tekton:/workdir -u 1000:1000 texlive/texlive pdflatex cv-linkedin-tekton.tex
