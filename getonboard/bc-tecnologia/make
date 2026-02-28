@@ -1,0 +1,1 @@
+docker run --rm -v $PWD:/workdir -u 1000:1000 texlive/texlive pdflatex cv.tex
