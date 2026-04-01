@@ -5,7 +5,13 @@ description: Auto-commit and push changes to git after each task completion in t
 
 # Git Auto-Commit for CV Project
 
-After completing any task in this project:
+## Prerequisites
+Before running any git commands, start the SSH agent:
+```bash
+eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_goviedodev
+```
+
+## Workflow
 
 1. Run `git status` to see changed files
 2. Run `git diff` to review changes
@@ -22,5 +28,4 @@ Commit message examples:
 - "Reorder sections: skills now appear after summary"
 
 Do NOT commit:
-- PDF files (*.pdf) - they are already in .gitignore
 - Auxiliary files (*.aux, *.log, *.out) - already ignored
