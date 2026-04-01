@@ -20,6 +20,11 @@ eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_goviedodev
 5. Create a descriptive commit message (1-2 sentences, focus on "what" changed)
 6. Commit: `git commit -m "message"`
 7. Push: `git push`
+   - If push fails with "Permission denied", run SSH agent first:
+     ```bash
+     eval "$(ssh-agent -s)" && ssh-add ~/.ssh/id_goviedodev
+     ```
+   - Then retry: `git push`
 
 Commit message examples:
 - "Add English CV version cv-en.tex"
