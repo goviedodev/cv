@@ -1,25 +1,28 @@
 # Configuración
 DOCKER_IMAGE = texlive/texlive
-FILENAME = cv
 CURRENT_DIR = $(shell pwd)
 USER_ID = $(shell id -u)
 GROUP_ID = $(shell id -g)
-#
-# Comando base de Docker
+
+# Idioma: es (español) o en (inglés)
+LANG ?= es
+
+ifeq ($(LANG),en)
+  FILENAME = cv-en
+else
+  FILENAME = cv
+endif
+
 DOCKER_CMD = docker run --rm -v "$(CURRENT_DIR):/workdir" -u $(USER_ID):$(GROUP_ID) $(DOCKER_IMAGE)
 
 all: pdf
 
-# Compila el PDF
+# Compila el PDF según el idioma
 pdf:
 	$(DOCKER_CMD) pdflatex $(FILENAME).tex
 
-	# Limpia los archivos auxiliares que genera LaTeX (log, aux, out)
+# Limpia archivos auxiliares
 clean:
 	rm -f $(FILENAME).aux $(FILENAME).log $(FILENAME).out $(FILENAME).pdf
 
-# Compilación continua (útil si estás editando mucho)
-watch:
-	while true; do make pdf; sleep 5; done
-
-	.PHONY: all pdf clean watch
+.PHONY: all pdf clean

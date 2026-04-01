@@ -10,14 +10,14 @@ This repository contains my personal Curriculum Vitae built with LaTeX.
 
 ### Main Commands
 ```bash
-# Compile PDF from cv.tex
+# Compile PDF from cv.tex (Spanish)
 make pdf
 
-# Clean auxiliary files (log, aux, out)
-make clean
+# Compile PDF from cv-en.tex (English)
+make pdf LANG=en
 
-# Watch mode - continuously compile every 5 seconds
-make watch
+# Clean auxiliary files
+make clean
 
 # Manual Docker compilation
 docker run --rm -v "$(pwd):/workdir" -u $(id -u):$(id -g) texlive/texlive pdflatex cv.tex
@@ -25,6 +25,7 @@ docker run --rm -v "$(pwd):/workdir" -u $(id -u):$(id -g) texlive/texlive pdflat
 
 ### Output
 - Main PDF: `cv.pdf`
+- English version: `cv-en.pdf`
 - Additional CVs in subdirectories:
   - `getonboard/bc-tecnologia/cv.pdf`
   - `linkedin/postulacion-tekton/cv-linkedin-tekton.pdf`
@@ -89,10 +90,14 @@ Content here...
 ### Directory Structure
 ```
 /home/goviedo/proyectos/cv/
-├── cv.tex                 # Main CV
-├── cv.pdf                 # Compiled PDF
+├── cv.tex                 # Main CV (Spanish)
+├── cv-en.tex              # English version
+├── cv.pdf                 # Compiled PDF (Spanish)
+├── cv-en.pdf              # Compiled PDF (English)
 ├── Makefile               # Build automation
 ├── README.md              # Project info
+├── AGENTS.md              # Agent instructions
+├── docs/                  # Documentation
 ├── getonboard/            # Job application CVs
 │   └── bc-tecnologia/
 ├── linkedin/              # LinkedIn application CVs
@@ -129,3 +134,4 @@ Your content here...
 - No tests exist - verify output by opening the PDF
 - Always run `make clean` before `make pdf` to avoid stale cache issues
 - When editing, prefer making small incremental changes and compiling to verify
+- Use `LANG=en` for English version (e.g., `make pdf LANG=en`)
