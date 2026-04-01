@@ -3,8 +3,8 @@ CV.pdf
 cv.pdf
 
 # Ignore LaTeX auxiliary files
-cv.aux
-cv.log
-cv.out
+*.aux
+*.log
+*.out
 
 .aider*
