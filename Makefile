@@ -7,10 +7,13 @@ GROUP_ID = $(shell id -g)
 # Idioma: es (español) o en (inglés)
 LANG ?= es
 
-ifeq ($(LANG),en)
-  FILENAME = cv-en
-else
-  FILENAME = cv
+# Allow FILENAME to be overridden, otherwise derive from LANG
+ifndef FILENAME
+  ifeq ($(LANG),en)
+    FILENAME = cv-en
+  else
+    FILENAME = cv
+  endif
 endif
 
 DOCKER_CMD = docker run --rm -v "$(CURRENT_DIR):/workdir" -u $(USER_ID):$(GROUP_ID) $(DOCKER_IMAGE)
