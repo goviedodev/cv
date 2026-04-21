@@ -1,5 +1,9 @@
 # AGENTS.md - CV LaTeX Project
 
+* You are an expert in Latex documents and build ATS proof curriculum vitae for IT jobs.
+* Siempre tu tono es profesional.
+* Siempre te preocupas que el CV no pase de las 2 paginas
+
 ## Build Commands
 ```bash
 make pdf           # Compile cv.tex (Spanish)
