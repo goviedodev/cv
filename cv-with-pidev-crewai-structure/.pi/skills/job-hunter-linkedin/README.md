@@ -1,6 +1,6 @@
-# 🎯 Job Hunter LinkedIn - Skill Documentation
+# 🎯 Job Hunter Multi-Portal - Skill Documentation
 
-Skill multi-agente para buscar empleos en LinkedIn, analizar vacantes y personalizar tu CV automáticamente.
+Skill multi-agente para buscar empleos en **múltiples portales** (LinkedIn, GetOnBoard, Computrabajo, Indeed, Chiletrabajos, Torre, Google Jobs), analizar vacantes y personalizar tu CV automáticamente.
 
 ---
 
@@ -12,16 +12,34 @@ El skill ya está incluido en tu proyecto en:
 ./.pi/skills/job-hunter-linkedin/SKILL.md
 ```
 
+Documentación de portales soportados:
+
+```
+./.pi/skills/job-hunter-linkedin/PORTALS.md
+```
+
 ---
 
 ## 📖 Descripción
 
 Este skill orquesta **4 agentes** que trabajan en secuencia para:
 
-1. 🔍 **Buscar empleos** en LinkedIn según criterios específicos
+1. 🔍 **Buscar empleos** en 7 portales simultáneamente según criterios específicos
 2. 📊 **Analizar vacantes** y seleccionar la mejor opción
 3. ✂️ **Personalizar tu CV** adaptándolo a los requisitos del empleo
-4. 📋 **Registrar** la postulación en el historial de tracking
+4. 📋 **Registrar** la postulación en el historial de tracking (con portal de origen)
+
+### Portales Soportados
+
+| Portal | Prioridad | Requiere Login | Salarios Visibles |
+|--------|-----------|----------------|-------------------|
+| GetOnBoard | 🥇 Alta | ❌ No | ✅ Sí |
+| LinkedIn | 🥈 Media | ⚠️ Parcial | ❌ No |
+| Google Jobs | 🥉 Alta | ❌ No | ⚠️ Variable |
+| Computrabajo | Media | ❌ No | ⚠️ Variable |
+| Indeed | Media | ❌ No | ❌ No |
+| Chiletrabajos | Baja | ❌ No | ❌ No |
+| Torre | Baja | ❌ No | ⚠️ Variable |
 
 ---
 
@@ -43,29 +61,21 @@ Este skill orquesta **4 agentes** que trabajan en secuencia para:
 /skill:job-hunter-linkedin "<job_title>" "<location>" "<experience_level>" "<job_applicants>" "<skills>"
 ```
 
-### Formato General
-
-```bash
-/skill:job-hunter-linkedin "<job_title>" "<location>" "<experience_level>" "<job_applicants>" "<skills>"
-```
-
 ---
 
 ## 💡 Ejemplos de Invocación
 
-### Ejemplo 1: Buscar empleo Backend Java Senior
+### Ejemplo 1: Buscar empleo Backend Java Senior (todos los portales)
 
 ```bash
 /skill:job-hunter-linkedin "Senior Backend Java Developer" "Santiago, Chile" "Senior" "50" "Java Spring Boot Spring Cloud PostgreSQL"
 ```
 
 **Resultado esperado:**
-- Busca empleos de "Senior Backend Java Developer" en Santiago
+- Busca empleos en GetOnBoard, LinkedIn, Google Jobs, Computrabajo, Indeed, Chiletrabajos, Torre
 - Filtra vacantes con máximo 50 candidatos
 - Genera `cv_gonzalo_[empresa].md` personalizado
-- Registra en `cv_job_links.md`
-
----
+- Registra en `cv_job_links.md` con portal de origen
 
 ### Ejemplo 2: Buscar empleo Full Stack
 
@@ -73,25 +83,11 @@ Este skill orquesta **4 agentes** que trabajan en secuencia para:
 /skill:job-hunter-linkedin "Full Stack Developer" "Chile" "Senior" "75" "Java React PostgreSQL Docker"
 ```
 
-**Resultado esperado:**
-- Busca empleos de "Full Stack Developer" en Chile
-- Filtra vacantes con máximo 75 candidatos
-- Personaliza el CV con habilidades en Java, React, PostgreSQL y Docker
-
----
-
 ### Ejemplo 3: Buscar empleo DevOps
 
 ```bash
 /skill:job-hunter-linkedin "DevOps Engineer" "Latinoamérica" "Senior" "100" "Docker Kubernetes GCP AWS Azure"
 ```
-
-**Resultado esperado:**
-- Busca empleos de "DevOps Engineer" en Latinoamérica
-- Filtra vacantes con máximo 100 candidatos
-- Genera CV enfocando experiencia en contenedores y cloud
-
----
 
 ### Ejemplo 4: Buscar empleo Flutter Mobile
 
@@ -99,37 +95,31 @@ Este skill orquesta **4 agentes** que trabajan en secuencia para:
 /skill:job-hunter-linkedin "Flutter Developer" "Chile" "Senior" "30" "Flutter Dart Firebase REST API"
 ```
 
-**Resultado esperado:**
-- Busca empleos de "Flutter Developer" en Chile
-- Filtra vacantes con máximo 30 candidatos
-- Personaliza CV resaltando experiencia en desarrollo móvil
-
----
-
-### Ejemplo 5: Buscar empleo con filtro estricto (pocos candidatos)
+### Ejemplo 5: Buscar con filtro estricto (pocos candidatos)
 
 ```bash
 /skill:job-hunter-linkedin "Backend Developer" "Santiago, Chile" "Senior" "25" "Java Spring Boot SQL Oracle"
 ```
-
-**Resultado esperado:**
-- Busca empleos con máximo 25 postulantes (vacantes más recientes/exclusivas)
-- Enfoca en posiciones que paguen bien por tener menos competencia
 
 ---
 
 ## 🔄 Pipeline de Agentes
 
 ```
-linkedin_job_scraper → job_analysis_reporter → resume_skills_customizer → cv_job_linkage_tracker
+multi_portal_scraper → job_analysis_reporter → resume_skills_customizer → cv_job_linkage_tracker
 ```
 
 ### Flujo Detallado
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│ Agente 1: linkedin_job_scraper                                 │
-│ ├─ Busca empleos en LinkedIn                                   │
+│ Agente 1: multi_portal_scraper                                 │
+│ ├─ Busca empleos en 7 portales simultáneamente                  │
+│ │  ├─ GetOnBoard (prioridad alta para tech)                    │
+│ │  ├─ LinkedIn (vía Google cache/páginas públicas)              │
+│ │  ├─ Google Jobs (fallback universal)                         │
+│ │  └─ Computrabajo, Indeed, Chiletrabajos, Torre               │
+│ ├─ Unifica + deduplica resultados                              │
 │ ├─ Filtra por location y experience_level                      │
 │ ├─ Verifica que candidatos < job_applicants                    │
 │ └─ Excluye empleos ya en cv_job_links.md                       │
@@ -155,7 +145,8 @@ linkedin_job_scraper → job_analysis_reporter → resume_skills_customizer → 
 │ Agente 4: cv_job_linkage_tracker                               │
 │ ├─ Lee cv_job_links.md existente                              │
 │ ├─ Verifica que el empleo no esté duplicado                   │
-│ ├─ Agrega nueva fila con: Fecha | Empresa | Título | URL | CV  │
+│ ├─ Agrega nueva fila con: Fecha | Empresa | Portal | Título   │
+│ │   | URL | CV | Estado                                       │
 │ └─ Guarda historial completo de postulaciones                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -167,7 +158,7 @@ linkedin_job_scraper → job_analysis_reporter → resume_skills_customizer → 
 | Archivo | Descripción | Ubicación |
 |---------|-------------|-----------|
 | `cv_gonzalo_[empresa].md` | CV personalizado por empleo | Directorio del proyecto |
-| `cv_job_links.md` | Historial de todas las postulaciones | Directorio del proyecto |
+| `cv_job_links.md` | Historial de todas las postulaciones (con portal) | Directorio del proyecto |
 
 ---
 
@@ -176,11 +167,11 @@ linkedin_job_scraper → job_analysis_reporter → resume_skills_customizer → 
 ```markdown
 # 📋 Registro de CVs Personalizados vs Empleos
 
-| Fecha | Empresa | Título del Puesto | URL LinkedIn | Archivo CV |
-|-------|---------|-------------------|--------------|------------|
-| 2026-04-27 | BC Tecnología | Backend Java Spring Boot | https://cl.linkedin.com/jobs/view/... | cv_gonzalo_bc_tecnologia.md |
-| 2026-04-27 | GFT Technologies | Senior Full Stack Java React | https://cl.linkedin.com/jobs/view/... | cv_gonzalo_gft_technologies.md |
-| 2026-04-27 | BancoConsorcio | Analista Desarrollador Fullstack Java | https://cl.linkedin.com/jobs/view/... | cv_gonzalo_consorcio.md |
+| Fecha | Empresa | Portal | Título del Puesto | URL | Archivo CV | Estado |
+|-------|---------|--------|-------------------|-----|------------|--------|
+| 2026-04-27 | BC Tecnología | GetOnBoard | Desarrollador Back-end Java Spring Boot | https://www.getonbrd.com/... | cv_gonzalo_bc_tecnologia.md | Enviado |
+| 2026-04-27 | GFT Technologies | Portal GFT | Senior Full Stack Java React | https://jobs.gft.com/... | cv_gonzalo_gft_technologies.md | Enviado |
+| 2026-04-28 | 2BRAINS | GetOnBoard | Software Engineer Back-end Senior | https://www.getonbrd.com/... | cv_gonzalo_2brains.md | Pendiente |
 ```
 
 ---
@@ -189,7 +180,7 @@ linkedin_job_scraper → job_analysis_reporter → resume_skills_customizer → 
 
 Usa cualquiera de estas frases para activar el skill:
 
-- "búscame empleo en LinkedIn"
+- "búscame empleo"
 - "busca trabajos de [título]"
 - "crea CV para [puesto]"
 - "optimiza mi CV para este empleo"
@@ -197,10 +188,22 @@ Usa cualquiera de estas frases para activar el skill:
 - "genera CV personalizado"
 - "encuentra vacantes de [título]"
 - "job hunter"
-- "linkedin jobs"
 - "buscar empleo automáticamente"
 - "encontrar trabajo como [título]"
 - "aplicar a [título] en [location]"
+- "búscame trabajo en [portal]"
+- "buscar empleo multi-portal"
+
+---
+
+## 🌐 Portales Detallados
+
+Consulta `.pi/skills/job-hunter-linkedin/PORTALS.md` para:
+- URLs de búsqueda específicas por portal
+- Estrategias de scraping por portal
+- Ventajas y limitaciones de cada portal
+- Flujo de ejecución optimizado
+- Deduplicación inteligente
 
 ---
 
@@ -211,23 +214,25 @@ Usa cualquiera de estas frases para activar el skill:
 3. **Selección única:** Solo genera 1 CV por ejecución (el mejor match)
 4. **Prioridad:** Empleos con menor número de candidatos tienen mayor prioridad
 5. **Fecha automática:** Usa YYYY-MM-DD para registrar la fecha actual
+6. **Portal de origen:** Siempre registra en qué portal se encontró el empleo
+7. **Deduplicación:** Si el mismo empleo aparece en múltiples portales, prefiere el que tenga más info
+8. **GetOnBoard prioridad:** Para puestos tech, es la fuente principal
 
 ---
 
 ## 🔧 Requisitos
 
 - Archivo `cv.md` debe existir en el directorio del proyecto
-- Conexión a internet para buscar en LinkedIn
+- Conexión a internet para buscar en múltiples portales
 - Proyecto configurado con estructura Pi.dev
 
 ---
 
 ## 📞 Soporte
 
-Para modificar o extender el skill, edita el archivo:
+Para modificar o extender el skill, edita los archivos:
 
 ```
-./.pi/skills/job-hunter-linkedin/SKILL.md
+./.pi/skills/job-hunter-linkedin/SKILL.md    ← Configuración principal
+./.pi/skills/job-hunter-linkedin/PORTALS.md  ← Portales soportados
 ```
-
-Allí encontrarás la configuración completa de cada agente, herramientas disponibles y flujos de trabajo.
