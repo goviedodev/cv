@@ -17,7 +17,7 @@ I work proficiently with **PostgreSQL**, **MySQL**, and **Oracle** — writing o
 
 ### Why Technorex Infoways
 
-I am looking for a remote team where I can apply my Java/Spring Boot expertise to build scalable, high-performance APIs while growing with the company. I thrive in collaborative environments and value clean code, code reviews, and continuous improvement.
+As an early-stage company turning ideas into reality across web, mobile, and enterprise software, Technorex Infoways offers exactly the environment where I thrive. In small, agile teams I can wear multiple hats — coding, reviewing, architecting, and mentoring — while having direct impact on product quality. Your stack (Java, Spring Boot, PostgreSQL, MySQL) aligns perfectly with my core expertise, and your remote-first culture allows me to contribute from Chile without friction. I am looking for a team where I can grow alongside the company, applying my Spring Boot experience to build scalable APIs while helping shape engineering best practices from the ground up.
 
 I am available to discuss how my experience can contribute to your team.
 
