@@ -15,3 +15,8 @@
 | 2026-05-13 | BairesDev | LinkedIn | Java Spring Boot Junior Developer | https://www.linkedin.com/jobs/view/4192199759 | cv_gonzalo_bairesdev.md | Pendiente |
 | 2026-05-13 | The Whiteam Consulting | LinkedIn | Desarrollador Backend - Java / Spring Boot | https://es.linkedin.com/jobs/view/desarrollador-backend-java-spring-boot-remoto-at-thewhiteam-4367275349 | cv_gonzalo_whiteam.md | Pendiente |
 | 2026-05-13 | Technorex Infoways | Wellfound | Senior JAVA Spring Boot Backend API Developer | https://wellfound.com/jobs/3214694-senior-java-spring-boot-backend-api-developer-remote | cv_gonzalo_technorex.md | Enviado |
+| 2026-05-18 | 2Brains | GetOnBoard | Desarrollador Full-Stack (Java + Angular + IA) | https://www.getonbrd.com/jobs/desarrollador-full-stack-java-angular-ia-2brains-santiago | 2brains/cv_gonzalo_2brains_fullstack_ia.md | Enviado |
+| 2026-05-18 | Tecnología y Personas | LinkedIn | Desarrollador/a Backend Java (Spring Boot) | https://es.linkedin.com/jobs/view/desarrollador-a-backend-java-spring-boot-at-tecnolog%C3%ADa-y-personas-4416099048 | tecnologia_personas/cv_gonzalo_tecnologia_personas.md | Enviado |
+| 2026-05-18 | Metrica España | LinkedIn | Backend Senior Java / Spring Boot | https://es.linkedin.com/jobs/view/backend-senior-java-spring-boot-100%25-remoto-at-metrica-4415602543 | metrica_espana/cv_gonzalo_metrica.md | Enviado |
+| 2026-05-18 | TECLA (Perú Remoto) | LinkedIn | Software Developer Engineer | https://pe.linkedin.com/jobs/view/software-developer-engineer-at-tecla-4415571310 | tecla_peru/cv_gonzalo_tecla_peru.md | Enviado |
+| 2026-05-18 | Khipu | GetOnBoard | Ingeniero Senior Full-Stack | https://www.getonbrd.com/jobs/ingeniero-senior-full-stack-khipu-remote-194a | khipu/cv_gonzalo_khipu.md | Enviado |
