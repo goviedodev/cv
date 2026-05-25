@@ -30,3 +30,4 @@
 | 2026-05-25 | BCTecnología | Computrabajo | Desarrollador FullStack Java (Microservicios Cloud) | https://cl.computrabajo.com/trabajo-de-desarrolladora?p=2#3AC67A087FAE03CE61373E686DCF3405 | bc-tecnologia_2/cv_gonzalo_bc_fullstack_cloud.md | Enviado |
 | 2026-05-25 | 2BRAINS (Acid Labs) | GetOnBoard | Software Engineer Back-end Senior | https://www.getonbrd.com/jobs/programming/software-engineer-backend-senior-2brains-remote-cf68 | 2brains/backend-senior-cf68/cv_gonzalo_2brains_backend_senior.md | Enviado |
 | 2026-05-25 | Lisit | GetOnBoard | Backend Developer Java + Spring Boot | https://www.getonbrd.com/jobs/programming/backend-developer-java-spring-boot-lisit-santiago | lisit/cv_gonzalo_lisit.md | Enviado |
+| 2026-05-25 | Remote Leverage | Directo | Full-Stack Engineer - Internal Tools Team | N/A (post-job directo) | remote-leverage/cv_gonzalo_remote_leverage.md | Enviado |
