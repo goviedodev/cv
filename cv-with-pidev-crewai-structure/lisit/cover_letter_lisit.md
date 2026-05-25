@@ -5,7 +5,7 @@ gonzalo.oviedo.dev@gmail.com | +56 9 6372 3603 | linkedin.com/in/gol
 
 Estimado equipo de Lisit,
 
-Postulo al puesto **Backend Developer Java + Spring Boot**. Mi experiencia se alinea con cada requisito:
+Postulo al puesto **Backend Developer Java + Spring Boot**. Me interesa Lisit por su foco en innovación y desafíos tecnológicos, su enfoque consultivo e integral en transformación digital, y especialmente el proyecto de plataforma de cupones digitales con arquitectura cloud en GCP —un reto backend que combina microservicios escalables, integración con terceros y cloud nativo, exactamente donde más puedo aportar. Mi experiencia se alinea con cada requisito:
 
 **Java 17+/Spring Boot/Microservicios:** 15+ años en el ecosistema. Perficient/Caterpillar con Java 21, Citibank con Spring, Seven IT con Spring Boot REST.
 
