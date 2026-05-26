@@ -31,3 +31,4 @@
 | 2026-05-25 | 2BRAINS (Acid Labs) | GetOnBoard | Software Engineer Back-end Senior | https://www.getonbrd.com/jobs/programming/software-engineer-backend-senior-2brains-remote-cf68 | 2brains/backend-senior-cf68/cv_gonzalo_2brains_backend_senior.md | Enviado |
 | 2026-05-25 | Lisit | GetOnBoard | Backend Developer Java + Spring Boot | https://www.getonbrd.com/jobs/programming/backend-developer-java-spring-boot-lisit-santiago | lisit/cv_gonzalo_lisit.md | Enviado |
 | 2026-05-25 | Remote Leverage | Directo | Full-Stack Engineer - Internal Tools Team | N/A (post-job directo) | remote-leverage/cv_gonzalo_remote_leverage.md | Enviado |
+| 2026-05-26 | Babel Group | Workday (LinkedIn) | Java Developer (Health) | https://babelgroup.wd103.myworkdayjobs.com/REC_External_Career_Site/job/MADRID/Java-Developer--Health-_JR107776?source=LinkedIn | babel/cv_gonzalo_babel_health.md | Pendiente |
