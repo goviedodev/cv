@@ -1,72 +1,72 @@
 **Gonzalo Oviedo Lambert**
-*Analista Desarrollador FullStack Java - Spring Boot - REST API - SQL - GCP*
-Limache, Región de Valparaíso, Chile | GMT-4 - UTC-4
-gonzalo.oviedo.dev@gmail.com | +56 9 6372 3603
-linkedin.com/in/gol | Inglés Intermedio B1
+*FullStack Developer - Java - Spring Boot - REST API - SQL - GCP*
+Limache, Valparaíso Region, Chile | GMT-4 - UTC-4
+goviedo.laboral@gmail.com | +56 9 6372 3603
+linkedin.com/in/gol | English Intermediate B1
 
-# Resumen Profesional
+# Professional Summary
 
-Soy un **Software Engineer Senior** con más de 15 años de trayectoria en el desarrollo de aplicaciones críticas y escalables. Mi experiencia core se centra en el ecosistema **Java (Spring Boot)**, complementada por una sólida especialización en **SQL (Oracle y PostgreSQL)** y diseño de **APIs RESTful** para sistemas de alta demanda.
+I am a **Senior Software Engineer** with over 15 years of experience building critical, scalable applications. My core expertise lies in the **Java (Spring Boot)** ecosystem, complemented by strong specialization in **SQL (Oracle and PostgreSQL)** and **RESTful API** design for high-demand systems.
 
-Trabajo diariamente con **harnesses de agentes de software** (Pi.dev, opencode), desempeñándome como un codificador con IA que aplica criterio, arquitectura y pensamiento profundo para orquestar agentes en la resolución de problemas complejos. Esta sinergia entre mi juicio técnico y flujos automatizados de IA me permite entregar soluciones backend robustas con mayor velocidad y calidad.
+I work daily with **software agent harnesses** (Pi.dev, opencode), acting as an AI-assisted coder who applies judgment, architecture, and deep thinking to orchestrate agents in solving complex problems. This synergy between my technical discernment and automated AI workflows allows me to deliver robust backend solutions with greater speed and quality.
 
-He contribuido en sectores de alta exigencia como **Finanzas (Citibank), EdTech (WebClass) y E-commerce (Perficient/Caterpillar)**. Mi perfil es integral (*Full-cycle*): infraestructura como código (**IaC**) usando **Pulumi en Google Cloud Platform**, y desarrollo de APIs escalables con **Spring Boot** y **Java 21**. Me apasiona crear plataformas robustas y adoptar tecnologías de alto rendimiento.
+I have contributed to high-stakes sectors including **Finance (Citibank), EdTech (WebClass), and E-commerce (Perficient/Caterpillar)**. My profile is full-cycle: infrastructure as code (**IaC**) using **Pulumi on Google Cloud Platform**, and scalable API development with **Spring Boot** and **Java 21**. I am passionate about building robust platforms and adopting high-performance technologies.
 
-# Habilidades Técnicas
+# Technical Skills
 
-**Habilidades Primarias**
-**Lenguajes:** Java (1.8 - 21), SQL
+**Primary Skills**
+**Languages:** Java (1.8 - 21), SQL
 **Frameworks:** Spring Boot (REST, MVC), Spring Beans
-**Bases de Datos:** PostgreSQL, Oracle PL/SQL
-**Cloud/Infraestructura:** Google Cloud (Pulumi IaC), Docker
-**APIs y Backend:** REST API Design, Microservicios, Gradle, Maven
-**AI Agentic:** Harnesses de agentes de software (Pi.dev, opencode)
+**Databases:** PostgreSQL, Oracle PL/SQL
+**Cloud/Infrastructure:** Google Cloud (Pulumi IaC), Docker
+**APIs & Backend:** REST API Design, Microservices, Gradle, Maven
+**AI Agentic:** Software agent harnesses (Pi.dev, opencode)
 
-**Habilidades Secundarias**
-**Lenguajes:** JavaScript (ES6+), Bash, Elixir
+**Secondary Skills**
+**Languages:** JavaScript (ES6+), Bash, Elixir
 **Frameworks:** Vue.js, Nuxt, React, Struts, Ash Framework
-**Infraestructura/Cloud:** Azure DevOps, AWS Lambda
-**Bases de Datos:** MongoDB, MySQL
+**Infrastructure/Cloud:** Azure DevOps, AWS Lambda
+**Databases:** MongoDB, MySQL
 **Blockchain:** Solidity, Internet Computer
 
-# Experiencia Reciente
+# Recent Experience
 
-**CTO & Co-founder** | *Startup de Movilidad* 2024 -- Presente
-**Tecnologías:** Elixir, Ash Framework, Flutter, Java 21 (Spring Boot), GraalVM, Google Cloud, Pulumi, Agentic AI con Pi.dev
+**CTO & Co-founder** | *Mobility Startup* 2024 -- Present
+**Tech Stack:** Elixir, Ash Framework, Flutter, Java 21 (Spring Boot), GraalVM, Google Cloud, Pulumi, Agentic AI with Pi.dev
 
-- Arquitectura y desarrollo de plataforma de movilidad potenciados por **Agentic AI con Pi.dev y opencode**, diseñando e implementando el ciclo de vida de agentes (skills, comandos, workflow) como harness de ejecución e integrando LLMs económicos para optimización de costos sin sacrificar rendimiento. Aplico criterio técnico y pensamiento arquitectónico para orquestar agentes en la construcción de APIs backend y lógica de negocio.
-- Construcción del stack tecnológico completo y liderazgo del equipo técnico.
-- Implementación de infraestructura en la nube automatizada con Pulumi.
+- Architected and developed a mobility platform powered by **Agentic AI with Pi.dev and opencode**, designing and implementing the full agent lifecycle (skills, commands, workflow) as an execution harness, integrating cost-efficient LLMs without sacrificing performance. Applied technical judgment and architectural thinking to orchestrate agents in building backend APIs and business logic.
+- Built the complete technology stack and led the technical team.
+- Implemented automated cloud infrastructure with Pulumi.
 
 **Java Associate Developer** | *Perficient - Caterpillar* 2022 -- 2023
-**Tecnologías:** Java 21 (Spring Boot)
+**Tech Stack:** Java 21 (Spring Boot)
 
-- Desarrollo y mantenimiento del sistema de e-commerce global usando Java y metodologías ágiles.
-- Colaboración en equipos multiculturales de EE.UU., India y Latinoamérica.
+- Developed and maintained a global e-commerce system using Java and agile methodologies.
+- Collaborated with multicultural teams across the US, India, and Latin America.
 
 **Java Specialist** | *Citibank* 2021 -- 2022
-**Tecnologías:** Java, Oracle SQL, Spring Beans, Jenkins, Jira, Confluence, Git, Eclipse, Gradle, Websphere
+**Tech Stack:** Java, Oracle SQL, Spring Beans, Jenkins, Jira, Confluence, Git, Eclipse, Gradle, Websphere
 
-- Desarrollo de soluciones para requerimientos mensuales usando framework interno (Java Bean Spring).
-- Creación y mantenimiento de reportes para clientes internos.
-- Migración de base de datos de Sybase a Oracle en equipo multicultural (EE.UU., Ucrania, India, Chile).
+- Developed solutions for monthly requirements using an internal framework (Java Bean Spring).
+- Created and maintained reports for internal clients.
+- Migrated database from Sybase to Oracle in a multicultural team (US, Ukraine, India, Chile).
 
 **CTO** | *Seven IT SpA (Hospital Cruz del Norte, SQM)* 2017 -- 2020
-**Tecnologías:** Spring Boot (REST, MVC), PostgreSQL 9.6, Linux, Google Cloud (VM), Gitlab, jQuery, JavaScript, Bootstrap, Vuetify
+**Tech Stack:** Spring Boot (REST, MVC), PostgreSQL 9.6, Linux, Google Cloud (VM), Gitlab, jQuery, JavaScript, Bootstrap, Vuetify
 
-- Dueño, gestor y desarrollador de Sistema de Gestión en Salud para control y registros de atención hospitalaria (medicina, enfermería, kinesiología).
-- Desarrollo de módulo de gestión de pagos e informes específicos para administración en PDF.
-- Liderazgo funcional y técnico gestionando equipo de 4 desarrolladores (front y backend).
+- Owner, manager, and developer of a Healthcare Management System for hospital care control and records (medicine, nursing, kinesiology).
+- Developed a payment management module and PDF administrative reports.
+- Functional and technical leadership managing a team of 4 developers (frontend and backend).
 
 **Java/Senior Developer** | *WebClass, Creasys, Coopeuch, Others* 2008 -- 2017
-**Tecnologías:** Java, AS/400, Struts, Hibernate, PostgreSQL, Oracle, SQL Server, Jenkins, Jira
+**Tech Stack:** Java, AS/400, Struts, Hibernate, PostgreSQL, Oracle, SQL Server, Jenkins, Jira
 
-- Desarrollo full-cycle: análisis de requerimientos, diseño, desarrollo, QA para banca, ed-tech y empresa.
-- Liderazgo de equipos y colaboración en entornos multiculturales (Santander, Ripley, Coopeuch).
-- Facturación electrónica, migraciones bancarias (AS/400 a Java), gestión de incidentes.
-- Generación de ventas adicionales a través de nuevas funcionalidades en plataformas educativas (1,800 escuelas).
+- Full-cycle development: requirements analysis, design, development, QA for banking, ed-tech, and enterprise.
+- Team leadership and collaboration in multicultural environments (Santander, Ripley, Coopeuch).
+- Electronic invoicing, bank migrations (AS/400 to Java), incident management.
+- Generated additional sales through new features in educational platforms (1,800 schools).
 
-# Educación
+# Education
 
-**Ingeniería en Ejecución en Computación e Informática** | Universidad del Bío Bío
-Tesis: Extreme Programming (XP) - Teoría y práctica.
+**Computer Engineering and Informatics** | Universidad del Bío Bío
+Thesis: Extreme Programming (XP) - Theory and Practice.

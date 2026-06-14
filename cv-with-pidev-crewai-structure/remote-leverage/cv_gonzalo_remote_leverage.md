@@ -1,8 +1,8 @@
-**Gonzalo Oviedo Lambert**
-*Software Engineer Senior - AI-Enhanced Full-Stack Developer*
-Limache, Región de Valparaíso, Chile | GMT-4 - UTC-4
-gonzalo.oviedo.dev@gmail.com | +56 9 6372 3603
-linkedin.com/in/gol | Inglés Intermedio B1
+- **Gonzalo Oviedo Lambert**
+- *Software Engineer Senior - AI-Enhanced Full-Stack Developer*
+- Limache, Región de Valparaíso, Chile | GMT-4 - UTC-4
+- goviedo.laboral@gmail.com | +56 9 6372 3603
+- linkedin.com/in/gol | Inglés Intermedio B1
 
 # Resumen Profesional
 

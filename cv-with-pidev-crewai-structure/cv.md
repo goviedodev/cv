@@ -1,16 +1,10 @@
-::: center
-**Gonzalo Oviedo Lambert**\
-*Analista Desarrollador FullStack Java - Flutter - Javascript - SQL -
-GCP*\
-Limache, Región de Valparaíso, Chile \| GMT-4 - UTC-4\
-[gonzalo.oviedo.dev@gmail.com](gonzalo.oviedo.dev@gmail.com) \| +56 9
-6372 3603\
-[linkedin.com/in/gol](https://www.linkedin.com/in/gol) \| Inglés
-Intermedio B1
-:::
+- **Gonzalo Oviedo Lambert**
+- *Analista Desarrollador FullStack Java - Flutter - Javascript - SQL - - GCP*
+- Limache, Región de Valparaíso, Chile GMT-4 - UTC-4
+- [goviedo.laboral@gmail.com](goviedo.laboral@gmail.com) +56 9 - 6372 3603
+- [linkedin.com/in/gol](https://www.linkedin.com/in/gol)  Inglés Intermedio B1
 
 # Resumen Profesional {#resumen-profesional .unnumbered}
-
 ------------------------------------------------------------------------
 
 Soy un **Software Engineer Senior** con más de 15 años de trayectoria en
@@ -29,7 +23,6 @@ plataformas robustas, explorar tecnologías emergentes como **Blockchain
 en busca de soluciones que agreguen valor real al negocio.
 
 # Habilidades Técnicas {#habilidades-técnicas .unnumbered}
-
 ------------------------------------------------------------------------
 
 **Habilidades Primarias**\
