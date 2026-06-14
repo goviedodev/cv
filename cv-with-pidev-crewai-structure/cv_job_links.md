@@ -33,3 +33,5 @@
 | 2026-05-25 | Remote Leverage | Directo | Full-Stack Engineer - Internal Tools Team | N/A (post-job directo) | remote-leverage/cv_gonzalo_remote_leverage.md | Enviado |
 | 2026-05-26 | Babel Group | Workday (LinkedIn) | Java Developer (Health) | https://babelgroup.wd103.myworkdayjobs.com/REC_External_Career_Site/job/MADRID/Java-Developer--Health-_JR107776?source=LinkedIn | babel/cv_gonzalo_babel_health.md | Enviado |
 | 2026-05-28 | FullStack (Connect) | talent.fullstack.com | Agentic Software Engineer (Google Antigravity) | https://talent.fullstack.com/jobs/4073ef37-4b8e-48b7-b5db-535efc7332c4 | connect-antigravity/cv_gonzalo_connect_antigravity.md | Enviado |
+| 2026-06-14 | Micro1 | jobs.micro1.ai | Software Developer | https://jobs.micro1.ai/post/981f9791-70f7-4e78-bd08-09bbe8c0ff25?referralCode=0e076a12-9902-4916-ad73-144a889e5956&utm_source=referral&utm_medium=share&utm_campaign=job_referral | micro1/cv_gonzalo_micro1.md | Generado |
+| 2026-06-14 | TCIT | GetOnBoard | Desarrollador/a Java (Spring Boot/AWS) | https://www.getonbrd.com/jobs/programming/desarrollador-a-java-spring-boot-aws-tcit-santiago | tcit/cv_gonzalo_tcit.md | Generado |

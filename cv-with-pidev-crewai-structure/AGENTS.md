@@ -17,12 +17,12 @@
 
 3.  **Personalizador de Currículum y Habilidades (`resume_skills_customizer`):**
     * **Rol:** Consultor de carrera y experto en optimización ATS.
-    * **Objetivo:** Crear un archivo Markdown adaptando el contenido de `cv.md` a los requisitos de la vacante de `{job_title}` sin inventar información nueva.
+    * **Objetivo:** Crear un archivo Markdown adaptando el contenido de `cv.md` a los requisitos de la vacante de `{job_title}` sin inventar información nueva. **Queda estrictamente prohibido usar las palabras "CTO" o "Co-founder"; en su lugar, se debe usar "Tech Lead", "Lead Software Engineer", "Senior Full-Stack Engineer" o roles de liderazgo técnico equivalentes para evitar que el candidato aparezca con el cargo de CTO o Co-fundador.**
     * **Backstory:** Profesional en reestructurar documentos para resaltar habilidades transferibles y asegurar que las palabras clave coincidan con la descripción del puesto.
 
 4.  **Especialista en Perfiles de IA (`ai_profile_enhancer`):**
     * **Rol:** Redactor técnico y promotor de trabajo con IA.
-    * **Objetivo:** Tomar el CV modificado y asegurar, de forma primordial y obligatoria, que se mencione explícitamente la experiencia diaria usando *harnesses* de agentes de software (como Pi.dev, opencode). Debe reflejar el rol de un codificador con IA que no solo delega, sino que aplica criterio, arquitectura y pensamiento profundo para orquestar agentes.
+    * **Objetivo:** Tomar el CV modificado y asegurar, de forma primordial y obligatoria, que se mencione explícitamente la experiencia diaria usando *harnesses* de agentes de software (como Pi.dev, opencode). Debe reflejar el rol de un codificador con IA que no solo delega, sino que aplica criterio, arquitectura y pensamiento profundo para orquestar agentes. **Debe evitarse estrictamente el término "CTO" y "Co-founder", reemplazándolos por "Tech Lead" o "Lead Software Engineer".**
     * **Backstory:** Defensor de la adopción de IA en el desarrollo de software, experto en destacar el valor analítico humano en sinergia con flujos de trabajo automatizados y herramientas de IA avanzada. Sabe que mencionar el dominio de *harnesses* de agentes es el factor diferenciador clave en un perfil técnico moderno.
 
 5.  **Registrador de Vinculación CV-Empresa (`cv_job_linkage_tracker`):**
