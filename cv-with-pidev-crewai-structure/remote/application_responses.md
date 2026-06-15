@@ -40,12 +40,15 @@ In my mobility startup role, I designed and maintained Elixir-based backends tha
 
 ## 4. Can you share an example of a product or project you led through collaboration with stakeholders, product, and design? Tell us about it.
 
-In my role as a **Tech Lead** at **Seven IT SpA**, I led the end-to-end development of a comprehensive Healthcare Management System for hospital administration and clinical staff. 
+In my recent role as a **Tech Lead & Lead Software Engineer** at a high-growth **Mobility Startup**, I led the end-to-end architecture and launch of our core on-demand transportation platform. 
 
-* **The Challenge:** The project required digitizing complex clinical workflows (medicine, nursing, physical therapy), tracking real-time patient care, managing payments, and producing administrative reports.
-* **Collaboration & Leadership:** I collaborated closely with non-technical stakeholders (hospital administrators, medical chiefs) and product owners to translate clinical regulations and operational requirements into precise technical specifications. I also worked hand-in-hand with frontend designers to create an intuitive, accessible user experience.
-* **Execution:** I led and mentored a team of 4 developers. We designed a robust backend REST API and integrated it with a modern frontend (using JavaScript and Vuetify) and a PostgreSQL database. 
-* **The Outcome:** We successfully shipped the platform on time, which successfully digitized healthcare management across multiple departments, reduced payment processing errors, and automated the generation of certified PDF medical reports.
+* **The Challenge:** Building a real-time, highly reliable mobility application (mobile apps for passengers/drivers and a web-based back office) required resolving complex logistical and technical puzzles. However, the greatest challenge lay in bridging technical execution with commercial viability, real-time dispatch operations, and strict regulatory compliance.
+* **Collaboration & Continuous Communication:** To align our engineering roadmap, I established a system of continuous communication and collaboration with key stakeholders across departments:
+  - **Commercial Engineer & General Manager (Sales Expert):** I collaborated daily to understand customer acquisition strategies and monetization goals. I translated pricing tiers, commission models, and sales performance indicators into concrete technical specifications and backend calculations.
+  - **Operations Manager:** We worked together to design real-time dispatcher dashboards, mapping integrations, and fleet monitoring tools, ensuring operational realities matched the software's performance and driver dispatch algorithms.
+  - **Legal Department:** Mobility is highly regulated. I worked closely with our legal team to map out data protection regulations, passenger liability terms, and electronic contract signature flows, ensuring our database schemas and API security designs were fully compliant before the public launch.
+  - **Product & Design:** I translated these multi-department inputs into actionable developer specs, partnering with UX/UI designers to craft frictionless driver and rider journeys (built on Flutter) and guiding our development team to implement them successfully.
+* **The Outcome:** Thanks to this continuous, cross-functional collaboration, we successfully launched a fully compliant, highly scalable mobility platform on schedule. By aligning technical design with business, operational, and legal guidelines, we achieved excellent user retention, optimal dispatch efficiency, and a solid foundation for continuous feature expansion.
 
 ---
 
