@@ -54,11 +54,13 @@ In my recent role as a **Tech Lead & Lead Software Engineer** at a high-growth *
 
 ## 5. Tell us about your proudest achievement from your last two years of work. Why are you proud of it?
 
-My proudest achievement from my recent work was **successfully redesigning our software delivery workflow to incorporate autonomous software agents as our default execution layer**, resulting in a **300% increase in development velocity** with zero regressions.
+My proudest achievement from my last two years of work was **architecting, building from scratch, and successfully launching into active production a complete, end-to-end carpooling ecosystem**—available live at [https://app.tellevoapp.cl](https://app.tellevoapp.cl).
 
-Instead of treating AI simply as a chat assistant, I designed and operationalized custom agentic workflows using **Pi.dev** and **opencode** harnesses:
-1. **The Workflow:** I established a rigorous end-to-end loop: **spec → plan → execute → verify**. 
-2. **Systemic Verification:** I built automated verification loops where agents were directed to write code, generate tests, and run static analyses, while I acted as the human-in-the-loop architect—providing high-level constraints, conducting deep code reviews, and applying guardrails.
-3. **Primitives & Scalability:** I developed reusable agentic primitives in our codebase, allowing the entire engineering team to safely delegate repetitive tasks across multiple business domains.
+* **The Scope and Architecture:**
+  - **Spring Boot Java Backend Services:** I designed and developed a robust, secure, and transactional backend from scratch using Java and Spring Boot. This backend handles critical operations including real-time ride matching algorithms, passenger/driver coordination, user authentication, and secure transaction tracking.
+  - **DevOps & Cloud Deployments (VPS & Google Cloud Run):** To ensure a cost-efficient yet highly scalable deployment strategy, I deployed the core application components across high-performance **VPS** environments, and successfully migrated and configured services on **Google Cloud Run** to leverage serverless auto-scaling and high availability.
+  - **2 Mobile Flutter Applications:** I engineered and published two distinct, feature-rich mobile applications using Flutter—one dedicated and optimized for drivers to manage trip plans and passenger dispatches, and another for riders to book and track trips in real time.
+  - **Complete SPA / PWA Frontend:** Finally, to maximize user accessibility across all device types and eliminate app-store friction, I built and launched a fully featured web version of the product as a Single Page Application (SPA) and Progressive Web App (PWA), which lives at [https://app.tellevoapp.cl](https://app.tellevoapp.cl).
 
-I am incredibly proud of this because it proved that when combined with human architectural judgment and rigorous verification loops, autonomous software agents can dramatically accelerate product delivery while maintaining absolute code quality, security, and scalability.
+* **Why I am proud of it:**
+  I am exceptionally proud of this project because it represents the ultimate full-cycle engineering achievement. Taking a highly complex mobility idea and single-handedly architecting the system, writing the code for two mobile apps, building a comprehensive web PWA, developing the backend services in Java, and managing the multi-environment deployments to VPS and Google Cloud Run was an incredible journey. Seeing the platform successfully launched in production with active users relying on it daily has been the most rewarding validation of my technical execution and architectural judgment.
