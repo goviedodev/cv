@@ -1,6 +1,6 @@
 - **Gonzalo Oviedo Lambert**
 - *Analista Desarrollador FullStack Java - Flutter - Javascript - SQL - - GCP*
-- Chile, Santiago GMT-4 - UTC-4
+- Limache, Región de Valparaíso, Chile GMT-4 - UTC-4
 - [goviedo.laboral@gmail.com](goviedo.laboral@gmail.com) +56 9 - 6372 3603
 - [linkedin.com/in/gol](https://www.linkedin.com/in/gol)  Inglés Intermedio B1
 

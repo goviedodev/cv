@@ -43,6 +43,7 @@
 * **Agente:** `multi_portal_scraper`
 * **Acción:** Buscar posiciones de `{job_title}` en `{location}` para el nivel `{experience_level}` en **TODOS** los portales soportados.
   - GetOnBoard (prioridad alta para tech)
+  - Computrabajo (https://cl.computrabajo.com/)
   - LinkedIn (vía Google cache/páginas públicas)
   - Google Jobs (fallback universal)
   - Computrabajo, Indeed, Chiletrabajos, Torre
@@ -116,4 +117,4 @@ Se generará/actualizará un archivo `cv_job_links.md` con el siguiente formato:
 
 ### FINAL INSTRUCCTION
 
-**Instrucción Final para Pi.dev o Coding Agent Harness:** Ejecuta estas tareas de forma secuencial, asegurando que el flujo de información sea constante entre agentes. Si una tarea depende del contexto de la anterior, no inicies la siguiente hasta recibir los datos necesarios. El Agente 1 debe buscar en TODOS los portales soportados antes de promover resultados 
+**Instrucción Final para Pi.dev o Coding Agent Harness:** Ejecuta estas tareas de forma secuencial, asegurando que el flujo de información sea constante entre agentes. Si una tarea depende del contexto de la anterior, no inicies la siguiente hasta recibir los datos necesarios. El Agente 1 debe buscar en TODOS los portales soportados antes de promover resultados

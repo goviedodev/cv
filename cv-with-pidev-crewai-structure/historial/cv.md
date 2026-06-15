@@ -1,17 +1,26 @@
 - **Gonzalo Oviedo Lambert**
 - *Analista Desarrollador FullStack Java - Flutter - Javascript - SQL - - GCP*
-- Chile, Santiago GMT-4 - UTC-4
+- Limache, Región de Valparaíso, Chile GMT-4 - UTC-4
 - [goviedo.laboral@gmail.com](goviedo.laboral@gmail.com) +56 9 - 6372 3603
 - [linkedin.com/in/gol](https://www.linkedin.com/in/gol)  Inglés Intermedio B1
 
 # Resumen Profesional {#resumen-profesional .unnumbered}
 ------------------------------------------------------------------------
 
-**Senior Backend Architect | Java & Spring Boot | AI-Driven Development**
-Llevo más de 15 años modernizando plataformas Java/Spring Boot y adaptandome
-continuamente con IA agéntica, incrementando la velocidad de codificación hasta 300%.
-Arquitectura de alto rendimiento, optimización de costos y modernización
-selectiva.
+Soy un **Software Engineer Senior** con más de 15 años de trayectoria en
+el desarrollo de aplicaciones críticas y escalables. Mi experiencia core
+se centra en el ecosistema **Java (Spring Boot)**, complementada por una
+sólida especialización en **SQL (Oracle y PostgreSQL)**.
+
+He contribuido en sectores de alta exigencia como **Finanzas (Citibank),
+EdTech (WebClass) y E-commerce (Perficient/Caterpillar)**. Mi perfil es
+integral (*Full-cycle*): infraestructura como código (**IaC**) usando
+**Pulumi en Google Cloud Platform**, y he liderado el desarrollo de
+interfaces modernas en su mayor parte con **Flutter**. Me apasiona crear
+plataformas robustas, explorar tecnologías emergentes como **Blockchain
+(ICP, Solidity)** y adoptar tecnologías de alto rendimiento como
+**Elixir y Ash Framework**. Disfruto trabajar en equipos colaborativos
+en busca de soluciones que agreguen valor real al negocio.
 
 # Habilidades Técnicas {#habilidades-técnicas .unnumbered}
 ------------------------------------------------------------------------
@@ -21,11 +30,13 @@ selectiva.
 **Frameworks:** Spring Boot\
 **Bases de Datos:** PostgreSQL, Oracle PL/SQL\
 **Cloud/Infraestructura:** Google Cloud (Pulumi IaC), Docker\
-**AI:** Agentic AI con Pi.dev, Opencode y Hermes\
+**AI:** Agentic AI con Pi.dev\
 **Habilidades Secundarias**\
-**Frameworks:** Flutter, Vue.js-Nuxt, React, Struts, Phoenix Elixir Framework\
+**Lenguajes:** JavaScript (ES6+), Bash, Elixir\
+**Frameworks:** Vue.js, Nuxt, React, Struts, Ash Framework\
 **Infraestructura/Cloud:** Azure DevOps, AWS Lambda\
 **Bases de Datos:** MongoDB, MySQL\
+**Blockchain:** Solidity, Internet Computer
 
 # Experiencia Reciente {#experiencia-reciente .unnumbered}
 
