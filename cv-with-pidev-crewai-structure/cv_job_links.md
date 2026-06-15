@@ -54,3 +54,4 @@
 | 2026-06-15 | LinkedIn | LinkedIn | Full Stack Developer (Node.js / React) | https://www.linkedin.com/jobs/view/post1-fullstack-node-react | fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react_es.md | Generado |
 | 2026-06-15 | LinkedIn | LinkedIn | Desarrollador Java Full Stack Senior | https://www.linkedin.com/jobs/view/post2-java-fullstack | fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java_es.md | Generado |
 | 2026-06-15 | N/A | Genérico | Generic CV (English) | N/A | generico/cv_gonzalo_generic_en.md | Generado |
+| 2026-06-15 | N/A | Genérico | Generic CV (Spanish) | N/A | generico/cv_gonzalo_generic_es.md | Generado |
