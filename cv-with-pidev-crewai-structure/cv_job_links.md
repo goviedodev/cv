@@ -51,3 +51,5 @@
 | 2026-06-15 | FCM Digital (FCM Travel) | Elixir Forum | Senior Elixir Backend Developer | https://elixirforum.com/t/senior-elixir-engineer-fcm-digital-spain-remote-europe/73988 | fcm-digital/cv_gonzalo_fcm_digital.md | Generado |
 | 2026-06-15 | LinkedIn | LinkedIn | Senior Java Full Stack Developer | https://www.linkedin.com/jobs/view/post2-java-fullstack | fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java.md | Generado |
 | 2026-06-15 | LinkedIn | LinkedIn | Full Stack Developer (Node.js / React) | https://www.linkedin.com/jobs/view/post1-fullstack-node-react | fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react.md | Generado |
+| 2026-06-15 | LinkedIn | LinkedIn | Full Stack Developer (Node.js / React) | https://www.linkedin.com/jobs/view/post1-fullstack-node-react | fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react_es.md | Generado |
+| 2026-06-15 | LinkedIn | LinkedIn | Desarrollador Java Full Stack Senior | https://www.linkedin.com/jobs/view/post2-java-fullstack | fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java_es.md | Generado |
