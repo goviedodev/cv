@@ -17,7 +17,7 @@ Senior Software Engineer and Lead Developer with over 15 years of experience spe
 
 ## Technical Skills
 
-- **Backend & Ecosystem:** Elixir, Phoenix Framework, Ash Framework, Java (1.8 - 21), Spring Boot, REST APIs, Web Services, Python, SQL.
+- **Backend & Ecosystem:** Elixir, Phoenix Framework, Java (1.8 - 21), Spring Boot, REST APIs, Web Services, Python, SQL.
 - **Frontend & Interfaces:** React, Next.js, Vue.js, JavaScript (ES6+), HTML5, CSS3, Flutter.
 - **Databases:** PostgreSQL (advanced), Oracle SQL, PL/SQL, MongoDB, MySQL, SQL Server.
 - **DevOps, Cloud & Infrastructure:** AWS (nice to have), Google Cloud Platform (GCP), GitLab CI/CD, Docker, Kubernetes, Pulumi (IaC), Git/GitHub.
@@ -29,8 +29,8 @@ Senior Software Engineer and Lead Developer with over 15 years of experience spe
 
 **Tech Lead & Lead Software Engineer** | *Mobility Startup*  
 *2024 -- Present*  
-**Technologies:** Elixir, Phoenix Framework, Ash Framework, PostgreSQL, Flutter, Java 21 (Spring Boot), Google Cloud Platform (GCP), Pulumi (IaC), Docker, Git.
-- Led the backend architecture and development of a high-throughput mobility platform built entirely with **Elixir, Phoenix, Ash Framework, and PostgreSQL**.
+**Technologies:** Elixir, Phoenix Framework, , PostgreSQL, Flutter, Java 21 (Spring Boot), Google Cloud Platform (GCP), Pulumi (IaC), Docker, Git.
+- Led the backend architecture and development of a high-throughput mobility platform built entirely with **Elixir, Phoenix, , and PostgreSQL**.
 - Redesigned software delivery workflows by introducing autonomous agents as the default execution layer, designing and orchestrating customized agent harnesses (**Pi.dev**, **opencode**) to manage the full agent lifecycle.
 - Operationalized robust agentic workflows end-to-end (**spec → plan → execute → verify**), establishing strict verification loops (automated tests, static checks, and guardrails) to guarantee that AI-generated code meets production grade.
 - Developed reusable agentic primitives within the codebase to accelerate features across multiple business domains, increasing engineering delivery speed by 300%.
