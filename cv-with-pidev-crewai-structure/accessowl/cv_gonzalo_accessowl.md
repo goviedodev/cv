@@ -43,6 +43,9 @@ Google Cloud**.Mi enfoque **"AI-native"** me diferencia: uso **harnesses de agen
 **Stack:** Elixir, Phoenix, Ash Framework, Flutter, Java 21 (Spring Boot), GraalVM, Google
 Cloud, Pulumi, Pi.dev
 
+- Desarrollo de **2 proyectos Elixir/Phoenix en producción**:
+  • **[www.tellevoapp.cl](https://www.tellevoapp.cl)** — sitio web completo con Elixir/Phoenix
+  • **[app.tellevoapp.cl](https://app.tellevoapp.cl)** — frontend completo construido íntegramente en **Phoenix LiveView**
 - Arquitectura y desarrollo de plataforma de movilidad desde cero usando **Elixir/Phoenix con LiveView** sobre
   la BEAM, diseñando interfaces server-rendered en tiempo real y sistemas concurrentes tolerantes a fallos.
 - Integración de **Agentic AI con Pi.dev** como harness de ejecución: diseñé e implementé el
