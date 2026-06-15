@@ -29,8 +29,8 @@ Senior Software Engineer and Lead Developer with over 15 years of experience spe
 
 **Tech Lead & Lead Software Engineer** | *Mobility Startup*  
 *2024 -- Present*  
-**Technologies:** Elixir, Phoenix Framework, , PostgreSQL, Flutter, Java 21 (Spring Boot), Google Cloud Platform (GCP), Pulumi (IaC), Docker, Git.
-- Led the backend architecture and development of a high-throughput mobility platform built entirely with **Elixir, Phoenix, , and PostgreSQL**.
+**Technologies:** Elixir, Phoenix Framework, PostgreSQL, Flutter, Java 21 (Spring Boot), Google Cloud Platform (GCP), Pulumi (IaC), Docker, Git.
+- Led the backend architecture and development of a high-throughput mobility platform built entirely with **Elixir, Phoenix, and PostgreSQL**.
 - Redesigned software delivery workflows by introducing autonomous agents as the default execution layer, designing and orchestrating customized agent harnesses (**Pi.dev**, **opencode**) to manage the full agent lifecycle.
 - Operationalized robust agentic workflows end-to-end (**spec → plan → execute → verify**), establishing strict verification loops (automated tests, static checks, and guardrails) to guarantee that AI-generated code meets production grade.
 - Developed reusable agentic primitives within the codebase to accelerate features across multiple business domains, increasing engineering delivery speed by 300%.

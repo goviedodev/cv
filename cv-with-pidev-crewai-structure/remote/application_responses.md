@@ -27,12 +27,12 @@ The synergy of these values creates an incredible work-life balance, allowing en
 
 ## 3. Our backend is built in Elixir. Could you share details about your experience with the language and your thoughts on it? If you don’t have experience with Elixir, how would you approach learning it, and what do you find appealing about functional programming?
 
-I have hands-on, professional experience developing and architecting with **Elixir, Phoenix, and Ash Framework** in my recent role as a Lead Software Engineer for a Mobility Startup.
+I have hands-on, professional experience developing and architecting with **Elixir and Phoenix Framework** in my recent role as a Lead Software Engineer for a Mobility Startup. To continuously expand my modern Elixir toolkit, I am also currently reading a book on the Ash Framework and exploring its ecosystem.
 
 My experience with Elixir has made it one of my favorite backend languages. I find several of its core paradigms incredibly compelling:
 * **Concurrency and Fault Tolerance:** The Erlang VM (BEAM), lightweight processes, and OTP supervisor trees make building self-healing, highly concurrent, and fault-tolerant applications incredibly simple compared to traditional thread-based ecosystems.
 * **Functional Purity & Predictability:** The combination of immutability, pattern matching, and the pipe operator (`|>`) leads to codebases that are clean, highly readable, and exceptionally easy to test and debug. 
-* **Rapid Productivity:** Phoenix and Ash Framework enable rapid full-stack iteration without sacrificing the performance, low latency, and low memory consumption necessary for high-throughput production environments.
+* **Rapid Productivity:** Phoenix enables rapid full-stack iteration without sacrificing the performance, low latency, and low memory consumption necessary for high-throughput production environments.
 
 In my mobility startup role, I designed and maintained Elixir-based backends that integrated complex third-party APIs and managed persistent database transactions with PostgreSQL, demonstrating how Elixir can power critical infrastructure smoothly.
 
