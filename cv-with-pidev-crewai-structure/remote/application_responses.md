@@ -16,10 +16,10 @@ Second, I am highly inspired by Remote's explicit commitment to innovation and A
 
 ## 2. Remote is a value-driven company. Have you seen our values page? (https://remotecom.notion.site/Values-d43475e8895c4b7c811490aef64782b3) What resonates with you most?
 
-Of Remote’s core values, **Ownership** and **Kindness** resonate with me most deeply.
+Of Remote’s core values, **Transparency** and **Excellence** resonate with me most deeply.
 
-* **Ownership:** In a fully asynchronous, globally distributed environment, ownership is the cornerstone of success. To me, ownership means defaulting to action, writing clear specifications, defining precise execution plans, and ensuring robust verification loops without needing daily standups or constant supervision. It is about being fully accountable for the outcomes—from understanding stakeholder requirements to shipping secure, reliable, and scalable code.
-* **Kindness:** Innovation and high performance can only thrive in a supportive, empathetic, and inclusive workspace. Practicing kindness means active listening, providing constructive and encouraging feedback during code reviews, mentoring colleagues, and fostering an environment where team members feel safe to challenge dogmas and propose bold improvements.
+* **Transparency:** As an asynchronous-first team, transparency is not optional; it is the absolute foundation of trust. Keeping all technical decisions, documentation, goals, and conversations open and accessible ensures that every team member remains aligned, empowered to take action, and fully capable of operating independently and synchronously toward collective goals.
+* **Excellence:** I firmly believe that true excellence is a collaborative sport. I am a strong advocate for teamwork because a single mind working in isolation is nothing compared to the power of multiple minds thinking and building together. True excellence arises when diverse perspectives collaborate, brainstorm, and challenge one another through robust design discussions and constructive code reviews, elevating the quality of the final product far beyond what any single engineer could achieve alone.
 
 The synergy of these values creates an incredible work-life balance, allowing engineers to put their family and life first while delivering world-class outcomes asynchronously.
 
