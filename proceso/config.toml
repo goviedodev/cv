@@ -1,0 +1,29 @@
+# Configuración del tracker de postulaciones.
+# Los valores de [general] alimentan los umbrales de src/stats.py.
+
+[general]
+# Postulaciones por semana que consideras tu meta.
+meta_semanal = 5
+# Días sin ningún evento nuevo antes de que `track pending` sugiera seguimiento.
+umbral_seguimiento_dias = 7
+# Días en estado "postulado" sin respuesta antes de considerarla sin_respuesta.
+umbral_sin_respuesta_dias = 21
+# Ningún segmento con menos postulaciones que esto reporta un porcentaje
+# en `track stats` — evita leer ruido como señal.
+min_muestra = 5
+
+[portales]
+# Solo para autocompletar en `track add`; se puede escribir cualquier otro valor.
+opciones = [
+  "GetOnBoard",
+  "Computrabajo",
+  "LinkedIn",
+  "Michael Page",
+  "RemoteOK",
+  "Indeed",
+  "Trabajando",
+  "Himalayas",
+  "ElixirRadar",
+  "Directo",
+  "Referido",
+]
