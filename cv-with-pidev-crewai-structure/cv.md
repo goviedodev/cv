@@ -13,20 +13,6 @@ continuamente con IA agéntica, incrementando la velocidad de codificación hast
 Arquitectura de alto rendimiento, optimización de costos y modernización
 selectiva.
 
-# Habilidades Técnicas {#habilidades-técnicas .unnumbered}
-------------------------------------------------------------------------
-
-**Habilidades Primarias**\
-**Lenguajes:** Java (1.8 - 21), SQL\
-**Frameworks:** Spring Boot\
-**Bases de Datos:** PostgreSQL, Oracle PL/SQL\
-**Cloud/Infraestructura:** Google Cloud (Pulumi IaC), Docker\
-**AI:** Claude Code (plan Max, uso intensivo) — harness principal; Agentic AI con Pi.dev y Opencode\
-**Habilidades Secundarias**\
-**Frameworks:** Flutter, Vue.js-Nuxt, React, Struts, Phoenix Elixir Framework\
-**Infraestructura/Cloud:** Azure DevOps, AWS Lambda\
-**Bases de Datos:** MongoDB, MySQL\
-
 # Experiencia Reciente {#experiencia-reciente .unnumbered}
 
 ------------------------------------------------------------------------
@@ -46,6 +32,8 @@ GraalVM, Google Cloud, Pulumi, Claude Code (plan Max), Agentic AI con Pi.dev\
   técnico.
 
 - Implementación de infraestructura en la nube automatizada con Pulumi.
+
+- Integración de medios de pago (Transbank, Khipu) en Java y Flutter.
 
 **Java Associative Developer** \| *Perficient - Caterpillar* 2022 --
 2023\
@@ -83,22 +71,80 @@ Cloud (VM), Gitlab, jQuery, JavaScript, Bootstrap, Vuetify\
 - Liderazgo funcional y técnico gestionando equipo de 4 desarrolladores
   (front y backend).
 
-**Java/Senior Developer** \| *WebClass, Creasys, Coopeuch, Others* 2008
--- 2017\
-**Tecnologías:** Java, AS/400, Struts, JSP, Hibernate, PHP, PostgreSQL, Oracle,
-SQL Server, Jenkins, Jira\
+**Director y Desarrollador de Ficha Clínica** \| *Hospital Cruz del
+Norte (SQM)* 2016 -- 2017\
+**Tecnologías:** ExtJs, Java, PostgreSQL\
 
-- Desarrollo full-cycle: análisis de requerimientos, diseño, desarrollo,
-  QA para banca, ed-tech y empresa.
+- Rol integral de jefe, líder funcional y técnico, analista, desarrollador,
+  diseñador e infraestructura, cubriendo desde la gerencia hasta la puesta
+  en marcha.
 
-- Liderazgo de equipos y colaboración en entornos multiculturales
-  (Santander, Ripley, Coopeuch).
+- Creación de empresa y jefatura de personal.
 
-- Facturación electrónica, migraciones bancarias (AS/400 a Java),
+- Construcción de POS (Caja): interfaz desktop por web usando ExtJs,
+  cálculo de índices personalizados de stock y cargas masivas.
+
+**UX/UI Designer & Full Stack Developer** \| *Nubox Facturación
+Electrónica* 2014 -- 2017\
+**Tecnologías:** HTML, SASS/CSS, React, jQuery\
+
+- Establecimiento y supervisión de las directrices de interfaz gráfica de
+  la nueva generación de aplicaciones Nubox: creación de estilos
+  gráficos, mockups e iconografía e implementación de vistas front-end.
+
+- Desarrollo del nuevo sitio web para Colombia y su reportería contable:
+  construcción de reportes de negocio específicos por requerimiento,
+  interacción del sitio y generación del estilo visual.
+
+- Compatibilización del sitio web a nivel país con el navegador Chrome,
+  ampliando la entrada de nuevos usuarios a la plataforma de Facturación
+  Electrónica.
+
+**Analista y Desarrollador** \| *Cencosud S.A. (Cadena de
+Supermercados)* 2015 -- 2016\
+**Tecnologías:** ExtJs\
+
+- Desarrollo de software web de gestión de stock personalizado para la
+  cadena de supermercados Cencosud S.A.
+
+- Generación de interfaz desktop por web usando ExtJs y cálculo de
+  índices personalizados de stock y cargas masivas.
+
+**Ingeniería de Software** \| *Portal Inmobiliario* 2008 -- 2016\
+**Tecnologías:** SQL Server Reporting Services\
+
+- Desarrollo de aplicaciones web, personalización de documentos y
+  generación de reportes con SQL Server Reporting Services.
+
+- Construcción de Seguidor Web, herramienta de gestión y administración
+  para corredores de propiedades.
+
+**Analista de Sistemas Bancarios** \| *Santander / Isban* 2000 -- 2017\
+**Tecnologías:** Java, AS/400, Struts, JSP, Hibernate, PHP, PostgreSQL,
+Oracle, SQL Server, Jenkins, Jira\
+
+- 17 años en el sector financiero atendiendo requerimientos de Préstamos,
+  Medios de Pago, Cuentas Corrientes y Tarjetas de Crédito.
+
+- Atención a países como Chile, Puerto Rico, Colombia, Uruguay y
+  Venezuela.
+
+- Facturación electrónica, migraciones bancarias (AS/400 a Java) y
   gestión de incidentes.
 
-- Generación de ventas adicionales a través de nuevas funcionalidades en
-  plataformas educativas (1,800 escuelas).
+# Habilidades Técnicas {#habilidades-técnicas .unnumbered}
+------------------------------------------------------------------------
+
+**Habilidades Primarias**\
+**Lenguajes:** Java (1.8 - 21), SQL\
+**Frameworks:** Spring Boot\
+**Bases de Datos:** PostgreSQL, Oracle PL/SQL\
+**Cloud/Infraestructura:** Google Cloud (Pulumi IaC), Docker\
+**AI:** Claude Code (plan Max, uso intensivo) — harness principal; Agentic AI con Pi.dev y Opencode\
+**Habilidades Secundarias**\
+**Frameworks:** Flutter, Vue.js-Nuxt, React, Struts, Phoenix Elixir Framework\
+**Infraestructura/Cloud:** Azure DevOps, AWS Lambda\
+**Bases de Datos:** MongoDB, MySQL\
 
 # Educación {#educación .unnumbered}
 
