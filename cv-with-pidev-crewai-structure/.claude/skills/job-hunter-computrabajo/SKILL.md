@@ -1,0 +1,1 @@
+../../../.pi/skills/job-hunter-computrabajo/SKILL.md

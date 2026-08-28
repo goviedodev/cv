@@ -1,0 +1,725 @@
+===============================================================================
+ ESTADISTICAS DE AUTOPOSTULACION - GETONBOARD (getonbrd.com)
+ Candidato: Gonzalo Oviedo Lambert
+   perfil/cuenta: goviedo.sevenit@gmail.com  ·  CVs: goviedo.laboral@gmail.com
+ Ultima actualizacion: 2026-08-14
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. ESTADO ACTUAL (fuente: getonbrd.com/applications)
+-------------------------------------------------------------------------------
+
+  EMBUDO REAL (vista Board de /applications, leida 2026-08-14):
+
+    Drafts (enviada pero incompleta) ....  1
+    Sent ................................ 72
+    In conversation .....................  1
+    Hired ...............................  0
+    Finished processes ..................  2
+    Withdrawn ........................... 10
+                                          ---
+    TOTAL ............................... 86
+
+    Tasa de conversacion ... 1/86 = 1,2%
+    Tasa de contratacion ... 0/86 = 0%
+
+  OJO: la vista "List" pagina a ~61 filas y NO muestra el total. Las cifras
+  de rondas anteriores (59 baseline, "63 acumuladas", "66 acumuladas") salian
+  de contar la pagina 1 y estaban SUBESTIMADAS. Usar siempre la vista Board,
+  que trae los contadores por columna.
+
+  Aportes por ronda (fecha de envio):
+    - R1 2026-08-03 .... 59 (aprox., fecha "Aug 3")
+    - R2 2026-08-10 ....  4
+    - R3 2026-08-14 ....  3
+    El resto del total son postulaciones anteriores a agosto (Apr, May,
+    Jun 15, Jul 28-30) visibles solo en la vista Board.
+
+  PENDIENTE DE ACCION:
+    - 1 DRAFT sin completar desde el 2026-08-03: "Software Engineer" en
+      Lupa Hire. Nunca se pulso "Send application now": la empresa NO la
+      ha recibido. Decidir si completarla o descartarla.
+    - 1 EN CONVERSACION con mensaje sin responder (segun el contador "1"):
+      "Technical Lead / Head of Technology" en Niuro, Remote (South America,
+      Central America or Mexico), 3000-3500 USD/mes, enviada hace 11 dias.
+      Es la unica postulacion que ha avanzado de estado en todo el historial.
+
+  Procesos cerrados (2): Desarrollador Full-Stack Back-end/Cloud (Agilistik,
+  Aug 3) y Desarrollador/a Java Senior (TCIT, Jun 14). Nota: TCIT ya cerro
+  un proceso por un cargo Java Senior casi identico al que se postulo en R3.
+
+  Estados observados en la vista List: SENT, SEEN, PROCESS FINISHED, DELETED,
+  DRAFT. En la pagina 1 (59 filas): 35 SENT, 17 SEEN, 7 DELETED -> ~29% de
+  las postulaciones fueron abiertas por el reclutador.
+
+
+-------------------------------------------------------------------------------
+1.b ANALISIS DE EFECTIVIDAD (2026-08-14, n=88, fuente /applications.json)
+-------------------------------------------------------------------------------
+
+  FUENTE DE DATOS: GET /applications.json (misma sesion, sin API key) devuelve
+  las 88 postulaciones con read, messages_count, closure, in_conversation,
+  hired, deleted, wip_application y el objeto job anidado. Es MUCHO mejor que
+  raspar la parrilla: /api/v0/applications da 401.
+
+  EMBUDO
+    Enviadas ....................... 88
+    Leidas por el reclutador ....... 37   (42,0%)
+    Con mensaje de la empresa ...... 13   (14,8%)
+    Procesos cerrados ..............  5
+    Contrataciones .................  0   (0%)
+
+  >>> EL CUELLO DE BOTELLA NO ES EL VOLUMEN NI LA VISIBILIDAD.
+      El 42% abre la postulacion. El problema es lo que pasa DESPUES de
+      abrirla: solo 1 de cada 3 lecturas termina en mensaje, y ninguna en
+      contratacion. Apunta al CV y a la carta, no a postular mas.
+
+  POR MODALIDAD (leidas / con mensaje)
+    hybrid ............ n=47   51% leidas   8 mensajes
+    remote_local ...... n=23   39% leidas   3 mensajes
+    fully_remote ...... n=18   22% leidas   2 mensajes
+    -> Las remotas globales son el peor canal: mas competencia (cientos de
+       postulantes) y menos lectura. Priorizar hibrido Santiago y remoto
+       local Chile.
+
+  POR BANDA SALARIAL PUBLICADA (leidas)
+    techo < 2500 ........ n=6    67% leidas   3 mensajes
+    sin rango ........... n=32   53% leidas   6 mensajes
+    techo 2500-3499 ..... n=27   37% leidas   2 mensajes
+    techo 3500-4499 ..... n=13   38% leidas   2 mensajes
+    techo >= 4500 ....... n=10   10% leidas   0 mensajes
+    -> Correlacion clara e inversa: cuanto mas alta la banda publicada,
+       menos lo leen. Las 10 postulaciones a ofertas de 4500+ USD son
+       esfuerzo perdido (1 lectura, 0 mensajes). DEJAR DE POSTULAR AHI.
+
+  POR TIPO DE ROL
+    IC (dev/engineer) ... n=70   43% leidas   11 mensajes
+    Lead / Arquitecto ... n=18   39% leidas    2 mensajes
+    -> Los cargos de liderazgo NO estan rindiendo mas que los de IC.
+
+  EMPRESAS: ALTO VOLUMEN, RETORNO CERO
+    BC Tecnologia ... 13 postulaciones ->  4 leidas, 0 mensajes
+    Coderslab.io ....  9 postulaciones ->  1 leida,  0 mensajes
+    -> 22 de 88 postulaciones (25% del esfuerzo total) con retorno CERO.
+       Son consultoras que publican mucho y no responden. Excluirlas.
+
+  EMPRESAS QUE SI RESPONDEN (mensaje recibido)
+    Niuro (5 post -> 2 mensajes), 42Labs (3 -> 2), TCIT (5 -> 1),
+    Khipu (2 -> 2), 3IT, WiTi, Agilistik, Caterpillar.
+    -> Niuro y 42Labs son los mejores canales por tasa de respuesta.
+       Caterpillar "Java Developer" tiene mensaje y sin cierre: es su
+       ex-cliente via Perficient, revisar ese hilo.
+
+  ACCIONES RECOMENDADAS
+    1. Responder el hilo de Niuro (Technical Lead / Head of Technology,
+       3000-3500 USD): unica conversacion activa del historial.
+    2. Decidir el DRAFT de Lupa Hire (Aug 3, nunca enviado).
+    3. Dejar de postular a BC Tecnologia y Coderslab.io.
+    4. Dejar de postular a ofertas con techo >= 4500 USD.
+    5. Trabajar el CV/carta antes que el volumen: la lectura ya es del 42%.
+
+
+-------------------------------------------------------------------------------
+2. HISTORIAL
+-------------------------------------------------------------------------------
+
+  2026-08-03  R1: 59 postulaciones (ronda previa, sin bitacora detallada).
+
+  2026-08-10  R2: 4 postulaciones NUEVAS.
+              Peticion del candidato: "postula solo lo que diga Aug" sobre
+              https://www.getonbrd.com/myjobs
+              Universo: 50 ofertas en /myjobs -> 10 con fecha de agosto.
+              Las 10 estaban SIN postular (boton "Apply now") y las 10 son
+              Fully remote / any location, asi que ninguna cayo por modalidad.
+
+              ENVIADAS (4):
+                1. Software Engineer - LemonTech
+                   Remote (Any location) · sin rango publicado
+                   Salario declarado: 3000 USD brutos/mes · carta en espanol
+                2. Semi Senior Front-end Software Engineer - Puente Talent Partners
+                   Remote · $2500-3000 · edtech, migracion de plataforma de 1 ano
+                   Salario declarado: 2800 USD · carta y reason EN INGLES
+                   (el aviso exige "Requires applying in English")
+                3. Sr React Developer (Ingles Intermedio) E-commerce - Smith
+                   Remote · sin rango publicado · trabaja con equipos de
+                   Canada y EE.UU.
+                   Salario declarado: 3000 USD · carta y reason EN INGLES
+                   Pregunta de la empresa: "Tienes experiencia trabajando en
+                   ingles?" -> respondida "Si" (veraz: equipos distribuidos
+                   EE.UU./India en Perficient/Caterpillar; aviso pide ingles
+                   intermedio y su nivel es B1)
+                4. Developer - Magnar
+                   Remote · $1200-2000 · alcance acotado a scraping de
+                   fuentes publicas (jurisprudencia y normativa LATAM)
+                   Salario declarado: 2000 USD (techo del rango publicado)
+                   GAP DECLARADO en la carta y en el reason: experiencia
+                   especifica en frameworks de scraping acotada; fortaleza
+                   en HTTP, parsing, modelado de datos y robustez operacional.
+
+              DESCARTADAS (6) con motivo:
+                - GTM Engineer / AI-first Growth Marketer (Puente): es un rol
+                  de growth marketing, no de ingenieria de software.
+                - AI Native Marketing & Content Lead (OMNIX AI Corp): rol de
+                  marketing y contenidos.
+                - VTEX Software Architect (2BRAINS): el core es liderar el
+                  relevamiento de 17 implementaciones VTEX; plataforma que el
+                  candidato no domina (mismo criterio que Prestashop/Shopify).
+                - Shopify Developer (JOUSFIT): especialista de plataforma.
+                - Computer Vision (OpenCV, DeepStream, Yolo) (SUPRA): gap real
+                  de ML/vision por computador.
+                - Especialista WordPress (Lisit): stack excluido.
+
+
+  2026-08-14  R3: 3 postulaciones NUEVAS.
+              Peticion del candidato: abrir getonbrd con el perfil Chrome 17
+              (goviedo.laboral@gmail.com) y postular en modo automatico.
+              Lote completo autorizado por el candidato: sin confirmacion
+              oferta por oferta antes de "Send application now".
+              Universo: 324 ofertas de /api/v0/categories/programming/jobs
+              (20 paginas) -> 68 candidatas vigentes (<=21 dias, no in-office,
+              techo >= 1900 USD, titulo afin).
+
+              ENVIADAS (3):
+                1. Senior Java/Spring Boot - TCIT
+                   Santiago (Hybrid) · $2300-3000 · 20 postulantes
+                   Salario declarado: 2900 USD (tercio superior del rango)
+                   Carta y respuestas EN ESPANOL. Formulario de 4 pasos.
+                   GAPS DECLARADOS: produccion en GCP con Pulumi, no AWS con
+                   Terraform/CloudFormation; exposicion a AWS acotada (Lambda).
+                   Preguntas de la empresa (3):
+                     - "Cuenta con experiencia en AWS?" -> Si (AWS Lambda
+                       figura en habilidades secundarias del CV). La carta se
+                       reescribio para no contradecir esta respuesta.
+                     - Experiencia Java/Spring Boot -> 727 chars
+                     - Pretension de renta liquida -> $2.300.000-$2.400.000 CLP
+                       liquidos, declarado como equivalente a los 2900 USD
+                       brutos del formulario.
+                2. Back-end Developer (Java/Spring Boot) - 42Labs
+                   Santiago (Hybrid) · sin rango publicado · 49 postulantes
+                   Salario declarado: 3000 USD (tabla, cargo Senior)
+                   Carta EN ESPANOL (el aviso marca "Requires applying in
+                   Spanish"). Sin preguntas de empresa.
+                   GAPS DECLARADOS: sin experiencia productiva en Apigee ni
+                   Azure Functions; Python de apoyo, no de produccion; Azure
+                   limitado a Azure DevOps.
+                3. Desarrollador/a Full-Stack (Semi Senior/Senior) - TiMining
+                   Remote (Chile) · sin rango publicado · 33 postulantes
+                   Salario declarado: 2800 USD
+                   Carta y reason EN INGLES (el aviso marca "Requires applying
+                   in English").
+                   Encaje fuerte: el aviso es agnostico de lenguaje ("se valora
+                   Golang pero no es excluyente, puede venir de Java") y exige
+                   uso activo de IA en el flujo diario, "no es un rol para
+                   venir a aprender IA" -> diferencial central del candidato.
+                   GAPS DECLARADOS: sin Golang en produccion, sin dominio
+                   minero.
+
+              DESCARTADAS (7) con motivo:
+                - Desarrollador Back-end Java/Quarkus (Agilesoft): el portal
+                  responde "Your country doesn't match the job's location",
+                  exige residir en Republica Dominicana.
+                - Java Developer (Jasperreports) (42Labs): requisito nucleo
+                  "3 anos comprobables en JasperReports/Jaspersoft Studio",
+                  herramienta ausente del CV. Ademas cargo Semi Senior.
+                - Senior Back-end Developer (2BRAINS): stack nucleo Node.js
+                  (Nest.js) + TypeScript, y pide ser referente tecnico que
+                  mentoriza en ese stack. Sin Node/Nest/TS en el CV.
+                - Tech Lead Reemplazo Pre/Post Natal (Cumplo): conocimientos
+                  marcados OBLIGATORIOS = Node.js, Strapi, React+Chakra UI,
+                  Zustand/Redux, AWS. Ademas ya se postulo al Tech Lead de
+                  Cumplo el 2026-08-03 (misma posicion, variante de reemplazo).
+                - Software Engineer (NeuralWorks): nucleo Python + Next/React.
+                  Python como core esta en la lista de exclusion del skill.
+                - Ingeniero de Software (Agilistik): marca como EXCLUYENTES
+                  Node.js, Python, Angular y AWS (S3, Redshift, Data Lake,
+                  Step Functions, Lambda, API Gateway, IAM, SQS, SNS,
+                  EventBridge). Redshift es gap declarado del perfil.
+                - Full-Stack Developer Next/Nest (2BRAINS): exige dominio de
+                  NestJS/Node y React avanzado, mas Azure API Management y
+                  Kubernetes (Kubernetes en produccion es gap conocido).
+
+              CATALOGO JAVA AGOTADO: barrido completo de las 324 ofertas por
+              titulo y tags java|spring|quarkus|jboss|elixir|phoenix -> 18
+              vigentes. Verificadas una a una con #apply_bottom: todas las no
+              enviadas en esta ronda devuelven "See your application" (ya
+              postuladas en R1/R2), salvo bside "Desarrollador Java/Spring +
+              Angular" que devuelve "Your country doesn't match the job's
+              location".
+
+
+-------------------------------------------------------------------------------
+3. NOTAS METODOLOGICAS DEL FLUJO DE POSTULACION (verificado 2026-08-10)
+-------------------------------------------------------------------------------
+
+  El formulario NO siempre tiene 3 pasos: puede tener 4 cuando la empresa
+  agrega preguntas propias.
+     1 Experience -> 2 Basic information -> [3 Questions] -> Preview
+
+  * Paso Experience: el professional background viene PRELLENADO con el texto
+    de la postulacion anterior y suele nombrar OTRO cargo (venia como
+    "Senior Full-Stack Engineer"). Hay que adaptarlo al cargo real de la
+    oferta. Editar con t.editor.loadHTML(...) sobre #trix-professional,
+    nunca escribiendo el input hidden.
+
+  * El paso final NO es una pagina: tras "Next: Review and send" el portal
+    redirige a /applications?job_application_preview=true#<hash> y abre un
+    MODAL. La postulacion queda en estado DRAFT hasta pulsar el boton
+    "Send application now" DENTRO de ese modal.
+    ATENCION: ese boton NO se encuentra por querySelector desde eval
+    (devuelve lista vacia); si aparece en el snapshot de accesibilidad.
+    => localizarlo con `chrome-devtools-axi snapshot --full | grep "Send application now"`
+       y pulsarlo con `click @<uid>` (clic real del navegador).
+    Verificado: al saltarse este paso, LemonTech quedo en DRAFT y no se
+    habia enviado nada.
+
+  * La URL .../edit?step=preview NO lleva al preview: rebota al paso 1.
+    Para retomar un borrador usar .../edit?step=basic y avanzar con
+    #submit-btn.
+
+  * Comilla simple en el JS pasado a `eval` desde el shell: un apostrofo
+    (p. ej. "Caterpillar's") rompe el comando con parse error. Redactar sin
+    apostrofos.
+
+  * Verificacion de cierre: releer /applications y contar las filas con la
+    fecha del dia; comprobar ademas que no queda ninguna fila en DRAFT.
+
+
+  NUEVO EN R3 (verificado 2026-08-14):
+
+  * CHECKBOX OBLIGATORIO confirm_residency en el paso Basic. En ofertas
+    localizadas (Chile) aparece un checkbox #confirm_residency con el texto
+    "I certify that I have a legal work permit in Chile". Mientras no este
+    marcado, #submit-btn queda DISABLED y el clic no hace nada, sin mostrar
+    ningun mensaje de error visible. Diagnostico:
+      form.checkValidity() -> listar los elementos con !checkValidity()
+    Es veraz para el candidato (reside y trabaja en Chile). Marcarlo con
+    c.click() antes de pulsar Next.
+
+  * Localizar los textareas de las preguntas de empresa por
+    t.previousElementSibling (que contiene el enunciado), NO subiendo por
+    los ancestros con innerText: el ancestro comun matchea varias preguntas
+    y termina escribiendo todas las respuestas en el mismo textarea.
+    Su maxlength real es 1500.
+
+  * CONEXION DEL NAVEGADOR (Chrome 150): --remote-debugging-port ya NO
+    funciona sobre el perfil por defecto ("DevTools remote debugging requires
+    a non-default data directory"). Tampoco sirve copiar el perfil. La via
+    soportada es que el usuario active chrome://inspect/#remote-debugging en
+    la ventana ya abierta con su perfil, y luego usar:
+      CHROME_DEVTOOLS_AXI_AUTO_CONNECT=1 chrome-devtools-axi <cmd>
+    El endpoint HTTP /json/version responde 404 en ese modo: es normal, la
+    conexion va por WebSocket. Lanzar Chrome con el perfil del candidato:
+      DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus \
+      google-chrome --profile-directory="Profile 17"
+    (sin DBUS_SESSION_BUS_ADDRESS el llavero falla y se pierde la sesion).
+
+  * La salida de `chrome-devtools-axi eval` esta CAPADA en ~8060 caracteres
+    y se trunca en silencio. Para recolectar catalogos, paginar la API con
+    per_page=20 y devolver TSV compacto, no JSON.
+
+  * INVENTARIO VIA API: /api/v0/categories/programming/jobs?per_page=20&page=N
+    devuelve title, remote_modality, remote_zone, countries, lang, min_salary,
+    max_salary, published_at, applications_count, seniority y tags. Es mucho
+    mas barato que recorrer la parrilla HTML. 324 ofertas en 20 paginas.
+
+  * `UID` es variable de solo lectura del shell: no usarla como nombre de
+    variable al capturar el uid del boton Send (usar SENDUID u otro).
+
+
+===============================================================================
+ Mantenido por el agente via skill: .pi/skills/job-hunter-getonboard/SKILL.md
+ Actualizar este archivo al cierre de cada ronda de postulacion.
+===============================================================================
+
+
+===============================================================================
+ R4 - 2026-08-17 · SANEAMIENTO DEL PERFIL (sin postulaciones aun)
+===============================================================================
+
+  BASELINE: 89 postulaciones en /applications
+    ENVIADA 31 · VISTA 18 · RETIRADA 8 · PROCESO FINALIZADO 2 · resto sin tag
+
+  ---------------------------------------------------------------------------
+  INCIDENTE 1: SE CREO UNA SEGUNDA CUENTA POR ERROR
+  ---------------------------------------------------------------------------
+  Al abrir GetOnBoard desde el perfil Chrome "Profile 17", el portal autentico
+  con la cuenta de Google de ese perfil (goviedo.laboral@gmail.com) y CREO UNA
+  CUENTA NUEVA Y VACIA (0 postulaciones, 0 CVs), en vez de entrar a la cuenta
+  real. La cuenta del portal es goviedo.sevenit@gmail.com (registrada via
+  LinkedIn) y vive en el perfil Chrome "Default".
+
+  REGLA: la cuenta de GetOnBoard es goviedo.sevenit@gmail.com y se opera desde
+  el perfil Chrome DEFAULT. goviedo.laboral@gmail.com es SOLO el correo que va
+  escrito dentro de los CVs. No son lo mismo. Si /applications dice
+  "You haven't applied to any job yet", estas en la cuenta equivocada: salir y
+  entrar con sevenit ANTES de tocar nada.
+
+  La cuenta laboral quedo creada y vacia; por instruccion del candidato se
+  dejo solo con sesion cerrada, sin eliminar.
+
+  ---------------------------------------------------------------------------
+  INCIDENTE 2: EL PERFIL GUARDADO ERA UNA CARTA A OTRA EMPRESA
+  ---------------------------------------------------------------------------
+  El campo "Perfil profesional y experiencia laboral" (professional_background,
+  que el portal REINYECTA en cada postulacion futura) contenia literalmente:
+
+    ES -> "Postulo con mucho interes al cargo de Back-End Developer
+           (Java/Spring Boot) en 42Labs. ... Atentamente, Gonzalo Oviedo
+           Lambert goviedo.laboral@gmail.com"   (1705 chars)
+    EN -> "I am applying with real interest to the Full Stack Developer
+           (Semi Senior / Senior) role at TiMining. ..."  (1655 chars)
+
+  Es decir: toda postulacion posterior a esas dos llego con una carta dirigida
+  a OTRA empresa, y ademas escrita SIN TILDES ("Mas de 15 anos", "disenando"),
+  secuela del workaround de apostrofos de chrome-devtools-axi.
+
+  REGLA NUEVA: el professional_background del PERFIL debe ser SIEMPRE neutro,
+  sin nombre de empresa ni de cargo y sin despedida. La personalizacion por
+  oferta va en el paso 1 del formulario de postulacion, que es una copia
+  editable, NO en el perfil.
+
+  ---------------------------------------------------------------------------
+  CORRECCIONES APLICADAS AL PERFIL (guardadas y verificadas)
+  ---------------------------------------------------------------------------
+   1. professional_background_es -> reescrito neutro, con tildes (1362 chars)
+   2. professional_background_en -> reescrito neutro (1458 chars), agregando
+      la linea de ingles B1 + equipos distribuidos EE.UU./India/Ucrania
+   3. description_es (titular) estaba CORTADO a media frase:
+        antes: "Ingeniero de Software Senior con mas de 15 anos de"  (50/255)
+        ahora: "Ingeniero de Software Senior · Backend Java y Spring Boot ·
+                Desarrollo asistido por IA agentica"
+   4. description_en idem:
+        antes: "Senior Software Engineer with over 15 years of"  (46/255)
+        ahora: "Senior Software Engineer · Java & Spring Boot Backend ·
+                AI-Augmented Development"
+   5. webpro_phone estaba MAL: "+5659723603" (8 digitos tras el 56, imposible
+      para un movil chileno). Corregido a "+56963723603" segun cv.md.
+      Los reclutadores no podian llamarlo.
+   6. webpro_seniority_ids estaba VACIO -> seleccionados Senior y Expert.
+      Sin eso el perfil no aparecia en los filtros por seniority.
+
+  YA ESTABA BIEN: GitHub goviedodev conectado y verificado, LinkedIn
+  /in/gol, ingles = intermediate, pais CL, 10 CVs cargados (tope del portal)
+  con "Spring Boot Java Developer and Agentic Coder" como predeterminado.
+
+  DATO RECUPERADO: el academic_background del portal registra
+  "2005-2009 Universidad del Bio Bio, Concepcion" -> ese es el ano de
+  titulacion que falta en cv.md y que hubo que esquivar en dos killer
+  questions de Computrabajo el mismo dia.
+
+  ---------------------------------------------------------------------------
+  NOTAS TECNICAS NUEVAS (R4)
+  ---------------------------------------------------------------------------
+  * EL SUBMIT POR JS NO GUARDA Y NO AVISA. Hacer .click() por JavaScript sobre
+    el boton "Guardar todos los cambios" (#commit) envia el formulario como
+    GET a /webpros/<slug>, que responde 404, y DESCARTA todos los cambios en
+    silencio: la pagina parece haber navegado bien y al volver a /webpros/edit
+    todo esta como antes. El formulario es method=post con _method=patch.
+    SOLUCION: pulsar el boton con un CLIC REAL de mouse (computer left_click
+    sobre sus coordenadas tras scrollIntoView). Con eso redirige a /misempleos
+    con el mensaje de cambios guardados y persiste todo.
+    Verificar SIEMPRE releyendo /webpros/edit despues de guardar.
+
+  * LA TABLA DE /applications SE RENDERIZA CLIENT-SIDE: un fetch + DOMParser
+    devuelve CERO filas. Hay que leerla en la pagina viva.
+
+  * EL ESTADO ("ENVIADA", "VISTA", "RETIRADA") ESTA EN MAYUSCULAS SOLO POR CSS
+    (text-transform). innerText devuelve mayusculas pero textContent devuelve
+    el original en minusculas. Filtrar con regex case-insensitive o por
+    innerText, nunca con textContent y mayusculas.
+
+  * PAGINACION de /applications: boton "button.next_page" / "Siguiente" y su
+    par "Anterior". Son BUTTON, no anchor: no hay href que seguir. 2 paginas
+    (60 + 29 = 89 filas).
+
+  * La extension Claude in Chrome se instala POR PERFIL de Chrome. Estaba solo
+    en Default. Para operar otro perfil hay que instalarla ahi y autenticarla,
+    y luego elegir el navegador con select_browser.
+
+  ---------------------------------------------------------------------------
+  R4 - POSTULACIONES (2026-08-17)
+  ---------------------------------------------------------------------------
+  BASELINE 89 -> CIERRE 92 · DELTA +3
+
+  EMBUDO
+    296 ofertas de /api/v0/categories/programming/jobs (15 paginas)
+    -> filtro: no in-office, no BC Tecnologia / Coderslab, <=60 dias,
+       techo entre 1900 y 4500 USD, titulo afin, sin stack excluyente
+    ->  35 candidatas
+    ->  14 con boton "Postular" (el resto ya postuladas, retiradas o con
+        "Tu pais no coincide con la ubicacion del empleo")
+    ->   3 ENVIADAS tras leer el aviso completo
+
+  ENVIADAS (3) - las 3 confirmadas como ENVIADA en /applications
+   1. Technical Lead Senior - 42Labs · Santiago (Hibrido) · sin rango
+      Declarado: 3500 USD brutos/mes (tramo Tech Lead) · postulacion en espanol
+      GAP DECLARADO: el aviso pide "profundo dominio en Angular" y se respondio
+      que NO lo tiene: su frontend fuerte es React, Vue/Nuxt y Flutter, y en
+      Angular solo hay trabajo puntual y un curso. Se lidero con Spring Boot,
+      liderazgo tecnico (6+ anos como lead) y CI/CD.
+   2. Developer Back-end CoE Arquitectura - BICE VIDA · Santiago (Hibrido)
+      Declarado: 3000 USD · espanol · formulario de 4 pasos con 3 preguntas
+      Encaje fuerte: Java/Spring Boot, microservicios, APIs REST, alta
+      disponibilidad, seguros/banca (Citibank).
+      GAPS DECLARADOS: (a) Spring Batch NO usado en produccion (sus batch son
+      con Spring y jobs propios); (b) Golang y Python no son experiencia
+      productiva; (c) AWS acotado a Lambda y almacenamiento, su cloud es GCP.
+      La pregunta 3 era especificamente de AWS y se respondio declarando el
+      gap en vez de inflarlo.
+   3. Tech Lead AI Cloud - NeuralWorks · Santiago (Hibrido) · sin rango
+      Declarado: 3500 USD · espanol
+      Encaje: el aviso pide "AWS O GCP avanzado" (GCP es su fuerte), 4+ anos
+      de Tech Lead y aplicaciones basadas en LLMs.
+      GAP DECLARADO: sin machine learning clasico, sin MLOps y sin generacion
+      de imagenes; su terreno es la ingenieria alrededor del modelo.
+
+  DESCARTADAS TRAS LEER EL AVISO (11)
+   - Full-Stack Java + Angular (Improving): "ingles intermedio-avanzado o
+     avanzado (indispensable)" + "2+ anos con Angular". Dos duros ausentes.
+   - Ingeniero de Software (Agilistik): excluyentes Node.js + Python, Angular
+     y AWS con Redshift/Step Functions/EventBridge. Tres duros ausentes.
+   - Full-Stack Developer (231op): stack "TypeScript throughout" con Next.js,
+     NestJS, GraphQL y Twilio.
+   - Desarrollador Web (Weyland): piden "Full Stack semi senior o Junior
+     avanzado" con Python. Seniority y stack fuera.
+   - Desarrollador Fullstack (Sonda): C# / .NET / .NET Core, SQL Server,
+     Entity Framework, LINQ.
+   - Full-Stack Developer (PlanOK): Python y PHP comprobables + React/Vue/
+     Next/Nuxt. Ademas techo 2000 USD.
+   - Software Engineer (GeoVictoria): sin stack excluyente y valora IA en el
+     flujo de desarrollo, PERO el aviso esta marcado SEMI SENIOR. Descartada
+     por seniority, mismo criterio que R3 con Jasperreports.
+   - Senior Back-end Engineer Go GCP (Continuum): Go.
+   - Senior Software Engineer C++ (Improving): C++.
+   - Tech Lead Outsystems (i2b): plataforma low-code que no domina.
+   - Practicante Software Engineer (NeuralWorks): practica profesional.
+   Reconfirmadas de rondas previas: VTEX Architect (2BRAINS), Jasperreports
+   (42Labs), Tech Lead reemplazo (Cumplo), Senior Back-end (2BRAINS).
+
+  NOTA: "Tu pais no coincide con la ubicacion del empleo" es un tercer estado
+  del boton #apply_bottom, junto a "Postular", "Ver tu postulacion" y
+  "Retiraste tu postulacion a este empleo". Cayeron ahi FactorIT Bogota,
+  Puente Back-end Mid Level, Agilesoft Santo Domingo y Mediastream.
+
+  NOTA: el flujo NO siempre es de 3 pasos. 42Labs y NeuralWorks fueron 3;
+  BICE Vida fue 4 (Experiencia -> Basica -> Preguntas -> Vista previa). El
+  tell esta en el texto de #submit-btn del paso Basica: "Siguiente" = viene
+  paso de preguntas; "Siguiente: Revisar y enviar" = va directo al preview.
+
+  NOTA: el boton "Enviar postulacion ahora" del modal sigue sin aparecer con
+  querySelector, pero SI con la herramienta find / read_page de la extension.
+  Aparece duplicado (modal + tabpanel); pulsar el primero basta. Tras pulsarlo
+  la fila pasa de "POR ENVIAR" a "ENVIADA".
+
+  ---------------------------------------------------------------------------
+  R4 - HILO DE NIURO: LA RECOMENDACION DE R3 ERA INCORRECTA (2026-08-18)
+  ---------------------------------------------------------------------------
+  R3 recomendo "responder el hilo de Niuro, unica conversacion activa del
+  historial". Al abrirlo: NO se puede responder y NO estaba activa.
+
+  QUE PASO REALMENTE
+  Niuro escribio el 04-08-2026 (Constanza Eslava) a DOS postulaciones:
+    - Technical Lead / Head of Technology  (3000-3500 USD)
+    - Senior Full-Stack Engineer (NestJS+NextJS+TypeScript+GCP) (2500-3000)
+  Mismo mensaje en ambas: la postulacion de GetOnBoard NO entra al proceso;
+  hay que completarla en el ATS propio de Niuro (app.niuro.io/source/<code>),
+  en 3 pasos: (1) completar perfil, (2) ENTREVISTA DE SCREENING CON IA con
+  tiempo limite, (3) video de presentacion de 3 min (opcional). El mensaje
+  advertia "el enlace expira en 3-4 horas".
+
+  Nadie completo ese paso. 14 dias despues ambas postulaciones figuran como
+  RETIRADA y el hilo dice textual: "Niuro retiro su postulacion. No es
+  posible enviar mensajes." El campo Mensajes queda deshabilitado.
+
+  HALLAZGO: LOS ENLACES NO EXPIRARON. Verificado el 2026-08-18, 14 dias
+  despues: ambas URLs siguen vivas y sirven el formulario de postulacion
+    app.niuro.io/source/Q4sWmKFS -> Technical Lead / Head Of Technology
+    app.niuro.io/source/E2s8hG3s -> Senior Full stack Engineer (NestJS...)
+  Ambas LATAM / Remote / Senior, con drop de CV ("Drop your CV, we'll do the
+  rest"). La advertencia de 3-4 horas es presion comercial, no un TTL real.
+  Es decir: la oportunidad NO esta perdida, solo hay que completarla fuera
+  de GetOnBoard.
+
+  BLOQUEO: el flujo exige Sign up (crear cuenta) y una entrevista de
+  screening con IA. Crear cuentas esta fuera de lo que el agente puede hacer,
+  y la entrevista con IA debe rendirla el propio candidato. Queda para
+  Gonzalo.
+
+  REGLA NUEVA PARA NIURO: Niuro NO procesa las postulaciones dentro de
+  GetOnBoard. Toda postulacion a Niuro genera un mensaje pidiendo completar
+  el proceso en app.niuro.io. Si se postula a Niuro, hay que revisar los
+  mensajes en las horas siguientes y completar el ATS externo, o la
+  postulacion se pierde. Quedan 2 postulaciones vivas a Niuro sin mensaje
+  todavia: "Senior Back-end Developer" (2000-2500, Santiago Hibrido) e
+  "IA Engineer" (3000-3500, Remoto) -> vigilar sus mensajes.
+
+  CORRECCION AL DIAGNOSTICO DE R3: Niuro figuraba como "mejor canal por tasa
+  de respuesta" (5 postulaciones -> 2 mensajes). Es cierto que responde, pero
+  esos 2 mensajes eran automaticos de derivacion a su ATS, no interes
+  humano en el perfil. El embudo real de GetOnBoard sigue sin ninguna
+  conversacion humana activa.
+
+  ---------------------------------------------------------------------------
+  R5 - FILTRO "INTELIGENCIA ARTIFICIAL" (2026-08-18)
+  ---------------------------------------------------------------------------
+  Peticion del candidato: aplico el filtro /empleos-Inteligencia-Artificial y
+  pidio postular "a todas".
+
+  EMBUDO
+    45 ofertas en el filtro
+    ->  5 ya postuladas ("Ver tu postulacion")
+    ->  4 bloqueadas por "Tu pais no coincide con la ubicacion del empleo"
+    -> 36 con boton Postular
+    -> se descartan por SENIORITY (Junior / Semi Senior): ~17
+    -> se descartan por ROL NO TECNICO: Account Executive, Key Account Manager
+       Senior, Product Owner (x2), Data Manager, Analista de Automatizacion
+       Marketplace, Especialista Marketing Digital, Accounting Internship,
+       Practicante Software Engineer
+    ->  8 candidatas Senior/Expert de ingenieria -> 2 ENVIADAS, 1 BLOQUEADA,
+        5 descartadas por stack
+
+  ENVIADAS (2)
+   1. Ingeniero/a Senior de IA Agentica - FortIA
+      Remoto (cualquier ubicacion) · rango publicado 3500-5500 USD
+      Declarado: 3000 USD  <-- ERROR, ver abajo
+      Preguntas si/no: agentes con tools en produccion = Si;
+      LLMs locales (Ollama/vLLM) en produccion = No; arrancar en 4 semanas = Si
+      GAP DECLARADO: Python es su lenguaje principal y NO el de Gonzalo (su
+      trabajo agentico esta en Java y Elixir, TypeScript en conectores). Sin
+      Ollama/vLLM ni Qdrant/ChromaDB en produccion.
+   2. AI Engineer Senior - Grupo Mariposa ... NO, ver BLOQUEADA
+
+   2. (correccion) La unica otra ENVIADA de esta ronda no existe: ver abajo.
+
+  BLOQUEADA - QUEDO EN BORRADOR (1)
+   * AI Engineer Senior - Grupo Mariposa · Remoto (7 ubicaciones) · sin rango
+     Declarado 3200 USD. Carta y 4 preguntas si/no ya respondidas:
+       guardrails en produccion = Si · agente a produccion = Si ·
+       pipeline RAG en proyecto real = No · tool calling / MCP = Si
+     NO SE PUDO ENVIAR. El formulario exige responder una pregunta de
+     seleccion multiple: "Con cual de las siguientes plataformas empresariales
+     tienes experiencia?" con 4 opciones -> Azure AI Foundry, Google Vertex AI
+     Agent Builder, LangGraph, AutoGen. NO HAY OPCION "NINGUNA" y el servidor
+     rechaza el envio si no se marca alguna ("Por favor, responde todas las
+     preguntas requeridas"). Gonzalo no tiene experiencia con ninguna de las
+     cuatro: construye sus agentes directamente sobre las APIs de los modelos.
+     Marcar una seria mentir, asi que la postulacion quedo en BORRADOR
+     esperando decision del candidato.
+
+  DESCARTADAS (stack duro)
+   - Senior AI Research Engineer: "ingles intermedio-avanzado o avanzado
+     (indispensable)" + "Python solido". Dos duros ausentes.
+   - Subgerente de Inteligencia Artificial: MLOps, TensorFlow, PyTorch,
+     machine learning clasico. Gap declarado del perfil.
+   - AI Engineer (Node.js TypeScript NestJS): stack Node/Nest.
+   - Python Engineer - AI/ML: Python + ML core.
+   - Senior Data Scientist GenAI & RAG: rol de data science.
+   - Machine Learning Engineer (x2): ML core.
+   - Full-Stack Developer (PlanOK): Python + PHP, ya descartada en R4.
+   - Tech Lead (Micelio): rango publicado 2100-2500 USD para un cargo de Tech
+     Lead (su expectativa es 3500) MAS requisito "2+ anos desarrollando en
+     Python". Postular anclaria 1000 USD bajo su objetivo en un stack que no
+     domina. Se dejo fuera y se informo al candidato.
+
+  ERROR COMETIDO Y LECCION
+  En FortIA se declararon 3000 USD cuando el aviso publicaba 3500-5500. El
+  barrido previo habia leido "sin rango" porque el regex de salario solo
+  cubria el formato "$ N - N / mes" de la parrilla y no el "Sueldo bruto
+  $N - N USD/mes" del detalle. REGLA: leer SIEMPRE el rango publicado desde
+  el DETALLE de la oferta antes de escribir la expectativa, y anclar al
+  tercio superior del rango si el cargo es Senior/Lead. La postulacion ya
+  esta enviada; la pagina /edit sigue accesible pero reeditar una postulacion
+  ENVIADA no se probo (riesgo de devolverla a borrador).
+
+  PENDIENTE PARA EL CANDIDATO
+   * Mensajes nuevos sin leer detectados en el panel de notificaciones:
+       - Paula Ferrer (42Labs) 17-08-2026 23:01, sobre "Back-end Developer
+         (Java/Spring Boot)"  <-- conversacion humana, prioritaria
+       - Judith Esposito (WiTi) 10-08-2026, sobre "Arquitecto/a de Soluciones
+         Cloud"
+     Ademas 42Labs, Omniscient, Checkr, Factor IT, 3IT y BC Tecnologia
+     revisaron su postulacion entre el 10 y el 17 de agosto.
+
+  ---------------------------------------------------------------------------
+  R5 - LOS "MENSAJES NUEVOS" ERAN RECHAZOS (2026-08-18)
+  ---------------------------------------------------------------------------
+  Se abrieron los dos mensajes pendientes del panel de notificaciones. Ninguno
+  es una oportunidad:
+
+   * Paula Ferrer (42Labs), 17-08-2026, sobre "Back-end Developer (Java/Spring
+     Boot)": RECHAZO. "decidimos avanzar con otras candidaturas que se ajustan
+     un poco mas a lo que estamos buscando hoy... nos encantaria mantenernos
+     en contacto para futuras oportunidades". Estado: PROCESO FINALIZADO.
+     El canal de mensajes SIGUE ABIERTO en esta postulacion (a diferencia de
+     Niuro y WiTi), asi que se puede responder.
+
+   * Judith Esposito (WiTi), 10-08-2026, sobre "Arquitecto/a de Soluciones
+     Cloud": RECHAZO. "hemos decidido continuar sin tu postulacion". Ademas
+     "WiTi retiro su postulacion. No es posible enviar mensajes."
+
+  CONCLUSION IMPORTANTE: el historial de 92 postulaciones en GetOnBoard NO
+  tiene ninguna conversacion humana activa. Los 4 mensajes recibidos hasta hoy
+  se reparten en 2 rechazos (42Labs, WiTi) y 2 derivaciones automaticas al ATS
+  propio de Niuro. Corrige el diagnostico de R3, que contaba "empresas que si
+  responden" como senal de interes: responder no es lo mismo que avanzar.
+
+  DATO UTIL: 42Labs rechazo el "Back-end Developer (Java/Spring Boot)" el
+  17-08 a las 23:01, pocas horas despues de que el mismo dia se enviara la
+  postulacion a su "Technical Lead Senior" (que sigue ENVIADA). Son procesos
+  distintos y el segundo sigue vivo.
+
+-------------------------------------------------------------------------------
+R6 - RONDA AUTOMATICA (2026-08-18, sesion tarde)
+-------------------------------------------------------------------------------
+Login: la ventana de automatizacion (.chrome-cdp-profile/Profile 17, puerto CDP
+9222) se reautenticaba sola con la cuenta vacia goviedo.laboral@gmail.com
+apenas se cerraba sesion (cookie httpOnly, no se pudo limpiar por JS). Gonzalo
+inicio sesion manualmente con la cuenta real en esa misma ventana; confirmado
+por /applications.json (93 postulaciones antes de esta ronda).
+
+Inventario: API /api/v0/categories/programming/jobs (6 paginas x 50 = ~300
+ofertas vigentes) cruzado contra /applications.json (93 aplicadas). Filtro
+por seniority Senior/Expert + modalidad (remote/hybrid Chile) + salario
+techo >=1900 USD + palabras clave backend/Java/Arquitecto/Tech Lead/AI ->
+35 candidatas. Se revisaron 10 detalles completos antes de postular:
+
+  DESCARTADAS (stack duro, verificado en detalle):
+   - Agentic AI Systems Engineer (Niuro): "Senior-level... backend systems
+     and APIs in Python" como primer requisito indispensable.
+   - Principal Software Engineer (Improving): TypeScript/Node.js/React +
+     AWS CDK/CloudFormation/Terraform indispensables.
+   - Senior Full-Stack Integration Engineer (Niuro): .NET Core + Angular
+     obligatorio, ingles C1.
+   - Technical Lead - Integraciones/Middleware (BC Tecnologia): Microsoft
+     Dynamics 365 Customer Service indispensable.
+   - Arquitecto/a Empresarial y Datos (Lisit): stack .NET + React explicito,
+     ademas salario 2000-2500 bajo el ancla de Arquitecto.
+   - Technical Lead (Dynamic Devs): 5 anos Node/Express/Nest + React/TS.
+   - Senior Back-end Developer (2BRAINS): Node.js/Nest.js + TypeScript core.
+   - Full-Stack Developer Senior (ProfeJOBS): Node.js/NestJS + Angular core.
+   - Full-Stack Developer (Ignitvio): Python/Flask core.
+   - Full-Stack Developer (BuildWithin): Next.js/React/TypeScript core.
+
+  ENVIADAS (3)
+   1. Sr Software Engineer Devx - Checkr, Santiago (Hybrid) 3d/sem,
+      $4000-5000 USD (declarado 4700). Ingles requerido. 3 preguntas propias
+      respondidas con la verdad: ingles B1 con lectura tecnica avanzada,
+      15+ anos de experiencia, y "None of these three [Go/Python/Ruby] in
+      production - mi lenguaje principal es Java", aclarando que el puesto
+      acepta "a similar object-oriented language".
+   2. Senior Full-Stack Engineer - Bavardio, Remote (LatAm), $4000-6000 USD
+      (declarado 5500, tercio superior). Startup AI-native para ISPs,
+      trabajo directo con el founder. Ingles requerido, sin preguntas
+      propias. Carta menciona full-stack Java/Spring + React/Flutter.
+   3. Tech Leader - GeoVictoria, Santiago (Hybrid), sin rango publicado
+      (declarado 3500 USD ancla Tech Lead). Pregunta propia de renta liquida
+      mensual respondida $2.800.000-$3.000.000 CLP (banda habitual de
+      Gonzalo). Sin gaps de stack detectados en la oferta.
+
+  Total en /applications.json: 93 -> 96 (delta +3, confirmado por API).
+
+  NOTA: Grupo Mariposa (AI Engineer Senior), que en R5 habia quedado
+  BLOQUEADA en DRAFT por la pregunta de plataformas empresariales sin
+  respuesta honesta posible, ahora aparece SENT en el board. No se toco en
+  esta sesion - revisar en la proxima ronda si el candidato la completo el
+  mismo o si el estado cambio por otra via.

@@ -1,0 +1,94 @@
+result: "\"Analista Programador Computacional @ Abenis  3,8 | Hace 8 minutos
+Senior Fullstack GCP @ BCTecnología  4,5 | Hace 9 minutos
+Desarrollador Fullstack @ Ingenieria informatica Kibernum S.A. | Hace 13 minutos
+TI Developer @ Abenis  3,8 | Hace 4 horas
+Desarrollador Web @ ATCOM  4,1 | Hace 4 horas
+Desarrollador web @ Importante empresa del sector | Hace 4 horas
+Desarrolladores @ SERVICIOS INFORMÁTICOS GLOBAL NEXA SPA | Hace 4 horas
+Desarrollador/a SemiSenior Senior @ SOCIEDAD ONE CONSULTORES LIMITADA | Hace 4 horas
+Programador de Sistemas Vibe Coding @ Importante empresa del sector TI | Hace 4 horas
+Desarrollador Vibe Coding @ Importante empresa del sector TI | Hace 4 horas\""
+result: "\"Desarrollador IA @ Abenis  3,8 | Hace 4 horas
+Desarrollador Fullstack Senior @ Michael Page  4,3 | Hace 4 horas
+Desarrollador Fullstack (Node, React) @ ANA MARIA MELLADO SANTANDER | Hace 5 horas
+Desarrollador software @ Manpower Chile  4,2 | Hace 5 horas
+Desarrollador Full Stack @ BCTecnología  4,5 | Hace 5 horas
+Ingeniero Senior Cloud @ Importante empresa del sector | Hace 5 horas
+Ingeniero/a de Desarrollo y Soporte @ HR EXPERIENCE | Hace 3 días
+Developer Full Stack @ AGtec Servicios Informáticos | Hace 3 días
+Desarrollador(a) Full Stack @ BCTecnología  4,5 | Hace 3 días
+AI Engineer / Backend AI Engineer @ Manpower Chile  4,2 | Hace 3 días\""
+result: "\"Jefe de Proyectos @ Importante empresa del sector | Hace 3 días
+Hace 3 días @ + 100 candidatos postulados | Hace 3 días
+Desarrollador con experiencia en IA y Automatizaciones @ Binexo | Hace 3 días
+Developer Full Stack Senior (Remoto) @ AGtec Servicios Informáticos | Hace 3 días
+Desarrollador Fullstack Senior Node.js / React @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Analista programador @ Abenis  3,8 | Hace 3 días
+Programador Senior @ Abenis  3,8 | Hace 3 días
+Programador Senior @ Abenis  3,8 | Hace 3 días
+Líder Técnico (React / NestJS / Microfrontends) @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Ingeniero de Software @ Abenis  3,8 | Hace 3 días\""
+result: "\"Ingeniero de Software @ Abenis  3,8 | Hace 3 días
+Principal Full Stack Security Platform Engineer @ AGtec Servicios Informáticos | Hace 3 días
+Desarrollador Backend (TypeScript / NestJS / Microservicios) @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Desarrollador cloud @ Abenis  3,8 | Hace 3 días
+Ingeniero de Software @ Abenis  3,8 | Hace 3 días
+Ingeniero(a) de Desarrollo de Software @ SIGMA | Hace 3 días
+Líder Técnico Especialista en Arquitectura de Procesos @ TicMoAI  4,1 | Hace 3 días
+Fullstack Senior @ BCTecnología  4,5 | Hace 3 días
+Desarrollador Cloud Aws, Gcp @ Abenis  3,8 | Hace 3 días
+Arquitecto de Aplicaciones (TI) @ AFP HABITAT | Hace 3 días\""
+result: "\"Arquitecto/a de Desarrollo IA @ All Nutrition  4,4 | Hace 3 días
+Arquitecto de Software @ COASIN  4,2 | Hace 3 días
+Desarrollador Oracle PL/SQL @ Nexatech Consulting SPA | Hace 3 días
+Desarrollador Fullstack para Las Condes @ Grafton Latam  4,2 | Hace 3 días
+Desarrollador(a) Web Full Stack @ ATCOM  4,1 | Hace 3 días
+Hace 3 días @ + 100 candidatos postulados | Hace 3 días
+AI Engineer IA Generativa @ BCTecnología  4,5 | Hace 3 días
+Devops Senior @ Avos Tech  4,0 | Hace 3 días
+Arquitecto de Inteligencia Artificial @ Manpower Chile  4,2 | Hace 3 días
+Jefe de Desarrollo TI @ Importante empresa del sector | Hace 3 días\""
+result: "\"CV Visto @ Proceso finalizado | Hace 3 días
+Programador Senior Backend @ Perceptual Consultores Ltda.  3,0 | Hace 3 días
+Desarrolladores Backend @ Abenis  3,8 | Hace 3 días
+Desarrollador Fullstack GCP @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Desarrollador Cloud AWS @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Hace 3 días @ 23 candidatos postulados | Hace 3 días
+Desarrollador Backend @ Abenis  3,8 | Hace 3 días
+Desarrollador Senior Backend @ Perceptual Consultores Ltda.  3,0 | Hace 3 días
+Backend con Cloud @ Abenis  3,8 | Hace 3 días
+Arquitecto de Software Modalidad Remota @ Valor Unico  4,5 | Hace 3 días\""
+result: "\"Desarrolladores Backend @ Abenis  3,8 | Hace 3 días
+Software Engineer @ Importante empresa del sector retail | Hace 3 días
+Desarrollador Full Stack Java /Node.js GCP @ BCTecnología  4,5 | Hace 3 días
+Desarrollador(a) Full Stack Java / React Semi Senior @ BCTecnología  4,5 | Hace 3 días
+Desarrollador java @ Abenis  3,8 | Hace 3 días
+Desarrollador Senior Java @ Abenis  3,8 | Hace 3 días
+Java Fullstack Senior @ Abenis  3,8 | Hace 3 días
+Desarrollador Java GCP @ Abenis  3,8 | Hace 3 días
+Backend Developer Java @ Michael Page  4,3 | Hace 3 días
+Programador java @ Abenis  3,8 | Hace 3 días\""
+result: "\"Desarrollador Java, Python y Gcp @ Abenis  3,8 | Hace 3 días
+Desarrollador java @ Abenis  3,8 | Hace 3 días
+Ingeniero Java, Angular, Nodejs @ Abenis  3,8 | Hace 3 días
+Desarrollador Java y Cloud @ Abenis  3,8 | Hace 3 días
+Ingeniero de Software Java, Hibernate, Spring @ Abenis  3,8 | Hace 3 días
+Desarrollador java @ Abenis  3,8 | Hace 3 días
+Desarrollador Full Stack Senior Java / Node.js – (GCP) @ BCTecnología  4,5 | Hace 3 días
+Desarrollador Full Stack Java /Node.js GCP @ BCTecnología  4,5 | Hace 3 días
+Desarrollador Full Stack Java @ BCTecnología  4,5 | Hace 3 días
+Desarrollador Fullstack .NET / Node.js / Angular @ Ingenieria informatica Kibernum S.A. | Hace 3 días\""
+result: "\"Desarrollador Fullstack @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Desarrollador(a) Backend Cloud @ Abenis  3,8 | Hace 3 días
+Desarrollador Backend Golang / Java Senior @ Nexatech Consulting SPA | Hace 3 días
+Desarrollador/a Backend Java @ Ingenieria informatica Kibernum S.A. | Hace 3 días
+Fullstack Java @ MM ASESORIAS  4,1 | Hace 3 días
+Desarrollador JAVA Senior @ COASIN  4,2 | Hace 3 días
+Desarrollador Full Stack Senior Java Spring Boot DevOps @ BCTecnología  4,5 | Hace 3 días
+Desarrollador FullStack @ Valor Unico  4,5 | Hace 3 días
+Analista Desarrollador Fullstack @ MM ASESORIAS  4,1 | Hace 3 días
+Desarrollador/a Full Stack Node.js / Flutter @ BCTecnología  4,5 | Hace 3 días\""
+result: "\"Desarrollador Full Stack Node.js / Angular (Remoto) @ BCTecnología  4,5 | Hace 3 días
+Desarrollador Full Stack Senior @ Importante empresa del sector Tecnológico | Hace 3 días
+Desarrollador web @ GrupoExpro  4,2 | Hace 6 días\""
+result: "\"\""

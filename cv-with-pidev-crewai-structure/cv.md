@@ -2,7 +2,7 @@
 - *Analista Desarrollador FullStack Java - Flutter - Javascript - SQL - - GCP*
 - Chile, Santiago GMT-4 - UTC-4
 - [goviedo.laboral@gmail.com](goviedo.laboral@gmail.com) +56 9 - 6372 3603
-- [linkedin.com/in/gol](https://www.linkedin.com/in/gol)  Inglés Intermedio B1
+- [linkedin.com/in/gol](https://www.linkedin.com/in/gol)  Inglés B2
 
 # Resumen Profesional {#resumen-profesional .unnumbered}
 ------------------------------------------------------------------------
@@ -21,7 +21,7 @@ selectiva.
 **Frameworks:** Spring Boot\
 **Bases de Datos:** PostgreSQL, Oracle PL/SQL\
 **Cloud/Infraestructura:** Google Cloud (Pulumi IaC), Docker\
-**AI:** Agentic AI con Pi.dev, Opencode y Hermes\
+**AI:** Claude Code (plan Max, uso intensivo) — harness principal; Agentic AI con Pi.dev y Opencode\
 **Habilidades Secundarias**\
 **Frameworks:** Flutter, Vue.js-Nuxt, React, Struts, Phoenix Elixir Framework\
 **Infraestructura/Cloud:** Azure DevOps, AWS Lambda\
@@ -33,9 +33,10 @@ selectiva.
 
 **CTO & Co-founder** \| *Startup de Movilidad* 2024 -- Presente\
 **Tecnologías:** Elixir, Ash Framework, Flutter, Java 21 (Spring Boot),
-GraalVM, Google Cloud, Pulumi, Agentic AI con Pi.dev\
+GraalVM, Google Cloud, Pulumi, Claude Code (plan Max), Agentic AI con Pi.dev\
 
-- Arquitectura y desarrollo de plataforma de movilidad potenciados por
+- Arquitectura y desarrollo de plataforma de movilidad usando Claude Code
+  (plan Max) como harness principal de desarrollo, complementado con
   Agentic AI con Pi.dev, diseñando e implementando el ciclo de vida de
   agentes (skills, comandos, workflow) como harness de ejecución e
   integrando LLMs económicos para optimización de costos sin sacrificar
@@ -84,7 +85,7 @@ Cloud (VM), Gitlab, jQuery, JavaScript, Bootstrap, Vuetify\
 
 **Java/Senior Developer** \| *WebClass, Creasys, Coopeuch, Others* 2008
 -- 2017\
-**Tecnologías:** Java, AS/400, Struts, Hibernate, PostgreSQL, Oracle,
+**Tecnologías:** Java, AS/400, Struts, JSP, Hibernate, PHP, PostgreSQL, Oracle,
 SQL Server, Jenkins, Jira\
 
 - Desarrollo full-cycle: análisis de requerimientos, diseño, desarrollo,
@@ -104,5 +105,5 @@ SQL Server, Jenkins, Jira\
 ------------------------------------------------------------------------
 
 **Ingeniería en Ejecución en Computación e Informática** \| Universidad
-del Bío Bío\
+del Bío Bío, Concepción 2005 -- 2009\
 Tesis: Extreme Programming (XP) - Teoría y práctica.

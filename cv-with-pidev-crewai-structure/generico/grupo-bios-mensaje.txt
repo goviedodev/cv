@@ -1,0 +1,26 @@
+Asunto: Postulación — Especialista en Instalaciones y Aplicaciones (Santiago)
+
+Estimado equipo de GrupoBios:
+
+Me dirijo a ustedes para postular al cargo de Especialista en Instalaciones y Aplicaciones. Quiero ser transparente desde la primera línea: mi formación es Ingeniería en Ejecución en Computación e Informática (Universidad del Bío Bío), no del área de la salud. Les escribo igualmente porque el núcleo del cargo —instalar, configurar, poner en marcha, verificar y capacitar a usuarios finales sobre equipamiento técnico— es exactamente lo que he hecho durante más de 15 años, y una parte relevante de ese trabajo fue dentro del ámbito clínico.
+
+Entre 2017 y 2020 lideré, como Tech Lead en Seven IT SpA, el diseño e implementación desde cero de un Sistema de Gestión de Salud para el Hospital Cruz del Norte. Eso significó trabajar en terreno con personal clínico y administrativo: levantar los requerimientos con quienes usan el sistema todos los días, instalarlo y ponerlo en marcha, ajustar el flujo a la realidad de cada unidad, capacitar a los usuarios finales y luego sostener el soporte. El resultado fue una reducción de 60% en los tiempos de procesamiento clínico administrativo y de 40% en los tiempos de espera de pacientes. También lideré un equipo de 4 personas y trabajé con reportería automatizada en PDF con firma digital, en un contexto donde el error no es una opción.
+
+Lo que creo que puedo aportar al cargo:
+
+- Puesta en marcha y verificación: experiencia sistemática instalando, configurando y validando sistemas en ambientes productivos críticos (salud, banca en Citibank, retail), con protocolos de verificación antes de entregar al cliente.
+- Capacitación y soporte a usuarios: habitual en mi trabajo traducir lo técnico a un lenguaje utilizable por quien opera el equipo, y acompañar hasta que la operación queda autónoma.
+- Aprendizaje continuo: he migrado entre tecnologías, industrias y dominios durante toda mi carrera; aprender una línea de productos nueva y su protocolo de uso es parte de mi rutina, no una excepción.
+- Trabajo con áreas no técnicas: he colaborado de forma continua con equipos comerciales, gerencias y áreas legales, apoyando técnicamente el proceso de venta y postventa.
+- Inglés intermedio (B1) oral y escrito, usado a diario en equipos distribuidos con EE. UU., India, Ucrania y LATAM.
+
+Entiendo que el perfil solicitado apunta a un/a profesional del área de la salud, y que ese criterio puede ser excluyente para ustedes. Si aun así consideran valioso un perfil con fuerte base técnica, experiencia comprobada en implementación clínica y vocación de servicio en terreno, me encantaría conversar y explicarles en detalle el proyecto del Hospital Cruz del Norte.
+
+Agradezco su tiempo y quedo atento a sus comentarios.
+
+Cordialmente,
+
+Gonzalo Oviedo Lambert
++56 9 6372 3603
+goviedo.laboral@gmail.com
+linkedin.com/in/gol

@@ -2,7 +2,7 @@
 - *FullStack Developer Analyst - Java - Flutter - JavaScript - SQL - GCP*
 - Limache, Valparaíso Region, Chile GMT-4 - UTC-4
 - [goviedo.laboral@gmail.com](goviedo.laboral@gmail.com) +56 9 - 6372 3603
-- [linkedin.com/in/gol](https://www.linkedin.com/in/gol) Intermediate English B1
+- [linkedin.com/in/gol](https://www.linkedin.com/in/gol) English B2
 
 # Professional Summary
 ------------------------------------------------------------------------
@@ -30,7 +30,7 @@ solutions that add real business value.
 **Frameworks:** Spring Boot\
 **Databases:** PostgreSQL, Oracle PL/SQL\
 **Cloud/Infrastructure:** Google Cloud (Pulumi IaC), Docker\
-**AI:** Agentic AI with Pi.dev\
+**AI:** Claude Code (Max plan, daily heavy use) — primary harness; Agentic AI with Pi.dev\
 **Secondary Skills**\
 **Languages:** JavaScript (ES6+), Bash, Elixir\
 **Frameworks:** Vue.js, Nuxt, React, Struts, Ash Framework\
@@ -43,9 +43,10 @@ solutions that add real business value.
 
 **CTO & Co-founder** \| *Mobility Startup* 2024 -- Present\
 **Technologies:** Elixir, Ash Framework, Flutter, Java 21 (Spring Boot),
-GraalVM, Google Cloud, Pulumi, Agentic AI with Pi.dev\
+GraalVM, Google Cloud, Pulumi, Claude Code (Max plan), Agentic AI with Pi.dev\
 
-- Architected and developed a mobility platform powered by Agentic AI
+- Architected and developed a mobility platform using Claude Code (Max
+  plan) as the primary development harness, complemented by Agentic AI
   with Pi.dev, designing and implementing the agent lifecycle (skills,
   commands, workflow) as an execution harness, integrating cost-effective
   LLMs to optimize expenses without sacrificing performance.

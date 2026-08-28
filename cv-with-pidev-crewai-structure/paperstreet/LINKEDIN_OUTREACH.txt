@@ -1,0 +1,11 @@
+Hi [Hiring Manager],
+
+I run internal AI tooling for a production mobility platform on Google Cloud. I design agent workflows on Pi.dev and opencode (spec → plan → execute → verify), integrate cost-efficient LLMs, and handle API spend as an operating constraint.
+
+For 15 years I've built REST APIs and system integrations for banking and enterprise — from 15M-record financial migrations at Citibank to recurring internal reporting and e-commerce integrations. Strong SQL foundation. I write Python for automation, and I monitor what systems actually cost to run.
+
+I'm interested in your Applied AI Developer role — building, maintaining, and troubleshooting integrations with OpenAI, Anthropic, Gemini APIs sounds like ownership I can take end-to-end. Part-time initially (15 h/week at USD 35/hour), with clear path to full-time.
+
+Open to a call?
+
+—Gonzalo

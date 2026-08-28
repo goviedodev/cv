@@ -42,7 +42,7 @@ Mi capacidad de adaptación es rápida y comprobada — en cada cambio de indust
 
 ## Valor Diferencial
 
-Adicionalmente, incorporo en mi flujo diario **harnesses de agentes de IA (Pi.dev, Opencode)** para orquestar codificación asistida, generación de tests y despliegues automatizados, incrementando mi productividad hasta un 300% sin sacrificar calidad ni gobernanza técnica.
+Adicionalmente, incorporo en mi flujo diario **harnesses de agentes de IA (Pi.dev, Opencode, Claude Code)** para orquestar codificación asistida, generación de tests y despliegues automatizados, incrementando mi productividad hasta un 300% sin sacrificar calidad ni gobernanza técnica.
 
 Estoy disponible de inmediato para modalidad remota desde Chile y listo para aportar desde el día uno.
 

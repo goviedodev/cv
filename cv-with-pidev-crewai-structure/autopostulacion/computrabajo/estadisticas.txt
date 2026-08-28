@@ -1,0 +1,1087 @@
+===============================================================================
+ ESTADISTICAS DE AUTOPOSTULACION - COMPUTRABAJO CHILE
+ Candidato: Gonzalo Oviedo Lambert  (goviedo.laboral@gmail.com / +56 9 6372 3603)
+ Ultima actualizacion: 2026-08-19
+===============================================================================
+
+-------------------------------------------------------------------------------
+1. EMBUDO ACTUAL (fuente: candidato.cl.computrabajo.com/candidate/home)
+-------------------------------------------------------------------------------
+
+  Postulado ............... 127
+  CV visto .................. 27
+  En proceso ................. 3
+  Finalista .................. 0
+  ------------------------------
+  TOTAL ACUMULADO .......... 157
+
+  Quien vio mi perfil ........ 9
+  Perfil completado ........ 94%
+
+  Medicion 2026-08-14 (R9). Baseline del dia: 121 + 27 + 3 + 0 = 151.
+  Cierre: 127 + 27 + 3 + 0 = 157. Delta exacto = 6, coincide con las 6
+  postulaciones enviadas (5 en el barrido pubdate=7 + 1 en el barrido total).
+
+  NOTA: "Postulado" y "CV visto" son tramos excluyentes del embudo, no
+  subconjuntos. Una postulacion que la empresa abre SALE del contador
+  "Postulado" y entra en "CV visto". Por eso el total es la suma, no el
+  valor de "Postulado".
+
+  Tasa de lectura por parte de empresas: 27/157 = 17,2%
+  Avances de proceso ("En proceso"): 3/157 = 1,9%
+  Finalistas / contrataciones: 0
+
+  COMPARACION CON GETONBOARD (medida el mismo dia, n=88):
+    Computrabajo  156 postulaciones -> 17,3% leidas -> 1,9% en proceso -> 0 hired
+    GetOnBoard     88 postulaciones -> 42,0% leidas -> 14,8% con mensaje -> 0 hired
+  GetOnBoard consigue MAS DEL DOBLE de tasa de lectura con la mitad de
+  postulaciones. Computrabajo aporta volumen; GetOnBoard aporta contacto real.
+  Con 244 postulaciones acumuladas entre ambos portales y CERO contrataciones,
+  el problema no es el volumen: es la conversion post-lectura (CV y carta).
+
+
+-------------------------------------------------------------------------------
+2. RESUMEN POR RONDA (2026-07-31)
+-------------------------------------------------------------------------------
+
+  Ronda   Enviadas   Descartadas   Ofertas revisadas   Rendimiento
+  ------- ---------- ------------- ------------------- -----------------------
+  Previas      37          -               -           anteriores a la sesion
+  R1           20          5              82           pool inicial amplio
+  R2           20          2             168           pool ya filtrado
+  R3            9          9             279           pool AGOTADO
+  R9            6        446             452           PORTAL AGOTADO
+  ------- ---------- ------------- ------------------- -----------------------
+  TOTAL        92        462             981
+
+  R9 (2026-08-14): barrido acotado a pubdate=7 sobre 4 busquedas
+  (desarrollador-java, desarrollador, ingeniero-de-software,
+  desarrollador-backend) -> 90 ofertas unicas -> 9 leidas a fondo -> 5 enviadas.
+  Confirma el rendimiento decreciente: 20 -> 20 -> 9 -> 5.
+
+  Las 37 "previas" se obtienen por resta (86 total - 49 de esta sesion).
+  Incluyen una tanda del mismo dia anterior a esta sesion, mas 9 de dias
+  previos. No se tomo baseline antes de R1, de ahi que sea una resta y no
+  una medicion directa.
+
+  Curva de rendimiento: 20 -> 20 -> 9 -> 4 -> 10 postulaciones por ronda.
+  El portal se agoto para este perfil en la 3a ronda con filtros
+  estandar. La R5 solo fue posible relajando los filtros de renta y
+  presencialidad por decision explicita del candidato.
+
+  [8] La UI de resultados cambio: ya no usa <article> en Mis
+      postulaciones y las URLs de busqueda publica son
+      /trabajo-de-<termino>, no /empleos-busqueda-<termino>.
+
+  [9] Al extraer el detalle de una oferta, body.innerText captura el JS
+      de los <script> y no llega a la descripcion. Hay que remover
+      script/style/noscript y leer el contenedor <main>.
+
+  [10] RIESGO REAL: con CHROME_DEVTOOLS_AXI_AUTO_CONNECT=1 el foco puede
+      saltar a otra pestana del usuario. El 2026-08-03 se escribieron 3
+      respuestas en un formulario de trabajando.cl por este motivo (se
+      limpiaron, no se enviaron). Validar SIEMPRE location.href antes de
+      escribir o hacer clic: todo script debe abortar si la URL no es la
+      esperada.
+
+
+-------------------------------------------------------------------------------
+3. DISTRIBUCION POR EMPRESA (76 filas unicas identificables de 86)
+-------------------------------------------------------------------------------
+
+   19  Abenis                              <- publica el mismo cargo N veces
+   11  BCTecnologia
+    8  Kibernum
+    3  AGtec Servicios Informaticos
+    3  Manpower Chile
+    2  Tecnova Soluciones Informaticas
+    2  RyC Consultores Asociados
+    2  TicMoAI
+    2  COASIN
+    2  Nexatech Consulting
+    2  Perceptual Consultores
+    2  Valor Unico
+    2  MM Asesorias
+    2  Importante empresa del sector
+    1  AFP Habitat / All Nutrition / SIGMA / Binexo / HR Experience /
+       Grafton Latam / ATCOM / Avos Tech / Michael Page / Tactica /
+       GrupoExpro / Fuerza Laboral / (retail) / (tecnologico)
+
+  28 empresas distintas.
+  Concentracion: Abenis + BCTecnologia + Kibernum = 38 de 76 (50%).
+
+  NOTA DE CONTEO: 76 filas vs 86 del contador. La diferencia son avisos
+  gemelos (mismo titulo, misma empresa, mismo minuto) que colapsan al
+  deduplicar. El contador del portal es la cifra exacta.
+
+
+-------------------------------------------------------------------------------
+4. POSICIONES DESTACADAS POSTULADAS
+-------------------------------------------------------------------------------
+
+  ARQUITECTURA / LIDERAZGO
+    Arquitecto de Aplicaciones TI ............ AFP Habitat
+    Arquitecto/a de Software Cloud AWS ....... BCTecnologia      $3.000.000
+    Arquitecto de Software ................... COASIN            $2.500.000
+    Arquitecto/a de Desarrollo IA ............ All Nutrition
+    Principal Full Stack Security Platform ... AGtec
+    Lider Tecnico Arquitectura de Procesos ... TicMoAI            remoto
+    Lider Tecnico React/NestJS ............... Kibernum           remoto
+    Jefe de Desarrollo TI .................... -
+
+  IA
+    AI Engineer IA Generativa ................ BCTecnologia      $3.100.000
+    AI Engineer / Backend AI Engineer ........ Manpower          $2.680.000
+    Ingeniero de Datos IA .................... Manpower
+    Arquitecto de Inteligencia Artificial .... Manpower
+    Desarrollador con experiencia en IA ...... Binexo
+
+  BACKEND / FULLSTACK
+    Backend Developer Java ................... Michael Page      $1.800.000  remoto
+    Fullstack Senior GCP ..................... BCTecnologia      $2.700.000
+    Desarrollador(a) Full Stack .............. BCTecnologia      $2.500.000
+    Developer Full Stack Senior .............. AGtec              remoto
+    Backend TypeScript/NestJS ................ Kibernum           remoto
+    Fullstack Senior Node.js/React ........... Kibernum           remoto
+    DevOps Senior ............................ Avos Tech          remoto
+    Oracle PL/SQL ............................ Nexatech / Tecnova
+
+
+-------------------------------------------------------------------------------
+5. DESCARTES Y MOTIVOS (16 ofertas no enviadas)
+-------------------------------------------------------------------------------
+
+  POR MODALIDAD 100% PRESENCIAL (3)
+    Desarrollador IA (Abenis, Las Condes)
+    Ingeniero de Sistemas IA Generativa (100% presencial, Puente Alto)
+    Desarrollador Web (100% presencial)
+
+  POR STACK EXCLUYENTE AJENO (6)
+    Full Stack AFP Plan Vital ......... 100% ASP.NET + renta $1.500.000
+    Full Stack Hibrido Las Condes ..... 100% ASP.NET + renta $1.111.111
+    Integrador de APIs Proxy Senior ... .NET 8 / C# / Azure excluyente
+    Full Stack salud hospitalaria ..... ASP.NET/VB.Net + 6 meses previos
+                                        exigidos en Hospital La Florida
+    Especialista Aplicaciones ......... SAP + Power Platform + Copilot
+    Arquitecto de Datos ............... Magister + Databricks excluyentes
+
+  POR ROL QUE NO CORRESPONDE (7)
+    Arquitecto TI ..................... era preventa comercial Microsoft/Google
+    Consultor Tecnologico ............. mismo aviso de preventa comercial
+    Ingeniero Soporte Aplicativo ...... soporte tecnico, perfil de tecnico
+    Jefe de Proyecto TI ............... exige certificacion PMP/PRINCE2
+    Jefe(a) de Proyectos Las Condes ... obras de CONSTRUCCION retail
+    Jefe de Proyectos TI .............. migracion de HARDWARE
+    DBA Oracle Senior / DBA ........... administracion de BD, no desarrollo
+    Desarrollador Full Stack (Concon) . soporte tecnico, no desarrollo
+
+  CRITERIO: no se postula por llenar cupo. Postular a un stack ajeno obliga
+  a afirmar experiencia inexistente en las killer questions y destruye la
+  credibilidad del candidato en el proceso.
+
+
+-------------------------------------------------------------------------------
+6. GAPS DECLARADOS CON HONESTIDAD EN LAS KILLER QUESTIONS
+-------------------------------------------------------------------------------
+
+  Se declararon abiertamente, explicando siempre lo transferible:
+
+    Kubernetes en produccion ..... usa Docker + Cloud Run (GCP)
+    Terraform / Ansible .......... su IaC es Pulumi
+    AWS CDK / CloudFormation ..... su cloud de especialidad es GCP
+    AWS como arquitectura ........ en AWS solo Lambda y S3
+    Machine Learning / MLOps ..... integra LLMs, no entrena modelos
+    LangChain / LlamaIndex ....... orquesta agentes a bajo nivel y MCP
+    SageMaker / Azure AI / OCI ... sin experiencia
+    NestJS ....................... sin produccion (Node ~3 anios)
+    Vue.js / Next.js ............. sin experiencia profesional
+    Angular 15+ / Signals ........ su Angular es de versiones previas
+    .NET / C# .................... sin experiencia profesional
+    Python como stack principal .. nivel scripting y automatizacion
+    Redshift / Databricks ........ sin experiencia
+    TypeORM / Prisma / Sequelize . usa JPA-Hibernate y Ecto
+    Web Components ............... sin produccion
+    Certificacion PMP/PRINCE2 .... no la tiene
+    Proyectos de inversiones ..... sin experiencia
+
+
+-------------------------------------------------------------------------------
+7. CRITERIOS VIGENTES (confirmados por Gonzalo el 2026-07-31)
+-------------------------------------------------------------------------------
+
+  MODALIDAD: solo hibrido o remoto. Descartar 100% presencial.
+             Reside en Limache, Region de Valparaiso.
+             El tag "Presencial y remoto" del portal NO es fiable:
+             hay que leer el cuerpo del aviso.
+
+  RENTA:     rango $1.800.000 - $3.000.000 CLP liquidos mensuales,
+             segun el cargo. Descartar avisos bajo el piso.
+
+               Arquitecto / Tech Lead / Jefatura ....... $3.000.000
+               Senior / Staff / Especialista ........... $2.700.000
+               Desarrollador / Full Stack .............. $2.400.000
+               Semi Senior ............................. $2.000.000
+
+             Si el aviso publica una renta dentro del rango, alinearse a
+             esa cifra en vez de pedir por encima.
+
+  AUTORIZACION: global sobre lista filtrada. Se ejecuta el lote completo
+                sin confirmar oferta por oferta.
+
+  DOCUMENTOS:  cv.pdf + carta "Senior Backend Developer - Java / Spring
+               Boot / Elixir / IA" (se adjunta con el boton Actualizar
+               en la pagina postapply).
+
+
+-------------------------------------------------------------------------------
+8. INVENTARIO RESTANTE EN EL PORTAL (no afin)
+-------------------------------------------------------------------------------
+
+  Medicion 3a ronda: ~500 ofertas unicas desde 60+ URLs de busqueda.
+  279 no postuladas e hibridas/remotas -> solo 9 pasaron el filtro.
+
+    Desarrollador BPM Oracle (Abenis) ........ ~40 avisos duplicados
+    Ciberseguridad Endpoint / CyberArk ....... ~12
+    Ingeniero de Proyectos Solares ........... ~10
+    Cobol / Mainframe / Host ................. ~8
+    Salesforce / Murex / SAP / Dynamics ...... ~20
+    Procesos industriales y banca (no TI) .... ~15
+
+  CONCLUSION: pedir "20 mas" en Computrabajo ya no es alcanzable sin
+  romper el filtro de afinidad. Opciones: esperar avisos nuevos, ampliar
+  a otros portales (ver JOB-PORTALS.md), o relajar explicitamente un filtro.
+
+
+-------------------------------------------------------------------------------
+9. NOTAS METODOLOGICAS (aprendidas a golpes, no repetir los errores)
+-------------------------------------------------------------------------------
+
+  [1] La UNICA fuente de verdad del estado es /candidate/match?st=1 y el
+      contador de /candidate/home. La pagina de detalle de una oferta NO
+      sirve: sigue mostrando "Postularme" visible aunque ya se haya
+      postulado (falsos negativos sistematicos, verificado con espera de
+      10 s). El fetch del HTML crudo tampoco: trae siempre los literales
+      "Ya aplicaste a esta oferta" y "Postularme".
+
+  [2] TOMAR BASELINE ANTES de cada ronda. Sin baseline es imposible
+      separar lo nuevo de lo preexistente.
+
+  [3] Hay retraso de indexacion de 1-2 minutos. Una postulacion con
+      postapply confirmado puede no aparecer aun en la lista. Esperar y
+      releer antes de darla por fallida.
+
+  [4] NO deduplicar por titulo+empresa: Abenis publica titulos identicos
+      y eso subcuenta. Usar el contador del portal.
+
+  [5] Limite de 500 caracteres por respuesta. El setter nativo de JS lo
+      salta sin avisar y el boton "Enviar mi CV" queda mudo: la pagina
+      se queda en /kq sin mensaje de error. Validar longitudes SIEMPRE
+      antes de enviar.
+
+  [6] Condicion de carrera: esperar >=3 s entre abrir la oferta y hacer
+      clic. La pagina /match/ posterior a una postulacion lista "Ofertas
+      similares" con sus propios botones "Postularme", y un clic
+      desfasado puede postular a una oferta no revisada.
+
+  [7] Las tres rutas tras "Postularme":
+        /match/?oi=...            -> postulada, sin cuestionario
+        /candidate/kq?oi=...      -> hay killer questions
+        /candidate/postapply?oi=. -> enviada; pulsar "Actualizar" para
+                                     adjuntar la carta de presentacion
+
+  [8] NO SE PUEDE DETECTAR "ya postulada" DESDE LA PAGINA DE DETALLE.
+      Verificado el 2026-08-03 sobre una oferta postulada 7 minutos antes
+      (Analista Programador Computacional, Abenis): el detalle seguia
+      mostrando dos anclas "Postularme" VISIBLES (offsetParent!==null) y
+      las anclas "Postulado" con clase "hide". El literal "Ya aplicaste a
+      esta oferta" tampoco aparecia. Es decir, el detector por visibilidad
+      da FALSOS NEGATIVOS sistematicos. No usarlo para decidir.
+
+  [9] LA URL /match/?oi=... NO PRUEBA UNA POSTULACION NUEVA.
+      Pulsar "Postularme" sobre una oferta YA postulada devuelve igualmente
+      /match/?oi=..., sin error ni aviso. En R6 esto hizo contar 11
+      postulaciones cuando solo 3 eran nuevas. La UNICA prueba valida es
+      que la oferta aparezca en /candidate/match?st=1 con timestamp
+      reciente ("Hace N minutos"), o el delta del contador de
+      /candidate/home.
+
+  [10] DEDUPLICAR CONTRA EL BASELINE POR titulo+empresa FALLA.
+      Los avisos se republican con el mismo slug y distinto ID hex de 32
+      caracteres, y el titulo listado en Mis postulaciones se abrevia
+      respecto del titulo del aviso ("Desarrollador Fullstack" vs
+      "Desarrollador Fullstack - Typescript"). En R6 esto clasifico como
+      nuevas 14 ofertas ya postuladas. Antes de cada ronda: scrapear las
+      93+ postulaciones completas y comparar por slug normalizado, no por
+      titulo literal.
+
+
+-------------------------------------------------------------------------------
+10. HISTORIAL
+-------------------------------------------------------------------------------
+
+  2026-08-10  R7: 42 postulaciones NUEVAS (peticion era 40). CUMPLIDA.
+              Baseline 85 Postulado + 14 CV visto + 1 En proceso = 100
+              -> cierre 126 + 15 + 1 = 142. Delta exacto = 42.
+              Metodo: busqueda unica "Java" via #prof-cat-search-input +
+              lupa .icon.i_search -> /trabajo-de-java, 30 paginas,
+              599 ofertas unicas.
+              Embudo del triaje: 599 -> 576 sin tag postulado -> 204
+              afines por titulo -> 131 tras quitar ruido -> 130 barridas.
+              Descartes automaticos primera pasada: 26 por 100% presencial,
+              16 por stack excluyente, 12 por renta bajo $1.800.000.
+              Fase de formularios: 42 ofertas con killer questions,
+              39 enviadas con carta adjunta, 3 abortadas porque el propio
+              cuestionario revelo stack excluyente (.NET/Azure en
+              "Desarrollador Backend", "Integrador de APIs Proxy Senior"
+              y "Desarrollador Webservice").
+              Reparto por empresa de las 39: Abenis 12, Michael Page 6,
+              BCTecnologia 5, Importante empresa TI 5, Kibernum 3,
+              Valor Unico 2, Castano Panaderias 2, y 1 c/u en Avos Tech,
+              ENOLA, SCL Consultores e Importante empresa del sector.
+              Filtros ampliados por decision del candidato en esta ronda:
+              IA SI calza (es IA Senior, no descartar por "IA Junior") y
+              Mobile SI calza (experiencia Flutter en Te Llevo App).
+              Gaps declarados explicitamente en las respuestas: sin
+              Kubernetes en produccion (Docker + Cloud Run), sin Terraform
+              (IaC en Pulumi), sin ML clasico / entrenamiento / MLOps,
+              Python solo para scripting e integracion de IA.
+              PENDIENTE DE REVISION: "Analista Programador SQL" se envio
+              pese a llevar "presencial" en el titulo; el filtro de
+              modalidad no lo capturo. Confirmar con el candidato si se
+              retira.
+
+  2026-08-10  R7-bis: 2 postulaciones NUEVAS. Busqueda adicional
+              "vibe coding" pedida por el candidato tras cerrar R7.
+              Cierre 142 -> 144. Delta exacto = 2.
+              Solo 10 ofertas en el termino, TODAS de "Importante empresa
+              del sector TI" (Puente Alto): el nicho es un unico
+              empleador republicando el mismo aviso.
+              5 ya se habian postulado en R7 (mismo hex) y se filtraron
+              antes de abrir. De las 5 restantes:
+                - Especialista en Automatizacion con IA Vibe Coding
+                  (Claude Code o Codex) ......... POSTULADA + carta
+                - Analista de Sistemas con Enfoque en IA ... POSTULADA + carta
+                - Desarrollador Vibe Coding ........ ya postulada (/match/)
+                - Programador de Sistemas Vibe Coding  ya postulada (/match/)
+                - Analista de Sistemas con Enfoque en IA .. renta $200.000
+              Las 2 "ya postulada" confirman en vivo el hallazgo (a):
+              la parrilla las mostraba SIN tag y si estaban postuladas;
+              son republicaciones del mismo aviso con distinto hex.
+              Nueva respuesta incorporada al banco: "vibe coding /
+              Claude Code / Codex / agentes de codigo" -> uso diario de
+              coding agentico orquestando agentes, con revision bajo
+              criterio de arquitectura, patrones y SOLID. Es el
+              diferencial real del candidato y la respuesta generica
+              lo desaprovechaba.
+
+              TOTAL DEL DIA 2026-08-10: 100 -> 144 = 44 postulaciones.
+
+  2026-08-10  R8: 3 postulaciones nuevas -- LAS 3 FUERON ERRORES DE FILTRO.
+              Peticion: "continua, llegaron nuevas". Baseline 144 -> 147.
+              Rebarrido de "Java": 598 unicas, de las cuales solo 24 eran
+              avisos que NO estaban en el barrido de la manana. De esas 24,
+              6 pasaron el filtro de afinidad por titulo.
+              Resultado del loop: 3 postuladas, 3 descartadas
+              (1 stack, 1 ABORT por stack en las killer questions,
+               1 renta $1.000.000).
+              PERO las 3 postuladas NO debieron enviarse:
+                - Senior Fullstack Developer Java (Michael Page):
+                  cabecera "Presencial en Puerto Montt" -> 100% presencial
+                  en Puerto Montt. El filtro solo buscaba "100% presencial"
+                  y "jornada presencial". El slug ya lo decia.
+                - Ingeniero Programador (Calama): etiquetado "Remoto" pero
+                  el cuerpo pedia Ingeniero Proyectista para mineria,
+                  programas de aseo y mantenimiento y continuidad
+                  operacional. NO es un cargo de software.
+                - Desarrollador Geolocalizacion (BCTecnologia, $4.000.000):
+                  exige .NET y ArcGIS. El cuerpo decia "experiencia en.NET"
+                  sin espacio, y el patron \.net core|asp\.net no lo capturo.
+              PENDIENTE: decidir con el candidato si se retiran las 3.
+              Filtros ya corregidos en vibe.sh y documentados en el skill
+              (seccion "Tres fugas de filtro verificadas el 2026-08-10").
+
+  2026-08-10  R9: 6 postulaciones nuevas. Termino de busqueda "programador".
+              Baseline 147 -> 154 en el contador (+7, ver nota al final).
+              Universo: 600 unicas, 443 ya vistas hoy con otros terminos,
+              157 no vistas -> 31 tras afinidad por titulo -> 11 tras
+              depurar ruido industrial -> 6 postuladas, 5 descartadas
+              (2 renta bajo piso, 1 presencial, 2 ya postuladas /match/).
+
+              POSTULADAS (verificadas una a una en Mis postulaciones):
+                1. Fullstack Senior Node.js + Angular - GCP (Kibernum)
+                   -> calce fuerte: backend sobre Google Cloud.
+                2. Programador Android Kotlin (EMA SpA)
+                   -> BORDERLINE: es Android NATIVO en Kotlin; la
+                      experiencia mobile real del candidato es FLUTTER.
+                      Se declaro Flutter con honestidad en las respuestas.
+                3. Desarrollador (KASTOR)
+                   -> ERROR DE FILTRO: el backend es LARAVEL (PHP).
+                      El filtro de stack no incluia php/laravel. Corregido.
+                4. Desarrollador Fullstack (Abenis)
+                5. Desarrollador Frontend (Abenis)
+                6. Desarrollador Python (Abenis)
+                   -> las tres de Abenis son avisos genericos de captacion
+                      de CV ("estamos constantemente reclutando perfiles
+                      TI"), sin descripcion de cargo real. Bajo valor.
+
+              NOTA SOBRE EL DELTA: el contador subio 7 y el loop postulo 6.
+              La septima fila reciente en Mis postulaciones es
+              "Desarrollador/a Web con experiencia en Integraciones
+              $1.400.000" (Providencia), que los scripts habian DESCARTADO
+              esta manana por stack excluyente (run.log, idx 85, 09:25).
+              No proviene de ningun loop: probablemente fue una postulacion
+              manual del candidato desde su navegador.
+
+              FILTRO AMPLIADO tras esta ronda: se agregaron al descarte por
+              stack php, laravel, symfony, codeigniter, woocommerce, odoo,
+              prestashop y drupal.
+
+  ---- HALLAZGOS METODOLOGICOS DE R7 (corrigen el skill) ----
+
+  (a) El tag "tag postulated" NO sirve como filtro de ya-postulado.
+      La clase real es span.tag.postulated y el discriminador es la
+      ausencia de .hide, PERO solo se renderiza client-side: leido por
+      fetch + DOMParser las 599 ofertas salen como no postuladas.
+      Y aun leyendolo en la pagina renderizada da FALSOS NEGATIVOS:
+      30 avisos aparecian sin tag y ya estaban postulados.
+
+  (b) /match/?oi=... SIGNIFICA "YA POSTULADO", no postulacion nueva.
+      Esto corrige la tabla del skill, que lo describia como
+      "postulacion directa sin killer questions". Verificado con delta
+      duro: 33 avisos dieron "OK" en el loop, 30 de ellos via /match/
+      y no movieron el contador; solo los 3 que pasaron por
+      /candidate/postapply fueron reales (100 -> 103).
+      => El unico destino que prueba una postulacion nueva es
+         /candidate/postapply (con o sin killer questions previas).
+
+  (c) Las ofertas que redirigen a /candidate/kq son el pool realmente
+      disponible: el portal solo pide cuestionario si no estas postulado.
+      En R7 fueron 42 de 130, y 39 se convirtieron en postulacion.
+
+  (d) TRAMPA OPERATIVA GRAVE: dos scripts corriendo a la vez contra el
+      mismo Chrome se pisan la navegacion. Un kq_dump.sh zombi hizo que
+      kq_run.sh cargara el formulario de OTRA oferta (pregunta de
+      Python/FastAPI en un aviso de Java/banca). Antes de lanzar un loop:
+        ps aux | grep -E "loop.sh|kq_run|kq_dump"
+      y matar lo que quede vivo. Ademas, SIEMPRE verificar que
+      location.href contiene el hex de la oferta esperada antes de
+      pulsar "Postularme" y antes de rellenar; si no coincide, saltar.
+      Tambien: no llamar a selectpage entre open y eval (desincroniza
+      la pestaña); y no tocar el navegador mientras corre el loop.
+
+  2026-07-31  R1: 20 postulaciones (5 descartes).
+              SIN BASELINE PREVIO (error metodologico de esa ronda). Las 20
+              se verificaron una a una en Mis postulaciones, no por delta.
+
+  2026-07-31  R2: 20 postulaciones (2 descartes).
+              Baseline "Postulado" 55 -> 75. Delta exacto = 20.
+
+  2026-08-03  R5: 10 postulaciones con filtros relajados por decision del
+              candidato. Baseline 90 -> 99 (delta 9 en el contador; la
+              n.10 quedo indexada bajo el nombre real de la empresa,
+              GrupoExpro, verificada una a una en Mis postulaciones).
+              Criterios autorizados por Gonzalo para esta ronda:
+                (a) postular bajo el piso de $1.800.000 por el sueldo
+                    publicado;
+                (b) si el aviso pide 100% presencial, plantear remoto o
+                    hibrido como CONVERSABLE, argumentando seniority;
+                (c) si el sueldo publicado es < $900.000, ofrecerse por
+                    contrato de prestacion de servicios;
+                (d) PHP: declarar la experiencia real en WebClass (~1 ano,
+                    confirmada verbalmente por el candidato el 2026-08-03,
+                    NO figuraba en cv.md) + la IA como acelerador.
+              PENDIENTE: agregar PHP al stack de WebClass en cv.md.
+              Descartes de la ronda: Arquitecto(a) (era arquitectura de
+              edificios, no software) y Senior Project Developer ERNC
+              (desarrollo de proyectos de inversion, no software).
+
+  2026-08-03  R4:  4 postulaciones (calce fuerte, filtros estandar).
+              Baseline "Postulado" 79 + 7 CV visto = 86 -> 90.
+              Barrido de 20 terminos, 739 ofertas unicas, 106 candidatas
+              tras filtro grueso, 12 pasaron los filtros duros, 4 con
+              calce fuerte. Busqueda adicional 'desarrollador' + 'php':
+              258 ofertas, 53 nuevas candidatas, 0 postulables con
+              filtros estandar (todo .NET, Cobol, Salesforce, Murex,
+              BPM Oracle, ServiceNow o programador de taller).
+
+  2026-08-03  R6:  3 postulaciones NUEVAS (peticion era >=20).
+              Baseline 92 Postulado + 7 CV visto = 99 -> 94 + 8 = 102.
+              Delta exacto = 3, verificado tambien una a una en Mis
+              postulaciones ("Hace N minutos"):
+                - Analista Programador Computacional (Abenis)
+                - Senior Fullstack GCP (BCTecnologia)   [killer questions]
+                - Desarrollador Fullstack (Kibernum)
+              Triaje: 141 candidatas nuevas leidas a nivel de cuerpo del
+              aviso -> 17 pasaron modalidad + afinidad + renta. De esas 17,
+              14 ya estaban postuladas de rondas anteriores (R4/R5, "Hace
+              3 dias" / "Hace 4-5 horas"). Solo 3 eran realmente nuevas.
+              Gaps declarados en las killer questions de BCTecnologia GCP:
+              sin RAG/LangChain/MLOps, sin Kubernetes en produccion (usa
+              Docker + Cloud Run), IaC con Pulumi y no Terraform.
+              Descartes del segmento: Tecnova Arquitecto de Datos
+              (Magister + certificaciones Databricks), Aeolabs Tech Lead
+              (C#/SQL Server), Manpower Full Stack Remoto (Golang),
+              Castano Panaderias (SAP S/4HANA + Power BI/DAX), Full Stack
+              Senior salud (ASP.NET/C# y 100% presencial), y ~40 avisos
+              duplicados de Abenis con "Jornada Presencial".
+              CONFIRMA el agotamiento del pool: 20 -> 20 -> 9 -> 4 -> 10 -> 3.
+
+  2026-07-31  R3:  9 postulaciones (9 descartes).
+              Baseline "Postulado" 75 -> 84 al cierre. Delta exacto = 9.
+              Al reconsultar mas tarde: 83 Postulado + 3 CV visto = 86,
+              porque 3 postulaciones avanzaron de tramo en el embudo.
+              Pool de Computrabajo agotado para el perfil.
+
+===============================================================================
+ Mantenido por el agente via skill: .pi/skills/job-hunter-computrabajo/SKILL.md
+ Actualizar este archivo al cierre de cada ronda de postulacion.
+===============================================================================
+
+
+===============================================================================
+ RONDA R9 - 2026-08-14
+===============================================================================
+
+  Baseline: 121 Postulado + 27 CV visto + 3 En proceso = 151
+  Cierre:   126 Postulado + 27 CV visto + 3 En proceso = 156
+  DELTA EXACTO = 5
+
+  ENVIADAS (5) - todas con CV + Carta de presentacion confirmados
+  ("Hemos adjuntado cv.pdf a tu postulacion y tu Carta de presentacion"):
+
+   1. Arquitecto de Software - TicMoAI
+      Hibrido Providencia - $2.700.000 publicado
+      Renta declarada: $2.700.000 liquidos (alineada al aviso)
+      KQ: titulado ingenieria = Si; disponibilidad hibrida = Si;
+          anos como Arquitecto -> declarado con honestidad: 6 anos de
+          liderazgo tecnico/arquitectura, de los cuales ~2 con el cargo
+          titular de Architect. NO se inflo a "15 anos de arquitecto".
+
+   2. Lider Tecnico - TicMoAI
+      Hibrido Providencia - $2.700.000 publicado
+      Renta declarada: $2.700.000 liquidos
+      KQ: anos como Lider Tecnico -> 6 (Seven IT 2017-2020 con equipo de 4,
+          Te Llevo App 2024-2026).
+
+   3. Desarrollador Full Stack / Java - TicMoAI
+      Hibrido Providencia - $2.100.000 publicado
+      Renta declarada: $2.100.000 (regla del skill: alinear al aviso cuando
+      la cifra publicada cae dentro del rango del candidato).
+      KQ: anos full stack -> ~8 sobre 15+ de desarrollo, con foco backend.
+
+   4. Desarrolladores Backend - ABENIS (cliente final)
+      Hibrido Las Condes - sin renta publicada
+      Renta declarada: $2.700.000 liquidos
+      GAP DECLARADO EXPLICITAMENTE: el aviso exige "experiencia comprobable
+      en AWS". Se respondio que su nube productiva es GCP con Docker y
+      Pulumi, y que en AWS solo ha trabajado Lambda de forma acotada;
+      Python es de apoyo, no de produccion.
+
+   5. Desarrollador de Soluciones IA (vibe coding, Claude Code o Codex)
+      Puente Alto - sin renta publicada - empresa de energia electrica
+      Mejor encaje de la ronda: las 3 killer questions preguntaban
+      literalmente por Claude Code/Codex, prompting avanzado, gestion de
+      contexto y uso de skills y plugins. Se respondio con el harness real
+      (reglas por proyecto, skills, subagentes, hooks, MCP).
+
+  DESCARTADAS EN LA LECTURA DEL AVISO (4 de las 9 leidas a fondo):
+   - Desarrollador Oracle PL/SQL: el destino tras Postularme fue /match/,
+     es decir YA ESTABA POSTULADA. No cuenta.
+   - Desarrollador SR Fullstack (DCS Chile): stack declarado JavaScript,
+     React, Node.js, .NET. Ninguna mencion de Java. Sin overlap con su nucleo.
+   - Desarrollador TI (Quilicura): rol de soporte y mantencion de sistemas
+     internos, sin stack definido.
+   - Desarrollador/a Mobile: exige React Native + Expo. Su movil es Flutter,
+     no es transferible como equivalente.
+
+  DESCARTES AUTOMATICOS DEL FILTRO (85 de 90):
+    stack/rol excluyente 27 · titulo no afin 35 · presencial (slug) 3 ·
+    renta < $1.800.000 3 · resto duplicados y republicaciones.
+    Se confirmo de nuevo la fuga #3 de R8: "Programador" en mineria e
+    industria (Programador Laser, Programador de Mantencion, Programador
+    Corto Plazo Equipos Mina, Ingeniero Programador Calama) NO son cargos
+    de software. Hubo que anadir al patron: laser, mantencion, corto plazo,
+    geomensura, dibujante, bodega, electrico, simulaciones, b2b, trainee.
+
+  NOTA METODOLOGICA NUEVA (R9): los indices de las killer questions NO son
+  estables entre avisos. En las ofertas 1 y 2 los textareas eran _2_ y _3_ y
+  los radios [0] y [1]; en la oferta 3 los textareas eran _0_ y _2_ y los
+  radios [1] y [3]. SIEMPRE volcar el formulario antes de rellenar y mapear
+  por id real, nunca asumir indices fijos.
+
+
+-------------------------------------------------------------------------------
+ R9 - SEGUNDA FASE: BARRIDO TOTAL SIN FILTRO DE FECHA (2026-08-14)
+-------------------------------------------------------------------------------
+
+  El primer barrido de R9 uso pubdate=7 y encontro 90 ofertas. A peticion del
+  candidato ("hay mas opciones? sigue hasta que se agote") se repitio el
+  barrido SIN filtro de fecha sobre 10 busquedas x 3 paginas:
+  java, spring-boot, desarrollador-backend, desarrollador-fullstack,
+  arquitecto-de-software, lider-tecnico, ingeniero-de-software,
+  programador-java, inteligencia-artificial, analista-programador.
+
+  RESULTADO DEL EMBUDO DE BUSQUEDA
+    452 ofertas unicas recolectadas
+    -> 360 descartadas por filtro automatico
+         stack/rol excluyente ....... 190
+         titulo no afin ............. 126
+         presencial (slug) ........... 28
+         renta < $1.800.000 .......... 16
+    ->  92 candidatas
+    ->  24 sondeadas con el discriminador de Postularme
+    ->  19 devolvieron /match/ = YA POSTULADAS
+    ->   5 disponibles -> 4 descartadas al leer el aviso -> 1 ENVIADA
+
+  ENVIADA (1):
+   6. Lider Tecnico Senior - Logicalis
+      Hibrido Las Condes - $2.500.000 - contrato INDEFINIDO
+      Renta declarada: $2.500.000 liquidos (alineada al aviso)
+      Encaje: jefatura de proyectos de desarrollo, arquitectura de software,
+      modelamiento de bases de datos y sistemas de alta transaccionalidad
+      (Citibank).
+      GAP DECLARADO: la KQ preguntaba por "Non Stop SQL, Oracle, SQL-Server y
+      PostgreSQL". Se respondio Oracle avanzado (15+ anos, PL/SQL, migracion
+      Sybase->Oracle), PostgreSQL avanzado, SQL Server acotado y
+      Non Stop SQL sobre HP NonStop (Tandem) SIN experiencia, declarado.
+
+  DESCARTADAS TRAS LEER EL AVISO (4):
+   - Fullstack Developer Java / AWS banca ($2.400.000, remoto): exige JCL
+     para Mainframe avanzado y AWS demostrable (S3, Lambda, Glue, Athena).
+     Dos requisitos duros ausentes del perfil.
+   - Lider Tecnico / Tech Lead (Santiago Centro): conocimientos requeridos
+     C# y SQL Server. El propio portal marca "Hay 3 aptitudes que faltan en
+     tu perfil".
+   - Developer Automatizador Senior: rol de QA que exige 5 anos como
+     developer .NET Core mas Playwright/Cypress/Selenium. Doble exclusion.
+   - Lider Tecnico hibrido Providencia (3BC1AE82): MISMA vacante de TicMoAI
+     ya postulada hoy con hex 0F49C78B (mismo slug, misma renta, misma
+     comuna). Se salto para no duplicar ante el mismo reclutador.
+
+  HALLAZGO: LOS AVISOS DE ABENIS NO SON VACANTES
+    Varios avisos de Abenis con titulos afines (Desarrollador java,
+    Programador java, Ingeniero de Software) tienen TODOS el mismo cuerpo:
+    "En Abenis estamos constantemente Reclutando diferentes Perfiles TI.
+    Adjunta tu CV Actualizado mencionando tus pretensiones de renta". Son
+    avisos de CAPTACION DE CV, no vacantes con requisitos. Abenis acumula 19
+    postulaciones historicas con 0 respuestas. Recomendacion: excluir Abenis
+    del pool salvo avisos con requisitos tecnicos concretos (la de
+    "Desarrolladores Backend" SI los tenia y por eso se envio).
+
+  CONFIRMACION DEL DETECTOR: el tag "post" de la parrilla (span.tag.postulated)
+  dio post=0 en 19 ofertas que estaban postuladas. Se reconfirma lo que ya
+  documenta el SKILL: ese tag NO sirve para decidir, solo el destino tras
+  pulsar Postularme.
+
+  CONCLUSION: PORTAL AGOTADO PARA ESTE PERFIL.
+  De 452 ofertas unicas del catalogo completo, no queda ninguna vacante
+  afin, hibrida/remota y sobre $1.800.000 sin postular. Para una proxima
+  ronda hay que esperar avisos nuevos (el flujo es de ~5 a 10 afines por
+  semana) o cambiar de portal.
+
+
+-------------------------------------------------------------------------------
+ R10 - RONDA DEL 2026-08-17 (3 dias despues de R9)
+-------------------------------------------------------------------------------
+
+  BASELINE (inicio)  Postulado 123 | CV visto 31 | En proceso 3 | Finalista 0
+                     Total historico en Mis postulaciones: 163 avisos
+                     (126 titulos unicos tras normalizar)
+  CIERRE             Postulado 126 -> DELTA EXACTO +3
+
+  EMBUDO DE BUSQUEDA
+    22 busquedas x 3 paginas, SIN filtro de fecha
+    608 ofertas unicas recolectadas
+    -> 444 descartadas por filtro automatico (titulo no afin / stack excluyente
+           / rol no-software / presencial por slug)
+    -> 108 ya postuladas (dedup por titulo normalizado vs baseline)
+    ->   9 duplicados internos
+    ->  47 candidatas -> 21 leidas en detalle -> 3 ENVIADAS
+
+  ENVIADAS (3) - las 3 confirmadas en /candidate/postapply + carta adjunta
+   1. Especialista en IA generativa - Global Talent (Gestion Global)
+      Hibrido Las Condes - A convenir - contrato plazo fijo
+      Renta declarada: $2.700.000 (tramo Especialista)
+      Encaje alto: IA generativa, automatizacion, APIs, ChatGPT/Copilot/
+      Gemini/Claude. Sin stack excluyente ni requisito de ingles avanzado.
+   2. Ingeniero(a) de Software - React Native - BCTecnologia
+      Hibrido Las Condes - $2.600.000 - proyecto/plazo fijo
+      Renta declarada: $2.600.000 (alineada al aviso)
+      GAP DECLARADO: cero experiencia profesional en React Native. Se
+      respondio explicitamente eso y se ofrecio Flutter (2 anos, Te Llevo App)
+      + React/TypeScript en web como base transferible.
+   3. Ingeniero Tecnologico en IA - Santiago Centro
+      Hibrido - A convenir - contrato plazo fijo
+      Renta declarada: $2.700.000
+      GAP DECLARADO: sin experiencia profesional en fine-tuning ni en ML/Deep
+      Learning clasicos ni MLOps. Se afirmo lo real: IA generativa, LLMs,
+      prompt/context engineering, agentes con tool calling y MCP, RAG con
+      embeddings y vector DB.
+
+  DESCARTADAS TRAS LEER EL AVISO (18 relevantes)
+   - Desarrollador de Soluciones IA (Vibe Coding / Claude Code, Puente Alto):
+     ENCAJE PERFECTO de stack pero "horario de Oficina" y sin tag de
+     modalidad = 100% presencial. Descartada solo por modalidad. MENCIONAR
+     A GONZALO: es el mejor calce tecnico visto en varias rondas.
+   - Ingeniero de Inteligencia Artificial (Manpower, $2.600.000): excluyentes
+     "Dominio avanzado de Python" + LangGraph/LangChain. Dos gaps duros.
+   - AI Agent Builder / Forward Deployed Engineer Ssr (Ecosistemas Global):
+     excluyentes "Ingles avanzado" + "Copilot Studio". Dos gaps duros.
+   - DevOps Azure Remoto ($2.100.000, 100% remoto): ingles avanzado
+     excluyente + AKS/ARM/Terraform Enterprise (Terraform y K8s en prod son
+     gaps declarados).
+   - DevOps Engineer Azure Ingles Avanzado: $1.000.000, bajo el piso.
+   - Arquitecto de Datos (TECNOVA, hibrido Santiago Centro): exige Magister
+     o superior en IA/Ciencia de Datos. No lo tiene.
+   - Desarrollador Full Stack salud hospitalaria (TicMoAI): ASP.NET, VB.Net,
+     .NET 5-6, EF6 + 6 meses en Hospital La Florida. Exclusion doble.
+   - Desarrollador SR Fullstack (DCS Chile): sin tag de modalidad =
+     presencial, y stack JS/React/Node/.NET sin Java.
+   - Apoyo Operativo y Proyectos de IA (Pulso21): rol de apoyo junior
+     ("ganaras experiencia practica"), no ingenieria senior.
+   - Ingeniero(a) de IA Conversacional (Santiago Centro): buen encaje de
+     contenido (LLM, NLP, APIs) pero SIN tag de modalidad = presencial.
+   - Analista Desarrollador TI (Estacion Central): pide 1-2 anos de
+     experiencia. Sobrecalificado y renta previsiblemente bajo el piso.
+   - Presenciales por falta de tag: Ingeniero de datos automatizacion e IA,
+     Lider Tecnico PMO, Director/a de IA y Productos Digitales, Lider de IA e
+     Innovacion, Especialista en IA (SIN-TAG), Arquitecto TI Lider de equipo,
+     Ingeniero de Sistemas (Desarrollo con IA Generativa).
+   - Bajo el piso de renta: Ingeniero/a de Apoyo IA avanzada Pudahuel
+     ($999.999), Analista desarrollador ($800.000), Analista de Sistemas e IA
+     ($200.000), Arquitecto (a) ($1.500.000), Analista de automatizacion y IA
+     ($950.000).
+
+  NOTAS METODOLOGICAS NUEVAS (R10)
+
+  1. EL DOM DE "MIS POSTULACIONES" CAMBIO. Ya no hay elementos <article>.
+     Cada tarjeta es ahora "div.box.dFlex.hover" y el titulo va en un <h1>
+     dentro de "div.w60.w100_m". El selector viejo devuelve 0 resultados y
+     hace creer que no hay postulaciones. Selector vigente:
+       [...d.querySelectorAll('div.box.dFlex.hover')]
+       -> c.querySelector('h1,h2,h3').textContent
+     La paginacion sigue siendo ?p=N y ?st=1 filtra solo el tramo "Postulado";
+     SIN st= devuelve las 163 (todos los tramos), que es lo correcto para
+     deduplicar.
+
+  2. CORS ENTRE SUBDOMINIOS. candidato.cl.computrabajo.com y
+     cl.computrabajo.com son origenes distintos: un fetch desde uno al otro
+     falla en silencio y devuelve 0 resultados. Solucion usada: cargar el
+     baseline en la pestana de candidato, guardarlo en window.name, navegar
+     esa MISMA pestana a cl.computrabajo.com y releerlo desde ahi.
+     window.name sobrevive la navegacion cross-origin.
+
+  3. EL CLI chrome-devtools-axi NO SIRVE PARA ESTE PORTAL. Por defecto lanza
+     un Chrome headless aislado; Computrabajo responde 403 Forbidden al UA
+     HeadlessChrome y ademas no hay sesion. CHROME_DEVTOOLS_AXI_AUTO_CONNECT=1
+     no encontro el Chrome real (requiere remote debugging habilitado) y
+     volvio a lanzar uno propio. Usar la extension claude-in-chrome
+     (mcp__claude-in-chrome__*), que si opera sobre la sesion logueada.
+     tabs_context_mcp{createIfEmpty:true} abre una VENTANA NUEVA con su
+     propio grupo de pestanas, lo que ademas aisla de otras instancias de
+     Claude trabajando en el mismo Chrome (p.ej. LinkedIn en paralelo).
+
+  4. LA VALIDACION DE 500 CARACTERES SIGUE SIENDO CRITICA. Dos de las tres
+     postulaciones tuvieron una respuesta que se paso (508 y 502 chars) y
+     hubo que acortarla antes de enviar. Validar SIEMPRE tras rellenar.
+
+  5. LOS INDICES DE KILLER QUESTIONS VOLVIERON A VARIAR. En las 3 ofertas los
+     textareas fueron _0_ a _4_ pero el ORDEN semantico cambio por completo
+     (en una, contacto era _0_; en otra, renta era _4_). Se confirma: mapear
+     leyendo el texto del contenedor padre de cada textarea, nunca por indice.
+
+  6. NINGUNA de las 3 ofertas tenia radios; las 3 eran 100% textarea.
+
+  CONCLUSION R10: el flujo semanal de avisos afines es real pero muy delgado
+  (3 postulables en 3 dias, sobre un catalogo de 608 avisos). El cuello de
+  botella ya no es encontrar avisos sino la MODALIDAD: 7 vacantes con buen
+  encaje tecnico se cayeron solo por ser presenciales, incluida la de Vibe
+  Coding / Claude Code que era el mejor calce tecnico del pool.
+
+  ADENDA R10 - CLUSTER "VIBE CODING / CLAUDE CODE" (PUENTE ALTO)
+
+  Gonzalo pidio postular igual al aviso de Vibe Coding pese a ser presencial
+  ("la modalidad la converso despues"). Al sondear resulto que YA ESTABA
+  POSTULADO, y no solo ese: el mismo empleador (distribucion y transmision
+  de energia electrica, Puente Alto) tiene 9 republicaciones del mismo cuerpo
+  bajo 5 titulos distintos, y las 9 estan postuladas.
+
+    hex               titulo
+    1BD47791A1F512E0  Programador de Sistemas Vibe Coding      -> /match/
+    369CA2158F9F856D  Desarrollador Vibe Coding                -> /match/
+    E4120733BD95F9D0  Especialista en Automatizacion con IA    -> /match/
+    E94D7FFAF930E9BB  Desarrollador de Soluciones IA           -> /match/
+    BDC1BB8094EB4233  Desarrollador de Soluciones IA           -> /match/
+    BC1FDFACD0507CE1  Programador de Sistemas Vibe Coding      -> /match/
+    38016A4903694A3D  Desarrollador Vibe Coding                -> sin boton
+    62AB3620322A8B3C  Programador de Sistemas Vibe Coding      -> sin boton
+    D738359823FA5A86  Ingeniero de Software con IA (Claude
+                      Code, Codex, Agentes IA)                 -> /match/
+
+  Contador tras el sondeo: sigue en 126. Confirma de nuevo que pulsar
+  Postularme sobre una oferta ya postulada NO registra nada.
+
+  HALLAZGO NUEVO: en 2 de los 9 el boton "Postularme" NO estaba en el DOM en
+  absoluto (document.body.innerText.includes('Postularme') === false) y la
+  pagina mostraba "Ya aplicaste a esta oferta". Es la primera vez que se
+  observa el estado postulado reflejado de forma fiable en el detalle. NO
+  generalizar: en los otros 7 el boton si estaba visible pese a estar
+  postulados, asi que el detector por ausencia de boton sigue sin servir para
+  decidir. El destino tras el clic sigue siendo el unico criterio.
+
+  IMPLICANCIA: el mejor calce tecnico del portal (vibe coding / Claude Code /
+  agentes IA) ya fue cubierto en rondas anteriores. Si Gonzalo quiere avanzar
+  con ese empleador, la via ya no es Computrabajo sino contacto directo.
+
+  ADENDA 2 R10 - SEGUNDA TANDA, CON FILTRO DE MODALIDAD RELAJADO
+
+  Gonzalo instruyo relajar el filtro de modalidad ("la modalidad la converso
+  despues") y apunto a dos avisos que se habian descartado. Tenia razon en
+  uno: "Desarrollador SR Fullstack" SI estaba disponible; se habia descartado
+  por presencial + stack sin Java, no por estar postulado.
+
+  ERROR DE PROCESO A EVITAR: en el primer triaje, "Desarrollador SR Fullstack"
+  y "Desarrolladores Backend" se leyeron desde el barrido con pubdate=7, que
+  NO llevaba deduplicacion contra el historial ni sondeo de disponibilidad.
+  Descartar por lectura del aviso sin sondear con Postularme deja disponibles
+  fuera. Regla: sondear SIEMPRE antes de descartar por modalidad, porque el
+  descarte por modalidad es reversible por decision del candidato.
+
+  ENVIADAS EN ESTA TANDA (5) - todas con /candidate/postapply + carta
+   4. Desarrollador SR Fullstack - DCS Chile
+      Santiago Centro (presencial) - A convenir - plazo fijo
+      Renta declarada: $2.700.000. KQ de solo 2 preguntas.
+   5. Desarrolladores Backend - Jornada Hibrida - ABENIS
+      Hibrido Las Condes - A convenir - plazo fijo luego indefinido
+      Renta declarada: $2.500.000
+      GAP DECLARADO: el aviso pide AWS comprobable. Se respondio que su cloud
+      es GCP (Docker, Pulumi, CI/CD) y que en AWS su experiencia es acotada
+      (Lambda y almacenamiento). Tambien se declaro que no usa .NET Core ni
+      Python.
+   6. Director/a de Inteligencia Artificial y Productos Digitales - KIBERNUM
+      100% presencial Las Condes - A convenir - indefinido
+      Renta declarada: $3.000.000
+      Radios: liderando equipos "4 a 8 anos"; liderando proyectos/productos
+      "6 anos o mas"; IA en contextos reales "3 a 6 anos"; presencial "Si".
+   7. Lider de Inteligencia Artificial e Innovacion - multinacional
+      100% presencial Quilicura - A convenir - plazo fijo
+      Renta declarada: $2.800.000
+   8. Especialista en Inteligencia Artificial - Quilicura
+      100% presencial - A convenir - plazo fijo
+      Renta declarada: $2.700.000
+
+  DECISION DEL CANDIDATO SOBRE PRESENCIALIDAD (2026-08-17)
+  Ante la pregunta directa "Posee disponibilidad para trabajo 100% presencial
+  en <comuna>?", Gonzalo instruyo responder "Si, con disponibilidad".
+  Criterio aplicado en todos los avisos de esta tanda: marcar Si Y ADEMAS
+  declarar en el texto libre que reside en Limache y que esta dispuesto a
+  reubicarse en la RM o a organizar el traslado. Nunca marcar Si a secas
+  ocultando la residencia.
+
+  GAP FORMAL DECLARADO (nuevo, aplica a todo el nicho IA)
+  Dos avisos preguntaron por diplomados/certificaciones/postgrados/magister en
+  IA o Ciencia de Datos. Se respondio que NO tiene ninguno, que su
+  conocimiento en IA es autodidacta y aplicado en produccion (~3 anos), y que
+  sus credenciales formales son el titulo UBB e ingles B1. El CV no registra
+  ano de titulacion: se ofrecio enviar el certificado en vez de inventar una
+  fecha.
+
+  DESCARTADAS EN ESTA TANDA
+   - Lider Tecnico PMO / salud hospitalaria (TicMoAI): exige 6 meses previos
+     en el Hospital La Florida y 2 anos en salud hospitalaria.
+   - Lider Tecnico PMO (100% presencial): rol de gestion de proyectos puro
+     (PMBOK, MS Project, Power BI, macros Excel), no de ingenieria.
+   - Ingeniero de datos, automatizacion e IA (Wall Partners): Power Automate,
+     Make.com, Python y Power BI. Perfil de BI/low-code.
+   - Ingeniero de Sistemas (Desarrollo con IA Generativa): $200.000 y stack
+     PHP/C#.
+   - Abenis "Desarrolladores Backend": hay 20 republicaciones del MISMO
+     puesto (5 hibridas, 15 presenciales). Se postulo a UNA sola. Postular a
+     varias ante el mismo reclutador es contraproducente.
+
+  NOTA TECNICA: el probe barato por fetch a /candidate/kq?oi=HEX NO discrimina
+  (redirige a /apply/ tanto si esta postulada como si no). Sigue sin haber
+  atajo: hay que navegar la oferta y pulsar Postularme.
+
+  CIERRE ACUMULADO DEL DIA: 123 -> 132 (+9 postulaciones nuevas)
+
+-------------------------------------------------------------------------------
+RONDA 11 (R11) - 2026-08-18 - via extension claude-in-chrome (sesion logueada)
+-------------------------------------------------------------------------------
+
+  BASELINE (candidato.cl.computrabajo.com/candidate/match, sin filtro st=,
+  paginando con ?p=N): ultima pagina = 18, 2 avisos en esa pagina ->
+  TOTAL BASELINE = 17*10 + 2 = 172 postulaciones acumuladas (incluye actividad
+  de sesiones posteriores a R10, no solo las 132 del cierre anterior).
+
+  Herramienta usada: mcp__claude-in-chrome (no chrome-devtools-axi, sigue
+  bloqueado por Chrome headless -> 403). tabs_context_mcp + navigate +
+  javascript_tool + get_page_text.
+
+  HALLAZGO NUEVO: el slug SEO "trabajo-de-<termino>" combinado con el
+  parametro ?pubdate=3 NO filtra - Computrabajo cae a un listado generico
+  de TODAS las categorias ordenado por fecha (aparecieron "Asesora del
+  hogar", "Conductores de Grua", etc. buscando "desarrollador java"). Sin
+  pubdate=3 el mismo slug si devuelve resultados relevantes y ya viene
+  ordenado por recencia. Leccion: nunca usar pubdate en la URL de busqueda;
+  confiar en el orden natural del listado.
+
+  BUSQUEDAS BARRIDAS: trabajo-de-java, trabajo-de-desarrollador-java (cae a
+  generico via slug invalido -> mismo fallback), trabajo-de-spring-boot,
+  trabajo-de-flutter (1 solo aviso, ya postulado), trabajo-de-inteligencia-
+  artificial, trabajo-de-desarrollador-backend, trabajo-de-arquitecto-de-
+  software, trabajo-de-ingeniero-de-software, trabajo-de-tech-lead (slug
+  invalido, resultados irrelevantes), trabajo-de-microservicios.
+
+  CONFIRMACION DEL PATRON /match/ vs /candidate/postapply: de ~10 avisos
+  "sin tag Postulado visible" sondeados con Postularme, la mayoria redirigio
+  a /match/?oi=... (TicMoAI Desarrollador Full Stack/Java Hibrido, TicMoAI
+  Arquitecto de Software Hibrido, Desarrollador de Software Quilicura) y NO
+  se contaron como nuevas. Solo 3 llegaron a /candidate/kq o /postapply.
+
+  ENVIADAS EN ESTA RONDA (3) - todas con /candidate/postapply + carta
+   1. Desarrollador IA - Abenis, Santiago - Las Condes (100% presencial)
+      A convenir - indefinido - stack: LLMs, Java/Python/JS-TS, Spring Boot/
+      Node/Flask/FastAPI, Git/CI-CD.
+      Renta declarada: $2.700.000-$3.000.000 (banda Especialista IA).
+      Radio "trabajo presencial": Si, con disponibilidad + declarado
+      residencia en Limache y disposicion a reubicarse/organizar traslado.
+      GAP DECLARADO: experiencia en Python mas acotada (scripts/automatiz.),
+      sin uso productivo de Flask/FastAPI.
+   2. Ingeniero de Inteligencia Artificial - Manpower Chile (cliente rubro
+      Telecomunicaciones), Santiago Centro (presencial)
+      Renta publicada y confirmada por KQ: $2.600.000 - plazo fijo renovable.
+      KQ de 6 preguntas: titulo (Si, UBB), datos de contacto (Limache +
+      telefono/correo), experiencia GenAI/LangChain/LangGraph/multiagente
+      (declarado: fuerte en integracion de LLMs via API en flujo diario,
+      LangChain/LangGraph especificamente acotado), anos RAG end-to-end
+      (radio: "Menos de 1 ano", honesto), nivel Python/TS para IA productiva
+      (radio: "Intermedio"), acuerdo con condiciones $2.6M presencial plazo
+      fijo (radio: "Si, de acuerdo").
+      GAP DECLARADO: RAG end-to-end y LangChain/LangGraph en produccion son
+      su punto mas debil dentro del nicho IA; no se infla la experiencia.
+   3. Arquitecto TI Lider de equipo - DCS Chile, Santiago Centro
+      A convenir - plazo fijo - cloud computing, microservicios,
+      liderazgo de equipos TI. KQ de solo 2 preguntas (disponibilidad +
+      renta). Renta declarada: $3.000.000 (banda Arquitecto/Tech Lead).
+
+  DESCARTADAS EN ESTA RONDA (con motivo)
+   - MM Asesorias "Fullstack Java" (JBoss Fuse/Camel/AngularJS 1.5, banca):
+     "Ya aplicaste a esta oferta" (ronda previa).
+   - Kibernum "Desarrollador/a Backend Java" (Las Condes hibrido): "Ya
+     aplicaste a esta oferta".
+   - ATCOM "Desarrollador Web - Providencia": "Ya aplicaste a esta oferta".
+   - TicMoAI "Lider Tecnico Especialista en Arquitectura de Procesos": "Ya
+     aplicaste a esta oferta". TicMoAI resulto estar completamente saturado
+     (los 4 avisos distintos sondeados ya estaban postulados o cayeron en
+     /match/, incluyendo el "Arquitecto de Software Hibrido" $2.700.000 que
+     parecia buen calce).
+   - Abenis "Desarrolladores Backend - Jornada Hibrida" (Las Condes): mismo
+     titulo/empresa/modalidad ya postulado en R10, se salto para no
+     re-postular al mismo reclutador.
+   - Abenis "Desarrollador Backend" (Las Condes, "estamos constantemente
+     reclutando", sin stack/salario especifico): aviso generico de bolsa de
+     talento, se descarto para no sobre-postular a Abenis.
+   - Michael Page "Fullstack Developer Java / JCL / AWS - Banca": exige
+     "experiencia avanzada con JCL para sistemas Mainframe" como requisito
+     excluyente -> stack mainframe fuera del perfil real.
+   - Avos Tech "Ingeniero de Soporte Aplicativo Java / SQL Senior": rol de
+     soporte tecnico de primer nivel (helpdesk de BD), no desarrollo.
+   - RIPLEY "Ingeniero de Inteligencia Artificial": perfil de Data
+     Scientist/ML (titulo Ing. Civil Industrial/Estadistica/Matematica,
+     "ciclo completo de desarrollo de modelos", analitica avanzada), no de
+     ingenieria de software con IA integrada.
+   - GRUPO SMS CHILE "Desarrollador Backend" (x2 slugs): stack .NET/Azure.
+   - Analista de Sistemas e IA (Puente Alto, rubro electrico): $200.000,
+     bajo el piso de $1.800.000.
+   - Practica Profesional Programador (Red Salud UC CHRISTUS): practica
+     profesional, excluida por politica.
+   - Manpower "Arquitecto de Inteligencia Artificial - Ingles Intermedio/
+     Avanzado" ($3.078.000): "Ya aplicaste a esta oferta" (ronda previa).
+
+  IMPLICANCIA: el pool de "java"/"backend"/"ingeniero de software" esta casi
+  agotado para reclutadores recurrentes (TicMoAI, Abenis, BCTecnologia,
+  Kibernum, DCS Chile, Michael Page se repiten constantemente con las mismas
+  vacantes o variantes menores). El nicho de IA generativa (LLMs, RAG,
+  agentes) sigue produciendo avisos nuevos genuinos con mas frecuencia que
+  el nicho backend puro.
+
+  CIERRE: baseline 172 -> 175 (+3 postulaciones nuevas confirmadas via
+  /candidate/postapply). Verificado visualmente: las 3 aparecen en el tope
+  de /candidate/match?p=1 con timestamps "Hace 1/7/10 minutos".
+
+-------------------------------------------------------------------------------
+RONDA 12 (R12) - 2026-08-19 - via extension claude-in-chrome, 0 ENVIADAS
+-------------------------------------------------------------------------------
+
+  BASELINE: /candidate/home -> Postulado 134 + CV visto 32 + En proceso 3 +
+  Finalista 0 = 169. /candidate/match sin filtro st= (18 paginas) -> 175
+  registros historicos (coincide exacto con el cierre de R11 del dia
+  anterior: no hubo actividad manual entre ambas sesiones).
+
+  METODO: baseline de titulo+empresa normalizado guardado en window.name en
+  la pestana de candidato.cl, releido tras navegar la MISMA pestana a
+  cl.computrabajo.com (persiste el truco de R10/R11 para CORS entre
+  subdominios).
+
+  BUSQUEDAS BARRIDAS (8, sin pubdate): trabajo-de-java-developer,
+  trabajo-de-spring-boot, trabajo-de-arquitecto-de-software,
+  trabajo-de-inteligencia-artificial, trabajo-de-elixir (0 resultados,
+  como siempre), trabajo-de-tech-lead, trabajo-de-ingeniero-de-software,
+  trabajo-de-desarrollador-backend, trabajo-de-java-senior,
+  trabajo-de-desarrollador-java. ~160 avisos escaneados.
+
+  CANDIDATOS TRAS FILTRO AUTOMATICO (5, no en baseline, sin tag postulado,
+  stack/rol/ubicacion aparentemente afines):
+   1. Desarrollador Senior Full Stack - Policomp S.A. (Providencia)
+   2. Arquitecto TI (Lider de Equipo) - Policomp S.A. (Providencia)
+   3. Ingeniero de Inteligencia Artificial - RIPLEY (Las Condes)
+   4. Analista de Sistemas e Inteligencia Artificial - Puente Alto (rubro
+      electrico)
+   5. Especialista de Riesgos IA e Innovacion - Banco de Chile
+
+  LOS 5 DESCARTADOS TRAS LEER EL AVISO COMPLETO (0 enviadas):
+   - Policomp x2: aviso SIN tag de modalidad (ni "hibrido" ni "remoto" en
+     el cuerpo), stack Java JEE sobre WebLogic/WebSphere/JBoss con
+     certificacion obligatoria en esos servidores -> patron tipico de
+     consultora colocando gente en sitio de cliente. Se descarto por
+     modalidad no confirmada, sin sondear con Postularme (ver nota).
+   - RIPLEY "Ingeniero de Inteligencia Artificial": MISMO aviso ya descartado
+     en R11 (2026-08-18) por el mismo motivo -> perfil de Data Scientist/ML
+     (Ing. Civil Industrial/Estadistica/Matematica, Python avanzado, Pandas/
+     NumPy, 1-3 anos de experiencia), no ingenieria de software con IA
+     integrada.
+   - Analista de Sistemas e IA (Puente Alto): MISMO aviso ya descartado en
+     R11 -> $200.000 mensual, muy bajo el piso de $1.800.000.
+   - Especialista de Riesgos IA e Innovacion (Banco de Chile): rol de
+     analitica de riesgo, no desarrollo de software. Exige Python avanzado,
+     estadistica/matematica aplicada, GCP BigQuery/Vertex AI, MLOps. Gaps
+     duros en ML/estadistica ya declarados en R7-R11.
+
+  SONDEO POLICOMP (a peticion expresa de Gonzalo, tras reportar la ronda):
+  ambos avisos SI estaban disponibles (redirigieron a /candidate/kq, no a
+  /match/), pero las killer questions de los dos confirman exclusion dura:
+    - Desarrollador Senior Full Stack: pregunta directa "¿Tienes Curso o
+      Certificacion en Java JEE sobre WebLogic, WebSphere o JBoss?" -
+      certificacion que el aviso marca como OBLIGATORIA y que Gonzalo no
+      tiene.
+    - Arquitecto TI (Lider de Equipo): la MISMA pregunta de certificacion
+      WebLogic/WebSphere/JBoss, mas una adicional "¿Tiene Certificacion o
+      curso en Kubernetes?" (tampoco la tiene). La pregunta sobre "on-premise
+      e hibrida" se referia a arquitectura hibrida on-prem/cloud, no a
+      modalidad de trabajo remota/hibrida - seguia sin confirmarse la
+      modalidad real.
+  NINGUNO de los dos formularios se envio: se abandonaron en /candidate/kq
+  sin completar, tras confirmar el gap duro de certificacion obligatoria.
+  0 postulaciones nuevas se mantiene como resultado final de R12.
+
+  CONCLUSION R12: CONFIRMA EL AGOTAMIENTO DEL PORTAL (5ta ronda consecutiva
+  con este diagnostico: R9, R10, R11, R12). El pool de avisos nuevos entre
+  R11 (ayer) y R12 (hoy) fue de solo 5 candidatos tras filtro automatico, y
+  los 3 mas relevantes son avisos YA vistos y descartados el dia anterior
+  (RIPLEY, Puente Alto). El flujo neto de avisos genuinamente nuevos y afines
+  es de ~0-2 por dia en este momento. Recomendacion: espaciar las rondas de
+  Computrabajo a 1x por semana en vez de diario, o desplazar el esfuerzo a
+  otros portales (ver JOB-PORTALS.md) mientras se acumulan avisos nuevos aqui.
+
+  CIERRE: sin cambios en el contador (169 -> 169, 0 postulaciones nuevas).

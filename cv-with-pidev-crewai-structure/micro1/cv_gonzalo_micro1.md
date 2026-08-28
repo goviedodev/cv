@@ -8,11 +8,11 @@
 
 Senior Software Engineer and Tech Leader with over 15 years of experience architecting and building critical, scalable backend and full-stack systems. Core expertise in **Java (Spring Boot)**, complemented by **Node.js/JavaScript**, **SQL (Oracle, PostgreSQL)**, and automated cloud infrastructure (**Google Cloud Platform, Pulumi IaC**).
 
-A pioneer in AI-augmented development, utilizing advanced software agent harnesses (**Pi.dev, opencode**) daily as a primary engineering environment. Brings deep practical understanding of how AI models learn, reason, and perform, applying architectural design, context engineering, and human judgment to orchestrate complex software agent workflows. Experienced in leading small engineering teams, DevOps containerization, and remote agile collaboration across U.S. and global multicultural environments.
+A pioneer in AI-augmented development, using **Claude Code (Max plan, heavy daily use)** — Anthropic's own agentic coding harness — as primary engineering environment, with earlier hands-on experience in Pi.dev and opencode. Brings deep practical understanding of how AI models learn, reason, and perform, applying architectural design, context engineering, and human judgment to orchestrate complex software agent workflows. Experienced in leading small engineering teams, DevOps containerization, and remote agile collaboration across U.S. and global multicultural environments.
 
 # AI-First Engineering & Model Training Approach
 
-I operate daily as an AI-augmented coder, using **Pi.dev and opencode** agent harnesses as my primary development workspace. Rather than blindly delegating, I apply strict architectural criteria, clean coding conventions, and deep logical thinking to instruct and orchestrate agents. This practical domain expertise is highly relevant to training next-generation AI systems:
+I operate daily as an AI-augmented coder, using **Claude Code (Max plan)** as my primary development workspace — with earlier experience in the Pi.dev and opencode agent harnesses. Rather than blindly delegating, I apply strict architectural criteria, clean coding conventions, and deep logical thinking to instruct and orchestrate agents. This practical domain expertise is highly relevant to training next-generation AI systems:
 
 - **Context Engineering:** Deep understanding of structuring codebases, specifications, and data to produce clean, logical, and context-efficient AI outputs.
 
@@ -28,7 +28,7 @@ I operate daily as an AI-augmented coder, using **Pi.dev and opencode** agent ha
 
 - **Frontend:** Flutter, React, Vue.js, JavaScript (ES6+), HTML5/CSS3
 
-- **AI & Agent Harnesses:** Pi.dev, opencode — daily use as primary coding environment; agent lifecycle design; AI-first workflows and model feedback loops
+- **AI & Agent Harnesses:** Claude Code (Max plan) — daily use as primary coding environment; also Pi.dev, opencode; agent lifecycle design; AI-first workflows and model feedback loops
 
 - **Databases:** PostgreSQL, Oracle PL/SQL, MySQL, MongoDB
 
@@ -39,9 +39,9 @@ I operate daily as an AI-augmented coder, using **Pi.dev and opencode** agent ha
 # Professional Experience
 
 **Tech Lead & Lead Software Engineer** | *Mobility Startup* 2024 — Present
-**Technologies:** Java 21 (Spring Boot), Flutter, Elixir, Google Cloud, Pulumi IaC, Pi.dev, opencode
+**Technologies:** Java 21 (Spring Boot), Flutter, Elixir, Google Cloud, Pulumi IaC, Claude Code (Max plan), Pi.dev, opencode
 
-- Architected and developed a high-demand mobility platform using Pi.dev and opencode as primary development harnesses to orchestrate agent-driven code implementation across the entire stack.
+- Architected and developed a high-demand mobility platform using Claude Code (Max plan) as the primary development harness to orchestrate agent-driven code implementation across the entire stack.
 - Designed and built the agent lifecycle (skills, commands, and workflows) inside custom harness execution environments, refining how LLMs process code context and execute complex reasoning steps.
 - Built automated GCP infrastructure via Pulumi, ensuring scalable, secure, and reproducible cloud environments.
 - Maintained a clean, highly documented codebase, translating complex business rules into precise, machine-executable specifications.

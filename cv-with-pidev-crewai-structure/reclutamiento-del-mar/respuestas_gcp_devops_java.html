@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Respuestas técnicas — Gonzalo Oviedo</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg: #f7f4ee;
+    --bg-panel: #ffffff;
+    --ink: #1c2230;
+    --ink-soft: #4b5468;
+    --line: #e4ddd0;
+    --blue: #1a5276;
+    --blue-soft: #e8f1f6;
+    --teal: #0f6b5c;
+    --teal-soft: #e7f4f0;
+    --indigo: #3d3a80;
+    --indigo-soft: #eeecf9;
+    --amber: #b5650a;
+    --amber-soft: #fbeedd;
+    --amber-line: #e7b573;
+    --radius: 10px;
+    --shadow: 0 1px 2px rgba(28,34,48,.04), 0 8px 24px -12px rgba(28,34,48,.12);
+  }
+
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background: var(--bg);
+    color: var(--ink);
+    font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    line-height: 1.6;
+    font-size: 16px;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap{
+    max-width: 880px;
+    margin: 0 auto;
+    padding: 56px 28px 80px;
+  }
+
+  @keyframes rise{
+    from{ opacity:0; transform: translateY(10px); }
+    to{ opacity:1; transform: translateY(0); }
+  }
+  .rise{ animation: rise .5s ease-out both; }
+  .d1{ animation-delay: .05s; }
+  .d2{ animation-delay: .12s; }
+  .d3{ animation-delay: .19s; }
+  .d4{ animation-delay: .26s; }
+  .d5{ animation-delay: .33s; }
+
+  /* Header */
+  header{
+    display:flex;
+    justify-content:space-between;
+    align-items:flex-end;
+    gap: 24px;
+    padding-bottom: 28px;
+    border-bottom: 2px solid var(--ink);
+    margin-bottom: 36px;
+    flex-wrap: wrap;
+  }
+  .eyebrow{
+    text-transform: uppercase;
+    letter-spacing: .14em;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--ink-soft);
+    margin: 0 0 10px;
+  }
+  h1{
+    font-family: "Fraunces", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 1.12;
+    margin: 0 0 8px;
+    letter-spacing: -0.01em;
+  }
+  .role{
+    font-size: 16px;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+  .contact{
+    text-align: right;
+    font-size: 13.5px;
+    color: var(--ink-soft);
+    line-height: 1.7;
+  }
+  .contact a{ color: var(--blue); text-decoration:none; }
+  .contact a:hover{ text-decoration:underline; }
+
+  /* Speed strip */
+  .speed-strip{
+    display:flex;
+    gap: 14px;
+    flex-wrap: wrap;
+    margin-bottom: 40px;
+  }
+  .chip{
+    display:flex;
+    align-items:center;
+    gap: 8px;
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 9px 16px;
+    font-size: 13.5px;
+    font-weight: 500;
+    color: var(--ink-soft);
+    box-shadow: var(--shadow);
+  }
+  .chip b{ color: var(--ink); font-weight: 600; }
+  .chip .dot{
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--teal);
+    flex-shrink:0;
+  }
+  .chip.amber .dot{ background: var(--amber); }
+  .chip.blue .dot{ background: var(--blue); }
+
+  /* Intro */
+  .intro{
+    font-size: 17px;
+    color: var(--ink-soft);
+    max-width: 66ch;
+    margin-bottom: 44px;
+  }
+  .intro strong{ color: var(--ink); }
+
+  /* Section cards */
+  .section{
+    background: var(--bg-panel);
+    border: 1px solid var(--line);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    margin-bottom: 22px;
+    overflow: hidden;
+  }
+  .section-head{
+    display:flex;
+    align-items:center;
+    gap: 14px;
+    padding: 20px 26px;
+    border-bottom: 1px solid var(--line);
+  }
+  .icon-badge{
+    width: 38px; height: 38px;
+    border-radius: 9px;
+    display:flex; align-items:center; justify-content:center;
+    flex-shrink:0;
+    font-family: "JetBrains Mono", monospace;
+    font-weight: 500;
+    font-size: 13px;
+  }
+  .section.gcp .icon-badge{ background: var(--blue-soft); color: var(--blue); }
+  .section.devops .icon-badge{ background: var(--teal-soft); color: var(--teal); }
+  .section.java .icon-badge{ background: var(--indigo-soft); color: var(--indigo); }
+  .section.portfolio .icon-badge{ background: var(--amber-soft); color: var(--amber); }
+
+  .section-head h2{
+    font-family: "Fraunces", serif;
+    font-weight: 600;
+    font-size: 20px;
+    margin: 0;
+    letter-spacing: -0.005em;
+  }
+  .section-head .tag{
+    margin-left: auto;
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: .09em;
+    font-weight: 600;
+    padding: 4px 10px;
+    border-radius: 999px;
+  }
+  .section.gcp .tag{ background: var(--blue-soft); color: var(--blue); }
+  .section.devops .tag{ background: var(--teal-soft); color: var(--teal); }
+  .section.java .tag{ background: var(--indigo-soft); color: var(--indigo); }
+  .section.portfolio .tag{ background: var(--amber-soft); color: var(--amber); }
+
+  .section-body{ padding: 22px 26px 26px; }
+  .section-body p{ margin: 0 0 14px; color: var(--ink); }
+  .section-body p:last-child{ margin-bottom: 0; }
+
+  .projects{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 12px;
+    margin: 4px 0 16px;
+  }
+  @media (max-width: 620px){ .projects{ grid-template-columns: 1fr; } }
+  .projects-3{ grid-template-columns: 1fr 1fr 1fr; }
+  @media (max-width: 720px){ .projects-3{ grid-template-columns: 1fr; } }
+  .project-card{
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 14px 16px;
+    background: #fdfcfa;
+  }
+  .project-card .p-name{
+    font-weight: 600;
+    font-size: 14.5px;
+    margin-bottom: 3px;
+  }
+  .project-card .p-meta{
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    font-family: "JetBrains Mono", monospace;
+  }
+  .project-card a{ color: var(--blue); text-decoration:none; }
+  .project-card a:hover{ text-decoration:underline; }
+  .project-card .p-status{
+    display:inline-block;
+    margin-top: 9px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+    color: var(--amber);
+    background: var(--amber-soft);
+    border: 1px solid var(--amber-line);
+    padding: 2px 8px;
+    border-radius: 999px;
+  }
+  .project-card .p-status.live{
+    color: var(--teal);
+    background: var(--teal-soft);
+    border-color: #b7d9cf;
+  }
+
+  ul.bullets{
+    margin: 0 0 16px;
+    padding-left: 20px;
+  }
+  ul.bullets li{
+    margin-bottom: 8px;
+    padding-left: 4px;
+  }
+  ul.bullets li:last-child{ margin-bottom:0; }
+  ul.bullets b{ color: var(--ink); }
+
+  .infra-tags{
+    display:flex; flex-wrap:wrap; gap: 8px;
+    margin: 14px 0 4px;
+  }
+  .infra-tag{
+    font-family: "JetBrains Mono", monospace;
+    font-size: 12px;
+    background: var(--bg);
+    border: 1px solid var(--line);
+    padding: 4px 10px;
+    border-radius: 6px;
+    color: var(--ink-soft);
+  }
+
+  /* Callout for GKE / velocity */
+  .callout{
+    display:flex;
+    gap: 16px;
+    background: var(--amber-soft);
+    border: 1px solid var(--amber-line);
+    border-radius: var(--radius);
+    padding: 20px 24px;
+    margin: 34px 0;
+    align-items: flex-start;
+  }
+  .callout .bolt{
+    width: 34px; height: 34px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background: #fff;
+    border: 1px solid var(--amber-line);
+    display:flex; align-items:center; justify-content:center;
+    color: var(--amber);
+  }
+  .callout .callout-title{
+    font-weight: 700;
+    font-size: 14.5px;
+    color: #8a4b06;
+    margin: 0 0 6px;
+    text-transform: uppercase;
+    letter-spacing: .06em;
+  }
+  .callout p{ margin:0; color:#5c3a0f; font-size: 14.5px; }
+  .callout p + p{ margin-top:8px; }
+
+  /* Closing */
+  .closing{
+    margin-top: 44px;
+    padding-top: 28px;
+    border-top: 1px solid var(--line);
+  }
+  .closing p{ color: var(--ink-soft); margin: 0 0 20px; }
+  .sig-name{
+    font-family:"Fraunces", serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: var(--ink);
+    margin-bottom: 2px;
+  }
+  .sig-meta{ font-size: 13.5px; color: var(--ink-soft); line-height: 1.7; }
+  .sig-meta a{ color: var(--blue); text-decoration:none; }
+  .sig-meta a:hover{ text-decoration:underline; }
+
+  @media (max-width: 560px){
+    header{ flex-direction:column; align-items:flex-start; }
+    .contact{ text-align:left; }
+    h1{ font-size: 27px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="rise">
+    <div>
+      <p class="eyebrow">Respuesta técnica · Del Mar Technology Group</p>
+      <h1>GCP · DevOps · Java Spring Boot</h1>
+      <p class="role">Arquitecto de Soluciones Cloud Semi-Senior — proceso de selección</p>
+    </div>
+    <div class="contact">
+      <div><strong>Gonzalo Oviedo Lambert</strong></div>
+      <div><a href="mailto:goviedo.laboral@gmail.com">goviedo.laboral@gmail.com</a></div>
+      <div>+56 9 6372 3603</div>
+      <div>Limache, Chile (GMT-4)</div>
+      <div><a href="https://www.linkedin.com/in/gol" target="_blank" rel="noopener">linkedin.com/in/gol</a></div>
+      <div><a href="https://goviedo.sevenit.cl" target="_blank" rel="noopener">goviedo.sevenit.cl</a></div>
+    </div>
+  </header>
+
+  <div class="speed-strip rise d1">
+    <div class="chip blue"><span class="dot"></span> Arquitectura GCP en producción <b>desde 2017</b></div>
+    <div class="chip"><span class="dot"></span> Infraestructura <b>100% como código</b> (Pulumi)</div>
+    <div class="chip amber"><span class="dot"></span> Gap declarado → solución en <b>≤ 48 h</b></div>
+  </div>
+
+  <p class="intro rise d1">
+    Gracias por las preguntas — las respondo separadas por área. En las tres uso como evidencia
+    dos proyectos reales que puedo mostrar en detalle: el sistema de salud del
+    <strong>Hospital Cruz del Norte (SQM)</strong> y la plataforma de movilidad
+    <strong>Te Llevo App</strong>, en producción hoy.
+  </p>
+
+  <!-- GCP -->
+  <section class="section gcp rise d2">
+    <div class="section-head">
+      <div class="icon-badge">GCP</div>
+      <h2>Google Cloud Platform</h2>
+      <span class="tag">Infraestructura</span>
+    </div>
+    <div class="section-body">
+      <div class="projects">
+        <div class="project-card">
+          <div class="p-name">Hospital Cruz del Norte (SQM)</div>
+          <div class="p-meta">Seven IT SpA · 2017–2020 · Google Cloud (VM)</div>
+        </div>
+        <div class="project-card">
+          <div class="p-name">Te Llevo App</div>
+          <div class="p-meta">
+            2024–presente · Cloud Run ·
+            <a href="https://www.tellevoapp.cl" target="_blank" rel="noopener">tellevoapp.cl</a>
+          </div>
+        </div>
+      </div>
+      <p>
+        En Te Llevo App diseño y opero la arquitectura completa sobre GCP: microservicios en
+        <b>Cloud Run</b>, <b>IAM</b> y <b>Logging/Monitoring</b>. Configuré además los frentes de
+        red y seguridad — <b>Cloud Armor (WAF)</b> y <b>Load Balancer</b> — con toda la
+        infraestructura definida como código en <b>Pulumi</b>: reglas de firewall, balanceo,
+        permisos y secretos versionados en Git, sin configuración manual en consola.
+      </p>
+      <div class="infra-tags">
+        <span class="infra-tag">Cloud Run</span>
+        <span class="infra-tag">IAM</span>
+        <span class="infra-tag">Cloud Armor (WAF)</span>
+        <span class="infra-tag">Load Balancer</span>
+        <span class="infra-tag">Logging/Monitoring</span>
+        <span class="infra-tag">Pulumi (IaC)</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- DevOps -->
+  <section class="section devops rise d3">
+    <div class="section-head">
+      <div class="icon-badge">⚙</div>
+      <h2>DevOps</h2>
+      <span class="tag">Ciclo completo</span>
+    </div>
+    <div class="section-body">
+      <p>Manejo el ciclo de despliegue de punta a punta, no solo una etapa puntual:</p>
+      <ul class="bullets">
+        <li><b>IaC con Pulumi:</b> cómputo, red, IAM y secretos de Te Llevo App versionados como código.</li>
+        <li><b>CI/CD:</b> GitLab (Seven IT, Te Llevo App), Jenkins y Azure DevOps (Citibank).</li>
+        <li><b>Contenedores y despliegue:</b> Docker y Cloud Run en producción.</li>
+        <li><b>Seguridad de infraestructura:</b> WAF y Load Balancer mantenidos como código junto al resto del stack.</li>
+      </ul>
+      <p>
+        Un diferenciador que quiero destacar: uso IA de forma intensiva dentro del flujo DevOps —
+        no solo para escribir código, sino para investigar mejores prácticas, comparar
+        alternativas de arquitectura y llegar más rápido a la mejor solución disponible para un
+        problema dado. Acelera tanto el diagnóstico como la implementación.
+      </p>
+    </div>
+  </section>
+
+  <!-- Java Spring Boot -->
+  <section class="section java rise d4">
+    <div class="section-head">
+      <div class="icon-badge">{ }</div>
+      <h2>Java · Spring Boot</h2>
+      <span class="tag">15+ años</span>
+    </div>
+    <div class="section-body">
+      <p>Acá la experiencia está más que comprobada, en distintos dominios:</p>
+      <ul class="bullets">
+        <li><b>Hospital Cruz del Norte / SQM</b> (Seven IT) — backend REST/MVC en Spring Boot para el sistema de salud completo.</li>
+        <li><b>Caterpillar</b> (Perficient, 2022–2023) — e-commerce global.</li>
+        <li><b>Citibank</b> (2021–2022) — soluciones sobre framework interno basado en Spring Beans.</li>
+        <li><b>Coopeuch</b> y <b>Santander.</b></li>
+        <li><b>Te Llevo App</b> — backend actual en Java 21 + Spring Boot.</li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- Portafolio / más evidencia -->
+  <section class="section portfolio rise d4">
+    <div class="section-head">
+      <div class="icon-badge">↗</div>
+      <h2>Otros productos realizados últimamente</h2>
+      <span class="tag">Portafolio</span>
+    </div>
+    <div class="section-body">
+      <p>Como evidencia adicional de velocidad de entrega, estos son otros productos que he construido en paralelo en los últimos meses:</p>
+      <div class="projects projects-3">
+        <div class="project-card">
+          <div class="p-name">Portafolio personal</div>
+          <div class="p-meta">
+            <a href="https://goviedo.sevenit.cl" target="_blank" rel="noopener">goviedo.sevenit.cl</a>
+          </div>
+          <div class="p-status">En construcción</div>
+        </div>
+        <div class="project-card">
+          <div class="p-name">Buscador de fármacos</div>
+          <div class="p-meta">
+            <a href="https://farma.limachelocales.cl" target="_blank" rel="noopener">farma.limachelocales.cl</a>
+          </div>
+          <div class="p-status live">En producción</div>
+        </div>
+        <div class="project-card">
+          <div class="p-name">RAG — Ley de Datos Personales</div>
+          <div class="p-meta">
+            <a href="https://datos-personales.limachelocales.cl" target="_blank" rel="noopener">datos-personales.limachelocales.cl</a>
+          </div>
+          <div class="p-status live">En producción</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="callout rise d5">
+    <div class="bolt">
+      <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"></polygon></svg>
+    </div>
+    <div>
+      <p class="callout-title">Transparencia + velocidad</p>
+      <p>No tengo experiencia productiva en <b>GKE</b> (en GCP he trabajado con Docker + Cloud Run).</p>
+      <p>Me comprometo a tener una solución funcional en GKE en <b>no más de 2 días</b> si el rol lo requiere. Es, para mí, evidencia de que el código y la tecnología en sí son cada vez más un commodity: lo que diferencia hoy es la velocidad y el criterio para llegar a la solución correcta, no el conocimiento previo puntual de una herramienta.</p>
+    </div>
+  </div>
+
+  <div class="closing rise d5">
+    <p>Quedo atento a cualquier profundización que necesiten sobre estos puntos.</p>
+    <div class="sig-name">Gonzalo Oviedo Lambert</div>
+    <div class="sig-meta">
+      <a href="mailto:goviedo.laboral@gmail.com">goviedo.laboral@gmail.com</a> · +56 9 6372 3603<br>
+      Limache, Región de Valparaíso, Chile (GMT-4)<br>
+      <a href="https://www.linkedin.com/in/gol" target="_blank" rel="noopener">linkedin.com/in/gol</a> ·
+      <a href="https://github.com/goviedodev" target="_blank" rel="noopener">github.com/goviedodev</a>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

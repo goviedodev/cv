@@ -1,0 +1,5 @@
+YA_POSTULADA|https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-en-santiago-las-condes-E2452C49E0A11A5661373E686DCF3405
+PRESENCIAL|https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-pyme-vitacura-en-santiago-vitacura-A1223FAD59FECB8661373E686DCF3405
+YA_POSTULADA|https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-node-react-en-santiago-centro-9CCDB9F6436C3E7B61373E686DCF3405
+RENTA:1400000|https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-software-programador-desarrollo-de-soluciones-basadas-en-agentes-ia-en-santiago-centro-D798D53299ABFE9861373E686DCF3405
+YA_POSTULADA|https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-con-experiencia-en-ia-y-automatizaciones-en-vina-del-mar-F0EA74FF7D9BCCAE61373E686DCF3405

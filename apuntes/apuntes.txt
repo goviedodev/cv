@@ -1,0 +1,112 @@
+**Familia de cargos.**: Cargos relacionados entre si.
+
+  * Arquitecto de software
+  * Developer.
+  * Tech Lead
+  * Managment.
+
+
+* Ingeniero de plataforma.
+
+## Certificaciones.
+
+* Tomar certificaciones.
+
+## Busqueda.
+
+* Ir cambiando paulatinamente.
+* Tratar de hablar el idioma del cargo, embellecer el discurso.
+
+## Habilidades Blandas.
+
+* Anotar habilidades blandas en el CV.
+
+###
+
+Referencias: Vacantes laborales.
+
+Resumen... Ingeniero de inteligencia artifical Agéntico, ingeniero de soluciones
+arquitecto de soluciones, arquitecto full stack, desarrollador senior. 
+
+Importante lenguaje: Generar diferencia con otro. Nombre que parezca adecuado 
+al cargo, porque 15 años no me hace mucha diferencia. 
+
+Ejemplo: Arquitecto de soluciones IA con amplia o sólida con destacada experiencia
+laboral en empresas del sector bancaria, tecnológico, startup. Areas o departamentos,
+Gobierno TI, plataformas DevOps.
+
+Mejorar tu discurso en lo que me conviene. La estrategia, omite (por ejemplo el numero de 
+veces que lo hiciste).
+
+Aborda lo que en realidad necesitas abordar en el CV.
+
+Por ejemplo: Arquitectura de software escalable **en vez** de Actualmente lidero la arquitectura
+de una plataforma de movilidad cloud native en GCP.
+
+Ojo con abordar solo las herramientas, debes abordar de una perspectiva general,
+como microservicios con Event Driven.
+
+Donde esta la palabra **pipeline** 
+
+Arquitecto Full Stack, Hablar el idioma.
+Ingeniero de software lead: Célula ágil.
+
+----------------------------------------------
+Hablar el IDIOMA DE LAS VACANTES LABORALES. IMPORTANTE!.
+----------------------------------------------
+Si no se hable el idioma se descarta.
+
+El parametro es el conocimiento de quien esta buscando la vacante laboral, no al experto.
+
+## NOTA.
+
+ATENCION AL DETALLE: Dice experiencia, o dice conocimiento?. Responde con -- sin embargo --
+cuento con esto y con esto otro. La idea es minimizar el impacto del NO.
+
+No escudarse con comentarios de IA que avance el conocimiento, sino que si lo hago en 2
+dias, entonces puede decirse, con criterio, que se sabe.
+
+-- TAREA --
+
+Posicionate sobre los cargos.
+Revisar vacantes laborales (fijarse en el detalle y lo solicitado).
+Definirse en los cargos.
+
+* Times new Roman
+* Calibri
+* Tahoma
+
+* Ojo con lo cursiva (italica).
+
+Llegar con algo concreto.
+Trabajar sobre la completitud del CV para revisarlo y no armarlo.
+
+Rubros, areas, funciones claves y habilidades blandas.
+
+Notas, para definirse resumen profesional:
+
+<cargo>, <en empresas de>, <conocimientos claves>, <experiencia agil>, <herramientas>
+<habilidades blandas>
+
+Punteo de funciones.
+
+* Item habilidades tecnicas abajo.
+* Antecedentes adicionales
+  - Idiomas
+  - Certificaciones.
+  - Proyecto paralelo
+  - Hobbies.
+  - Interes.
+
+* habilidades blancas (3 max)
+
+  * comunicacion efectiva
+  * etc.
+
+Palabras claves entre 6 y 8.
+  * Revision codigo,
+  * Mitigacion,
+  * Pipeline,
+  * Gestion incidentes.
+
+

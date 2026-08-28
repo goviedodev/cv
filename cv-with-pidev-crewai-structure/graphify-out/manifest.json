@@ -1,0 +1,1802 @@
+{
+  ".claude/settings.local.json": {
+    "mtime": 1786367081.9833395,
+    "ast_hash": "6b5d48a15f8afe663326b7300c8a5074",
+    "semantic_hash": "6b5d48a15f8afe663326b7300c8a5074"
+  },
+  "autopostulacion/computrabajo/tmp/apply_start.sh": {
+    "mtime": 1785792420.3369856,
+    "ast_hash": "acbcc1b1327b4979dc0fece8b16dca79",
+    "semantic_hash": "acbcc1b1327b4979dc0fece8b16dca79"
+  },
+  "autopostulacion/computrabajo/tmp/check_applied.sh": {
+    "mtime": 1785792988.3996193,
+    "ast_hash": "253e0ec0296e3ab9a86ece22aab771c0",
+    "semantic_hash": "253e0ec0296e3ab9a86ece22aab771c0"
+  },
+  "autopostulacion/computrabajo/tmp/cover.sh": {
+    "mtime": 1785792447.392587,
+    "ast_hash": "6a243405ef01a87f4e86b26c7b4ce076",
+    "semantic_hash": "6a243405ef01a87f4e86b26c7b4ce076"
+  },
+  "autopostulacion/computrabajo/tmp/fill.sh": {
+    "mtime": 1785793153.7541842,
+    "ast_hash": "cab1ec87b738042d31bf8a7aa47800ec",
+    "semantic_hash": "cab1ec87b738042d31bf8a7aa47800ec"
+  },
+  "autopostulacion/computrabajo/tmp/filter.js": {
+    "mtime": 1785791013.831705,
+    "ast_hash": "271180c0793e3b3af3540450252d4237",
+    "semantic_hash": "271180c0793e3b3af3540450252d4237"
+  },
+  "autopostulacion/computrabajo/tmp/kq_dump.sh": {
+    "mtime": 1785792430.6638334,
+    "ast_hash": "25a2a21f0468756f7bc333df0a820ecb",
+    "semantic_hash": "25a2a21f0468756f7bc333df0a820ecb"
+  },
+  "autopostulacion/computrabajo/tmp/kq_submit.sh": {
+    "mtime": 1785792438.7977135,
+    "ast_hash": "beb7833f59fbf8d0fdfc95890aad3830",
+    "semantic_hash": "beb7833f59fbf8d0fdfc95890aad3830"
+  },
+  "autopostulacion/computrabajo/tmp/read_all.sh": {
+    "mtime": 1785791064.8039541,
+    "ast_hash": "dad0325dce9cbfaea3903dc74f0f5b85",
+    "semantic_hash": "dad0325dce9cbfaea3903dc74f0f5b85"
+  },
+  "autopostulacion/computrabajo/tmp/read_offer.sh": {
+    "mtime": 1785790969.4253592,
+    "ast_hash": "95c49f93ee817c27bd77ae87f90c1db4",
+    "semantic_hash": "95c49f93ee817c27bd77ae87f90c1db4"
+  },
+  "autopostulacion/computrabajo/tmp/scrape_baseline.sh": {
+    "mtime": 1785790599.8888035,
+    "ast_hash": "e9340f530ccc48ba8800a4bf0840db67",
+    "semantic_hash": "e9340f530ccc48ba8800a4bf0840db67"
+  },
+  "autopostulacion/computrabajo/tmp/scrape_offers.sh": {
+    "mtime": 1785790708.995196,
+    "ast_hash": "e513b6ababe9548f8bec033f59e4872d",
+    "semantic_hash": "e513b6ababe9548f8bec033f59e4872d"
+  },
+  "autopostulacion/computrabajo/tmp/triage.json": {
+    "mtime": 1785791690.6967335,
+    "ast_hash": "ae232d344c2f69c84ee0cb513ef4557c",
+    "semantic_hash": "ae232d344c2f69c84ee0cb513ef4557c"
+  },
+  "extract_job.js": {
+    "mtime": 1779199731.7042844,
+    "ast_hash": "c4142c6cb28ae6f09bcc5e6aa06d80ea",
+    "semantic_hash": "c4142c6cb28ae6f09bcc5e6aa06d80ea"
+  },
+  "get_puppeteer.js": {
+    "mtime": 1779217503.0814946,
+    "ast_hash": "32b4ac61542ce745145b6d513d21c76e",
+    "semantic_hash": "32b4ac61542ce745145b6d513d21c76e"
+  },
+  "get_pw.js": {
+    "mtime": 1779217497.092585,
+    "ast_hash": "42840bf2082d3b5f0451662afa379eb4",
+    "semantic_hash": "42840bf2082d3b5f0451662afa379eb4"
+  },
+  "parse_job.js": {
+    "mtime": 1779199738.9461653,
+    "ast_hash": "2301d4d14a1015616b188aa65a971acb",
+    "semantic_hash": "2301d4d14a1015616b188aa65a971acb"
+  },
+  "scripts/buscar_trabajos.py": {
+    "mtime": 1778302292.5830412,
+    "ast_hash": "bd3f34d97e3baf9ff7530afd5da9d896",
+    "semantic_hash": "bd3f34d97e3baf9ff7530afd5da9d896"
+  },
+  "scripts/elixir_global_scraper.py": {
+    "mtime": 1778302445.864642,
+    "ast_hash": "4dc434da242ba7ed3c83e3267e3152de",
+    "semantic_hash": "4dc434da242ba7ed3c83e3267e3152de"
+  },
+  "scripts/elixirradar_scraper.py": {
+    "mtime": 1778302381.922643,
+    "ast_hash": "84b3bed2e66812fa0a245b3f4ba7aefa",
+    "semantic_hash": "84b3bed2e66812fa0a245b3f4ba7aefa"
+  },
+  "scripts/fetch_job.py": {
+    "mtime": 1779217445.2353694,
+    "ast_hash": "7d1b6db50afb3cee81e61645d2bdd030",
+    "semantic_hash": "7d1b6db50afb3cee81e61645d2bdd030"
+  },
+  "scripts/parse_jobs.py": {
+    "mtime": 1779217457.0741904,
+    "ast_hash": "dab37bbbdff97905370fc1554dc457a8",
+    "semantic_hash": "dab37bbbdff97905370fc1554dc457a8"
+  },
+  "scripts/parse_jobs2.py": {
+    "mtime": 1779217468.98901,
+    "ast_hash": "731256f9b30d4ddc9cd9854e9f5fed2d",
+    "semantic_hash": "731256f9b30d4ddc9cd9854e9f5fed2d"
+  },
+  "scripts/parse_jobs3.py": {
+    "mtime": 1779217479.4368522,
+    "ast_hash": "3f8e84eb374ae93a7a23438ba86e9ffa",
+    "semantic_hash": "3f8e84eb374ae93a7a23438ba86e9ffa"
+  },
+  "scripts/parse_jobs4.py": {
+    "mtime": 1779217518.4152627,
+    "ast_hash": "7719d24908cea53a672b5f15881242dc",
+    "semantic_hash": "7719d24908cea53a672b5f15881242dc"
+  },
+  "scripts/parse_jobs5.py": {
+    "mtime": 1779217526.8671348,
+    "ast_hash": "942bea6f102980c3e519922200407c43",
+    "semantic_hash": "942bea6f102980c3e519922200407c43"
+  },
+  "scripts/remoteok_scraper.py": {
+    "mtime": 1778302338.9483156,
+    "ast_hash": "7e8b95dd2c50c084816b9d136121c6f2",
+    "semantic_hash": "7e8b95dd2c50c084816b9d136121c6f2"
+  },
+  "scripts/remoteok_scraper_europa.py": {
+    "mtime": 1778302368.8438475,
+    "ast_hash": "f91f1bb53be59561b6447702f6852539",
+    "semantic_hash": "f91f1bb53be59561b6447702f6852539"
+  },
+  ".claude/skills/job-hunter-computrabajo/SKILL.md": {
+    "mtime": 1786370950.844604,
+    "ast_hash": "65fb86526378d93ce80722986e63a975",
+    "semantic_hash": "65fb86526378d93ce80722986e63a975"
+  },
+  ".claude/skills/job-hunter-trabajando/SKILL.md": {
+    "mtime": 1785551225.9129884,
+    "ast_hash": "7ded8cf1271c2932c546013ddc7264b9",
+    "semantic_hash": "7ded8cf1271c2932c546013ddc7264b9"
+  },
+  ".pi/plans/plan-como.md": {
+    "mtime": 1785773331.9989605,
+    "ast_hash": "fd5fa48328d36c746db52bb3d9f3886d",
+    "semantic_hash": "fd5fa48328d36c746db52bb3d9f3886d"
+  },
+  ".pi/plans/plan-tengo.md": {
+    "mtime": 1785774122.2452319,
+    "ast_hash": "b46d5265e344e4fb2e6083a148b09749",
+    "semantic_hash": "b46d5265e344e4fb2e6083a148b09749"
+  },
+  ".pi/skills/anti-ai-cv-auditor/README.md": {
+    "mtime": 1784845050.9314075,
+    "ast_hash": "6f10c6fa03ad025a131806c07bbe27a0",
+    "semantic_hash": "6f10c6fa03ad025a131806c07bbe27a0"
+  },
+  ".pi/skills/anti-ai-cv-auditor/SKILL.md": {
+    "mtime": 1785475244.5624976,
+    "ast_hash": "7643023097bed51e278c2e111c55f801",
+    "semantic_hash": "7643023097bed51e278c2e111c55f801"
+  },
+  ".pi/skills/ats-cv-optimizer/ATS-CHECKLIST.md": {
+    "mtime": 1782928256.6008108,
+    "ast_hash": "c6138a5d10ae08c1519c3bf57d6e8c51",
+    "semantic_hash": "c6138a5d10ae08c1519c3bf57d6e8c51"
+  },
+  ".pi/skills/ats-cv-optimizer/README.md": {
+    "mtime": 1784845125.1563396,
+    "ast_hash": "5b463604447e924691fd201c246d1c36",
+    "semantic_hash": "5b463604447e924691fd201c246d1c36"
+  },
+  ".pi/skills/ats-cv-optimizer/SKILL.md": {
+    "mtime": 1785475248.8534338,
+    "ast_hash": "461a6c4862f337b2d7990f5733b9884d",
+    "semantic_hash": "461a6c4862f337b2d7990f5733b9884d"
+  },
+  ".pi/skills/cv-tailor/README.md": {
+    "mtime": 1785155441.8652172,
+    "ast_hash": "43a9a8d692383245cb50146b1fb3d6f0",
+    "semantic_hash": "43a9a8d692383245cb50146b1fb3d6f0"
+  },
+  ".pi/skills/cv-tailor/SKILL.md": {
+    "mtime": 1785155423.855824,
+    "ast_hash": "d6999fa7f9341395aee7e240bb0a8bf0",
+    "semantic_hash": "d6999fa7f9341395aee7e240bb0a8bf0"
+  },
+  ".pi/skills/job-hunter-computrabajo/SKILL.md": {
+    "mtime": 1786370950.844604,
+    "ast_hash": "65fb86526378d93ce80722986e63a975",
+    "semantic_hash": "65fb86526378d93ce80722986e63a975"
+  },
+  ".pi/skills/job-hunter-getonboard/SKILL.md": {
+    "mtime": 1785788491.4938855,
+    "ast_hash": "66dd61c282c3b3f59f464c1ec4cfecbc",
+    "semantic_hash": "66dd61c282c3b3f59f464c1ec4cfecbc"
+  },
+  ".pi/skills/job-hunter-linkedin/PORTALS.md": {
+    "mtime": 1777390398.0015728,
+    "ast_hash": "dd406ef6b5056a510481d06e520c0268",
+    "semantic_hash": "dd406ef6b5056a510481d06e520c0268"
+  },
+  ".pi/skills/job-hunter-linkedin/README.md": {
+    "mtime": 1777390505.4049137,
+    "ast_hash": "c522f79260fc23e97bed2858d1d6ba63",
+    "semantic_hash": "c522f79260fc23e97bed2858d1d6ba63"
+  },
+  ".pi/skills/job-hunter-linkedin/SKILL.md": {
+    "mtime": 1777390456.7336655,
+    "ast_hash": "6e455d6429dae684394f6cc782c49eb4",
+    "semantic_hash": "6e455d6429dae684394f6cc782c49eb4"
+  },
+  ".pi/skills/job-hunter-trabajando/SKILL.md": {
+    "mtime": 1785781262.4073572,
+    "ast_hash": "ff816304bd7be2ad95c79d5a1152833e",
+    "semantic_hash": "ff816304bd7be2ad95c79d5a1152833e"
+  },
+  "23people_equifax/academic-background.md": {
+    "mtime": 1782625097.7165227,
+    "ast_hash": "24d86d6ad2814ef245380d0574e36803",
+    "semantic_hash": "24d86d6ad2814ef245380d0574e36803"
+  },
+  "23people_equifax/cover-letter-equifax-en.md": {
+    "mtime": 1782624287.4246225,
+    "ast_hash": "b1e0feca377fed61c6dfe353f663360a",
+    "semantic_hash": "b1e0feca377fed61c6dfe353f663360a"
+  },
+  "23people_equifax/cv-equifax-en.md": {
+    "mtime": 1782624274.1758368,
+    "ast_hash": "b77f0da58a7e91fdaab9d71bc3d67398",
+    "semantic_hash": "b77f0da58a7e91fdaab9d71bc3d67398"
+  },
+  "23people_equifax/profile-980.md": {
+    "mtime": 1782624930.2982278,
+    "ast_hash": "58002b729c66587e3ffffa600cb7be76",
+    "semantic_hash": "58002b729c66587e3ffffa600cb7be76"
+  },
+  "23people_equifax/why-equifax.md": {
+    "mtime": 1782626221.8712895,
+    "ast_hash": "0d6ef8c9514bf3265573166b6a079781",
+    "semantic_hash": "0d6ef8c9514bf3265573166b6a079781"
+  },
+  "23people_equifax_interconnect/cover_letter_equifax_interconnect.md": {
+    "mtime": 1784571935.935338,
+    "ast_hash": "4ecad207dce6801d28a9e501bfb7868c",
+    "semantic_hash": "4ecad207dce6801d28a9e501bfb7868c"
+  },
+  "23people_equifax_interconnect/cv_gonzalo_equifax_interconnect.md": {
+    "mtime": 1784572319.6665223,
+    "ast_hash": "e21b31f64e3570550f04cca34b608e6a",
+    "semantic_hash": "e21b31f64e3570550f04cca34b608e6a"
+  },
+  "23people_equifax_interconnect/why_equifax_answer.md": {
+    "mtime": 1784572505.4134064,
+    "ast_hash": "4894692f7a6248ed1fd61760b9eab450",
+    "semantic_hash": "4894692f7a6248ed1fd61760b9eab450"
+  },
+  "2brains/backend-senior-cf68/cover_experience.md": {
+    "mtime": 1779732543.3259363,
+    "ast_hash": "3217cda5b4c767e67cd7e068c168d7d5",
+    "semantic_hash": "3217cda5b4c767e67cd7e068c168d7d5"
+  },
+  "2brains/backend-senior-cf68/cover_interest.md": {
+    "mtime": 1779732647.1583164,
+    "ast_hash": "607f2d7075b277647b158e252df77529",
+    "semantic_hash": "607f2d7075b277647b158e252df77529"
+  },
+  "2brains/backend-senior-cf68/cv_gonzalo_2brains_backend_senior.md": {
+    "mtime": 1779732345.468951,
+    "ast_hash": "1089b90f87387ae1c74fd7d88a37635b",
+    "semantic_hash": "1089b90f87387ae1c74fd7d88a37635b"
+  },
+  "2brains/backend-senior-cf68/job_analysis_report.md": {
+    "mtime": 1779732114.8056233,
+    "ast_hash": "55ba83145e8acef5ab5e52cc24ed4363",
+    "semantic_hash": "55ba83145e8acef5ab5e52cc24ed4363"
+  },
+  "2brains/cover_letter_en.md": {
+    "mtime": 1779117290.953827,
+    "ast_hash": "85db6f3566091969888baec51c724bee",
+    "semantic_hash": "85db6f3566091969888baec51c724bee"
+  },
+  "2brains/cover_letter_es.md": {
+    "mtime": 1779117297.290725,
+    "ast_hash": "f494ba62d7e4132150d2ff0d4217f474",
+    "semantic_hash": "f494ba62d7e4132150d2ff0d4217f474"
+  },
+  "2brains/cv_gonzalo_2brains.md": {
+    "mtime": 1777389687.8587475,
+    "ast_hash": "d3f31c14fb7d9924034f94c68e00bfdc",
+    "semantic_hash": "d3f31c14fb7d9924034f94c68e00bfdc"
+  },
+  "2brains/cv_gonzalo_2brains_fullstack_ia.md": {
+    "mtime": 1779116928.6002612,
+    "ast_hash": "be72e5b3a545796a894ceae71b79b384",
+    "semantic_hash": "be72e5b3a545796a894ceae71b79b384"
+  },
+  "2brains/porque-interesado.txt": {
+    "mtime": 1777390032.229595,
+    "ast_hash": "412e940bb20406b7bcca49651275eb40",
+    "semantic_hash": "412e940bb20406b7bcca49651275eb40"
+  },
+  "AGENTS.md": {
+    "mtime": 1785157791.7030458,
+    "ast_hash": "237e08be2ea70173d8834434bd6a2533",
+    "semantic_hash": "237e08be2ea70173d8834434bd6a2533"
+  },
+  "BUSQUEDA-ESPANA.md": {
+    "mtime": 1784700202.406678,
+    "ast_hash": "391d073a20c386c824848f3598ba9079",
+    "semantic_hash": "391d073a20c386c824848f3598ba9079"
+  },
+  "BUSQUEDA-GLOBAL-ELIXIR.md": {
+    "mtime": 1784701559.1229506,
+    "ast_hash": "ac6ef41e917792f9d956f66ed6ea66c8",
+    "semantic_hash": "ac6ef41e917792f9d956f66ed6ea66c8"
+  },
+  "BUSQUEDA-SQM.md": {
+    "mtime": 1784820919.9965966,
+    "ast_hash": "4c653803576ccb958e87f5eac93b319f",
+    "semantic_hash": "4c653803576ccb958e87f5eac93b319f"
+  },
+  "JOB-PORTALS.md": {
+    "mtime": 1784701574.5087154,
+    "ast_hash": "4d1b80c7153c8d1075ba8e4c97ade707",
+    "semantic_hash": "4d1b80c7153c8d1075ba8e4c97ade707"
+  },
+  "MANUAL.md": {
+    "mtime": 1777390692.7050197,
+    "ast_hash": "44902e70a5216e42e7ecdd23490dbbe5",
+    "semantic_hash": "44902e70a5216e42e7ecdd23490dbbe5"
+  },
+  "README.md": {
+    "mtime": 1779121915.653718,
+    "ast_hash": "54f45b469f64d3cacb52bb6899c7a93d",
+    "semantic_hash": "54f45b469f64d3cacb52bb6899c7a93d"
+  },
+  "abenis-consultores/ABENIS_DECISION_NOTES.md": {
+    "mtime": 1785358625.142552,
+    "ast_hash": "c712f99be20d690b94af49b0994b8ebd",
+    "semantic_hash": "c712f99be20d690b94af49b0994b8ebd"
+  },
+  "abenis-consultores/CARTA_PRESENTACION.txt": {
+    "mtime": 1785358537.944808,
+    "ast_hash": "9b3ed9cae25dbfb004ad842dd1224df6",
+    "semantic_hash": "9b3ed9cae25dbfb004ad842dd1224df6"
+  },
+  "abenis-consultores/EMAIL_A_ENVIAR.txt": {
+    "mtime": 1785358634.237421,
+    "ast_hash": "c76f9bd36ec6c7cde6ee4bd39d52c056",
+    "semantic_hash": "c76f9bd36ec6c7cde6ee4bd39d52c056"
+  },
+  "abenis-consultores/cv_gonzalo_abenis_consultores.md": {
+    "mtime": 1785358840.3959641,
+    "ast_hash": "1fbed8a62f6542f7b55004163fc16bdd",
+    "semantic_hash": "1fbed8a62f6542f7b55004163fc16bdd"
+  },
+  "abenis/carta_presentacion.md": {
+    "mtime": 1779217276.896915,
+    "ast_hash": "6a35a5a7364bb69b57af4535d17c59f2",
+    "semantic_hash": "6a35a5a7364bb69b57af4535d17c59f2"
+  },
+  "abenis/cv_gonzalo_abenis.md": {
+    "mtime": 1779217126.8721838,
+    "ast_hash": "94b45f3bdf0a3dc0dade78b3d23545ae",
+    "semantic_hash": "94b45f3bdf0a3dc0dade78b3d23545ae"
+  },
+  "accessowl/cv_gonzalo_accessowl.md": {
+    "mtime": 1781555067.8241613,
+    "ast_hash": "8e5c023748a1e577edbc680c4181aa24",
+    "semantic_hash": "8e5c023748a1e577edbc680c4181aa24"
+  },
+  "accessowl/job_analysis_report.md": {
+    "mtime": 1781548691.1507287,
+    "ast_hash": "4af3e900149cb60637d356fa37de2cce",
+    "semantic_hash": "4af3e900149cb60637d356fa37de2cce"
+  },
+  "acercarse/cv_gonzalo_acercarse.md": {
+    "mtime": 1781554440.6788259,
+    "ast_hash": "c149b3242966321f9a5d20ba4e914c9a",
+    "semantic_hash": "c149b3242966321f9a5d20ba4e914c9a"
+  },
+  "acercarse/job_analysis_report.md": {
+    "mtime": 1781554404.8013794,
+    "ast_hash": "0039e9965ee9bc81d422ff29007a97cb",
+    "semantic_hash": "0039e9965ee9bc81d422ff29007a97cb"
+  },
+  "agtec_servicios/cover_letter_agtec.md": {
+    "mtime": 1777394003.218218,
+    "ast_hash": "c951cf4949e837720a48d41852a53785",
+    "semantic_hash": "c951cf4949e837720a48d41852a53785"
+  },
+  "agtec_servicios/cv_gonzalo_agtec.md": {
+    "mtime": 1777392916.5186508,
+    "ast_hash": "17a8c51c4f86ad780730ebed3f8476ab",
+    "semantic_hash": "17a8c51c4f86ad780730ebed3f8476ab"
+  },
+  "agtec_servicios/links.md": {
+    "mtime": 1777395358.4517903,
+    "ast_hash": "ac3838838dd805f52cfcf61c028db9d5",
+    "semantic_hash": "ac3838838dd805f52cfcf61c028db9d5"
+  },
+  "agtec_servicios/qa_agtec.md": {
+    "mtime": 1777393818.0789711,
+    "ast_hash": "73a1760942069f5379c36986de96db9e",
+    "semantic_hash": "73a1760942069f5379c36986de96db9e"
+  },
+  "autopostulacion/computrabajo/estadisticas.txt": {
+    "mtime": 1786370870.631827,
+    "ast_hash": "bbda318eb67db1f749a5a425ac6d59e2",
+    "semantic_hash": "bbda318eb67db1f749a5a425ac6d59e2"
+  },
+  "autopostulacion/computrabajo/tmp/all_uniq.txt": {
+    "mtime": 1785791874.4050274,
+    "ast_hash": "5e091ce78d3cc53b1533ee3684afdde8",
+    "semantic_hash": "5e091ce78d3cc53b1533ee3684afdde8"
+  },
+  "autopostulacion/computrabajo/tmp/allapps.txt": {
+    "mtime": 1785794048.126017,
+    "ast_hash": "0147df05970a1b6f60dea616c2af6dfd",
+    "semantic_hash": "0147df05970a1b6f60dea616c2af6dfd"
+  },
+  "autopostulacion/computrabajo/tmp/answers.md": {
+    "mtime": 1785792497.021856,
+    "ast_hash": "88525ec81015ef9f61592c7e43f367e9",
+    "semantic_hash": "88525ec81015ef9f61592c7e43f367e9"
+  },
+  "autopostulacion/computrabajo/tmp/apply_final.txt": {
+    "mtime": 1785792920.2086236,
+    "ast_hash": "f9a55c280798c576d0cfa6e5e9867ffb",
+    "semantic_hash": "f9a55c280798c576d0cfa6e5e9867ffb"
+  },
+  "autopostulacion/computrabajo/tmp/apply_list.txt": {
+    "mtime": 1785792920.2046237,
+    "ast_hash": "f9a55c280798c576d0cfa6e5e9867ffb",
+    "semantic_hash": "f9a55c280798c576d0cfa6e5e9867ffb"
+  },
+  "autopostulacion/computrabajo/tmp/baseline_r6.txt": {
+    "mtime": 1785790660.8089058,
+    "ast_hash": "c4c67d859597868a1824b70e9cf29176",
+    "semantic_hash": "c4c67d859597868a1824b70e9cf29176"
+  },
+  "autopostulacion/computrabajo/tmp/cand2.txt": {
+    "mtime": 1785791887.6998315,
+    "ast_hash": "bfd2547bcc640d9487f4c12ab257dfb0",
+    "semantic_hash": "bfd2547bcc640d9487f4c12ab257dfb0"
+  },
+  "autopostulacion/computrabajo/tmp/cand2a.txt": {
+    "mtime": 1785791897.4726875,
+    "ast_hash": "0e44d587d1921292a4f56aa16e7a5d6e",
+    "semantic_hash": "0e44d587d1921292a4f56aa16e7a5d6e"
+  },
+  "autopostulacion/computrabajo/tmp/cand2b.txt": {
+    "mtime": 1785792348.8570385,
+    "ast_hash": "edac78f5387076389bba2babf028e75b",
+    "semantic_hash": "edac78f5387076389bba2babf028e75b"
+  },
+  "autopostulacion/computrabajo/tmp/candidates.txt": {
+    "mtime": 1785791052.2001398,
+    "ast_hash": "e7ba718441db1bd45a58e3a225b185e4",
+    "semantic_hash": "e7ba718441db1bd45a58e3a225b185e4"
+  },
+  "autopostulacion/computrabajo/tmp/dossier.txt": {
+    "mtime": 1785791295.9765482,
+    "ast_hash": "a005223280aed7f10cf5164ba72143fe",
+    "semantic_hash": "a005223280aed7f10cf5164ba72143fe"
+  },
+  "autopostulacion/computrabajo/tmp/dossier2.txt": {
+    "mtime": 1785792133.4722111,
+    "ast_hash": "29bd490684513d1d1849e391ce8ff088",
+    "semantic_hash": "29bd490684513d1d1849e391ce8ff088"
+  },
+  "autopostulacion/computrabajo/tmp/dossier3.txt": {
+    "mtime": 1785792857.8285422,
+    "ast_hash": "f46994ff45111b379d883f0fc1c95cb7",
+    "semantic_hash": "f46994ff45111b379d883f0fc1c95cb7"
+  },
+  "autopostulacion/computrabajo/tmp/offers_dedup.txt": {
+    "mtime": 1785790901.50536,
+    "ast_hash": "05146e7b5264004eaedfbf3a99263f32",
+    "semantic_hash": "05146e7b5264004eaedfbf3a99263f32"
+  },
+  "autopostulacion/computrabajo/tmp/offers_r6.txt": {
+    "mtime": 1785790887.4165673,
+    "ast_hash": "328208b77f81ab984a57247e396a01bb",
+    "semantic_hash": "328208b77f81ab984a57247e396a01bb"
+  },
+  "autopostulacion/computrabajo/tmp/offers_r6_uniq.txt": {
+    "mtime": 1785790887.4265673,
+    "ast_hash": "73cea2f8d1688393b506db367a2d81a4",
+    "semantic_hash": "73cea2f8d1688393b506db367a2d81a4"
+  },
+  "autopostulacion/computrabajo/tmp/offers_r6b.txt": {
+    "mtime": 1785791860.7882278,
+    "ast_hash": "ad9268d803d08f8f64043d7b563a82c0",
+    "semantic_hash": "ad9268d803d08f8f64043d7b563a82c0"
+  },
+  "autopostulacion/computrabajo/tmp/queue.txt": {
+    "mtime": 1785793120.18108,
+    "ast_hash": "83933f859dd78898d99fabbca074c944",
+    "semantic_hash": "83933f859dd78898d99fabbca074c944"
+  },
+  "avos_tech/cover_letter_avos_tech.md": {
+    "mtime": 1781544966.0839615,
+    "ast_hash": "03d7861684f3c3f208efd29303584513",
+    "semantic_hash": "03d7861684f3c3f208efd29303584513"
+  },
+  "avos_tech/cv_gonzalo_avos_tech.md": {
+    "mtime": 1781544944.162299,
+    "ast_hash": "7a12c67709b80ba32319b3a90238d2ff",
+    "semantic_hash": "7a12c67709b80ba32319b3a90238d2ff"
+  },
+  "avos_tech/respuesta_fullstack_corta.md": {
+    "mtime": 1781547455.4356227,
+    "ast_hash": "7eee96eaba47b37298128c91427bc877",
+    "semantic_hash": "7eee96eaba47b37298128c91427bc877"
+  },
+  "avos_tech/respuestas_preguntas.md": {
+    "mtime": 1781547200.5235393,
+    "ast_hash": "7ae71db6101065c8f714cc4769d51b6f",
+    "semantic_hash": "7ae71db6101065c8f714cc4769d51b6f"
+  },
+  "babel/cv_gonzalo_babel_health.md": {
+    "mtime": 1779771147.3798406,
+    "ast_hash": "c6a407c4d507d4d196f2f47391564dfa",
+    "semantic_hash": "c6a407c4d507d4d196f2f47391564dfa"
+  },
+  "bc-tecnologia/cv_gonzalo_bc_tecnologia.md": {
+    "mtime": 1777346223.9740846,
+    "ast_hash": "af3198a967a2002b2947bb589debe740",
+    "semantic_hash": "af3198a967a2002b2947bb589debe740"
+  },
+  "bc-tecnologia/portal.txt": {
+    "mtime": 1777346622.84009,
+    "ast_hash": "29220ca289202ebae0353895be1c3507",
+    "semantic_hash": "29220ca289202ebae0353895be1c3507"
+  },
+  "bc-tecnologia_2/cover_letter_bc_fullstack_cloud.md": {
+    "mtime": 1779729661.4379404,
+    "ast_hash": "c54841bf1b717cd899b1cb298afa7dad",
+    "semantic_hash": "c54841bf1b717cd899b1cb298afa7dad"
+  },
+  "bc-tecnologia_2/cv_gonzalo_bc_fullstack_cloud.md": {
+    "mtime": 1779729863.5690932,
+    "ast_hash": "ba6ef826bdbac36f458463036da674f8",
+    "semantic_hash": "ba6ef826bdbac36f458463036da674f8"
+  },
+  "bc-tecnologia_3/carta_presentacion_bc_fullstack_semisenior.md": {
+    "mtime": 1782931366.0617096,
+    "ast_hash": "f7cbee881b1f5a5fcc8a615c7490b43e",
+    "semantic_hash": "f7cbee881b1f5a5fcc8a615c7490b43e"
+  },
+  "bc-tecnologia_3/cv_gonzalo_bc_fullstack_semisenior.md": {
+    "mtime": 1782931527.299086,
+    "ast_hash": "59a55acd53bf8490b5e2b740e1a69bef",
+    "semantic_hash": "59a55acd53bf8490b5e2b740e1a69bef"
+  },
+  "bc-tecnologia_3/preguntas_formulario.md": {
+    "mtime": 1782931290.9079397,
+    "ast_hash": "0145343fcc30fd2c00248232b0999cc2",
+    "semantic_hash": "0145343fcc30fd2c00248232b0999cc2"
+  },
+  "bc-tecnologia_4/cover_letter_bc_tecnologia_4.md": {
+    "mtime": 1785265662.742223,
+    "ast_hash": "93c96de0fe12435aa8c1b654a7554807",
+    "semantic_hash": "93c96de0fe12435aa8c1b654a7554807"
+  },
+  "bc-tecnologia_4/cv_gonzalo_bc_tecnologia_4.md": {
+    "mtime": 1785265646.7894516,
+    "ast_hash": "3f273577ce5b2bcb45cd11e0369c4d74",
+    "semantic_hash": "3f273577ce5b2bcb45cd11e0369c4d74"
+  },
+  "binexo/cover_letter_binexo.md": {
+    "mtime": 1781550297.557784,
+    "ast_hash": "379a5426d222009d5411523a657b7cc1",
+    "semantic_hash": "379a5426d222009d5411523a657b7cc1"
+  },
+  "binexo/cv_gonzalo_binexo.md": {
+    "mtime": 1781549885.1992333,
+    "ast_hash": "2783ee6234e89d5017cbbd5617fdda66",
+    "semantic_hash": "2783ee6234e89d5017cbbd5617fdda66"
+  },
+  "binexo/job_analysis_report.md": {
+    "mtime": 1781549867.577509,
+    "ast_hash": "ccaae701b9359ef4c8b88221e07f5986",
+    "semantic_hash": "ccaae701b9359ef4c8b88221e07f5986"
+  },
+  "coderlabs/cv_gonzalo_coderslab.md": {
+    "mtime": 1777391895.8842487,
+    "ast_hash": "d6350d98d0d2531a4117ae3f3c8a0f85",
+    "semantic_hash": "d6350d98d0d2531a4117ae3f3c8a0f85"
+  },
+  "coderlabs/interes-trabajo-coderslab.md": {
+    "mtime": 1777392345.3957274,
+    "ast_hash": "ca75f1177e27a7aa1d933cad9df935fb",
+    "semantic_hash": "ca75f1177e27a7aa1d933cad9df935fb"
+  },
+  "coderslab/cv_gonzalo_coderslab.md": {
+    "mtime": 1781549280.0926309,
+    "ast_hash": "18fe2c920bece39f6fc6656581065b54",
+    "semantic_hash": "18fe2c920bece39f6fc6656581065b54"
+  },
+  "coderslab/job_analysis_report.md": {
+    "mtime": 1781549220.269555,
+    "ast_hash": "b65b53fc5de26563204096270a6ec0dc",
+    "semantic_hash": "b65b53fc5de26563204096270a6ec0dc"
+  },
+  "coderslab/porque-interesado.md": {
+    "mtime": 1781549985.8236594,
+    "ast_hash": "766421aa1e97d424d53c989cf095e87a",
+    "semantic_hash": "766421aa1e97d424d53c989cf095e87a"
+  },
+  "coderslab/resumen-interes.md": {
+    "mtime": 1781550067.323385,
+    "ast_hash": "d88f3eaddcd175b80cec2d1419ae2245",
+    "semantic_hash": "d88f3eaddcd175b80cec2d1419ae2245"
+  },
+  "companies/Gonzalo_Oviedo_Fiserv_Staff_Java_Software_Engineer.md": {
+    "mtime": 1785475772.478635,
+    "ast_hash": "62ee60c8631c528e53ee905983116ab3",
+    "semantic_hash": "62ee60c8631c528e53ee905983116ab3"
+  },
+  "companies/Gonzalo_Oviedo_Fiserv_Staff_Java_Software_Engineer.txt": {
+    "mtime": 1785476134.791246,
+    "ast_hash": "2914f1403bb7f6861557884eb3724c72",
+    "semantic_hash": "2914f1403bb7f6861557884eb3724c72"
+  },
+  "companies/cover_letter_bairesdev.md": {
+    "mtime": 1778685686.9740393,
+    "ast_hash": "163b4cf2d8fb2ada578dca9dd650379a",
+    "semantic_hash": "163b4cf2d8fb2ada578dca9dd650379a"
+  },
+  "companies/cover_letter_miratech.md": {
+    "mtime": 1778685057.0885558,
+    "ast_hash": "fb432e2ef68f3b8563fe5e5413daf98d",
+    "semantic_hash": "fb432e2ef68f3b8563fe5e5413daf98d"
+  },
+  "companies/cover_letter_technorex.md": {
+    "mtime": 1778686074.8081796,
+    "ast_hash": "d0781def8d2af40d496340b7b452716a",
+    "semantic_hash": "d0781def8d2af40d496340b7b452716a"
+  },
+  "companies/cover_letter_whiteam.md": {
+    "mtime": 1778685692.2669594,
+    "ast_hash": "08cf2311f850847977c580b5b48fbb65",
+    "semantic_hash": "08cf2311f850847977c580b5b48fbb65"
+  },
+  "companies/cv_gonzalo_bairesdev.md": {
+    "mtime": 1778685653.964538,
+    "ast_hash": "79a0a7e76256c307faf62a7e900938b1",
+    "semantic_hash": "79a0a7e76256c307faf62a7e900938b1"
+  },
+  "companies/cv_gonzalo_bc_tecnologia.md": {
+    "mtime": 1777334075.8437686,
+    "ast_hash": "0e993f11967cdd87448a8af12d219322",
+    "semantic_hash": "0e993f11967cdd87448a8af12d219322"
+  },
+  "companies/cv_gonzalo_consorcio.md": {
+    "mtime": 1777335293.3402724,
+    "ast_hash": "110e6bb51e1da120fa6722b303bdb66b",
+    "semantic_hash": "110e6bb51e1da120fa6722b303bdb66b"
+  },
+  "companies/cv_gonzalo_fortia.md": {
+    "mtime": 1782541890.312368,
+    "ast_hash": "579872ce4c610d7697cd15a23af36199",
+    "semantic_hash": "579872ce4c610d7697cd15a23af36199"
+  },
+  "companies/cv_gonzalo_gft_technologies.md": {
+    "mtime": 1777337870.018476,
+    "ast_hash": "be4b9734efa4df86d5d5e45dad6ad4dc",
+    "semantic_hash": "be4b9734efa4df86d5d5e45dad6ad4dc"
+  },
+  "companies/cv_gonzalo_miratech.md": {
+    "mtime": 1778684123.6926548,
+    "ast_hash": "2250bf90f1564931dd981a4d9fe3bef3",
+    "semantic_hash": "2250bf90f1564931dd981a4d9fe3bef3"
+  },
+  "companies/cv_gonzalo_open_talent_fintech.md": {
+    "mtime": 1778683875.7843988,
+    "ast_hash": "cefe879805b04647d02d0154c2b066f3",
+    "semantic_hash": "cefe879805b04647d02d0154c2b066f3"
+  },
+  "companies/cv_gonzalo_plaintech_solutions.md": {
+    "mtime": 1784926997.3265712,
+    "ast_hash": "3bccc91b159b9917c2fff5293343da11",
+    "semantic_hash": "3bccc91b159b9917c2fff5293343da11"
+  },
+  "companies/cv_gonzalo_sii_germany.md": {
+    "mtime": 1778683662.901614,
+    "ast_hash": "d6b658aa05f0d348c3684ad2f51671c7",
+    "semantic_hash": "d6b658aa05f0d348c3684ad2f51671c7"
+  },
+  "companies/cv_gonzalo_technorex.md": {
+    "mtime": 1778685672.640256,
+    "ast_hash": "56d74cb8f7569c55ed37cd5514fb401c",
+    "semantic_hash": "56d74cb8f7569c55ed37cd5514fb401c"
+  },
+  "companies/cv_gonzalo_turtle_trax.md": {
+    "mtime": 1785159238.2849483,
+    "ast_hash": "3f42786be31cfbed90955c439c5c0736",
+    "semantic_hash": "3f42786be31cfbed90955c439c5c0736"
+  },
+  "companies/cv_gonzalo_whiteam.md": {
+    "mtime": 1778685663.4023955,
+    "ast_hash": "ae2faa51a3c3f9c15ff9258368518a72",
+    "semantic_hash": "ae2faa51a3c3f9c15ff9258368518a72"
+  },
+  "computrabajo_analista_programador/cv_gonzalo_analista_programador.md": {
+    "mtime": 1779217636.7474732,
+    "ast_hash": "c29f563ad0816f45404f529d614e2efa",
+    "semantic_hash": "c29f563ad0816f45404f529d614e2efa"
+  },
+  "computrabajo_analista_programador/job_analysis_report.md": {
+    "mtime": 1779217621.0137112,
+    "ast_hash": "004a68f05837d189f7e1fd287308a68a",
+    "semantic_hash": "004a68f05837d189f7e1fd287308a68a"
+  },
+  "connect-antigravity/cv_gonzalo_connect_antigravity.md": {
+    "mtime": 1779978696.5487866,
+    "ast_hash": "8764f667b82712ee881f016bfe0b355c",
+    "semantic_hash": "8764f667b82712ee881f016bfe0b355c"
+  },
+  "connect-antigravity/informe_analisis_connect_antigravity.md": {
+    "mtime": 1779978470.2545917,
+    "ast_hash": "740147bd301013d59e155579cb71e35c",
+    "semantic_hash": "740147bd301013d59e155579cb71e35c"
+  },
+  "consorcio/cv_gonzalo_consorcio.md": {
+    "mtime": 1777344813.1700428,
+    "ast_hash": "46ac7df1ac4db7db23c27fce46d1e6ab",
+    "semantic_hash": "46ac7df1ac4db7db23c27fce46d1e6ab"
+  },
+  "contractor/carta_contractor_es.md": {
+    "mtime": 1784582075.4982793,
+    "ast_hash": "8fc989f1bcc4bc36e0b87bc0af82fdb2",
+    "semantic_hash": "8fc989f1bcc4bc36e0b87bc0af82fdb2"
+  },
+  "contractor/cv_gonzalo_contractor_es.md": {
+    "mtime": 1784588231.485516,
+    "ast_hash": "11fa9646ffe824460668dc75c345fb37",
+    "semantic_hash": "11fa9646ffe824460668dc75c345fb37"
+  },
+  "contractor/extracto_computrabajo.md": {
+    "mtime": 1784588862.4393318,
+    "ast_hash": "72f3c885ea0f2d65b13b50f8edd0d52e",
+    "semantic_hash": "72f3c885ea0f2d65b13b50f8edd0d52e"
+  },
+  "cv-en.md": {
+    "mtime": 1780077537.2189586,
+    "ast_hash": "1b1b892b943e1be705ea86391e3da7b8",
+    "semantic_hash": "1b1b892b943e1be705ea86391e3da7b8"
+  },
+  "cv-versions/cv2-en.md": {
+    "mtime": 1782249981.9012177,
+    "ast_hash": "21c2d9ab9d942d7560811cae3c327065",
+    "semantic_hash": "21c2d9ab9d942d7560811cae3c327065"
+  },
+  "cv.md": {
+    "mtime": 1785900450.4872482,
+    "ast_hash": "c712f4f2a00bf370541ce31cab485be2",
+    "semantic_hash": "c712f4f2a00bf370541ce31cab485be2"
+  },
+  "cv_job_links.md": {
+    "mtime": 1785897404.1327112,
+    "ast_hash": "711f5b2125c5bc560f47fd6a384e9a5d",
+    "semantic_hash": "711f5b2125c5bc560f47fd6a384e9a5d"
+  },
+  "fcm-digital/cv_gonzalo_fcm_digital.md": {
+    "mtime": 1781555061.361261,
+    "ast_hash": "6e38d4172333ec9e34810a93b6bb1e40",
+    "semantic_hash": "6e38d4172333ec9e34810a93b6bb1e40"
+  },
+  "fcm-digital/job_analysis_report.md": {
+    "mtime": 1781554714.5635998,
+    "ast_hash": "fdf5ee3fc028aaa88f7b8177c0fa12c5",
+    "semantic_hash": "fdf5ee3fc028aaa88f7b8177c0fa12c5"
+  },
+  "fistrek/cv_gonzalo_fistrek.md": {
+    "mtime": 1782929026.409103,
+    "ast_hash": "8bcc8d4fce923dd49a68267b42683764",
+    "semantic_hash": "8bcc8d4fce923dd49a68267b42683764"
+  },
+  "fullstack/cv_gonzalo_fullstack.md": {
+    "mtime": 1779201497.1580842,
+    "ast_hash": "80074035b64f505bb8be4d7d1db72f78",
+    "semantic_hash": "80074035b64f505bb8be4d7d1db72f78"
+  },
+  "fullstack_agentic_elixir/cv_gonzalo_fullstack.md": {
+    "mtime": 1785213485.7631023,
+    "ast_hash": "63850668039bccf3d5830525609a243f",
+    "semantic_hash": "63850668039bccf3d5830525609a243f"
+  },
+  "fullstack_agentic_elixir/job_analysis_report.md": {
+    "mtime": 1785213380.9366043,
+    "ast_hash": "dd4ad474509a51335e48f9f52743e8af",
+    "semantic_hash": "dd4ad474509a51335e48f9f52743e8af"
+  },
+  "fullstack_agentic_elixir/linkedin_message.md": {
+    "mtime": 1785213421.3330255,
+    "ast_hash": "11209ce51814b3224a050ca5e7653aa7",
+    "semantic_hash": "11209ce51814b3224a050ca5e7653aa7"
+  },
+  "fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react.md": {
+    "mtime": 1781560764.6475434,
+    "ast_hash": "be719962ba0f2491391bc513958f1527",
+    "semantic_hash": "be719962ba0f2491391bc513958f1527"
+  },
+  "fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react_es.md": {
+    "mtime": 1781560953.269684,
+    "ast_hash": "79f2f43e60631c6908a0fa439e0b31f5",
+    "semantic_hash": "79f2f43e60631c6908a0fa439e0b31f5"
+  },
+  "fullstack_linkedin_post1/job_analysis_report.md": {
+    "mtime": 1781560729.2240803,
+    "ast_hash": "ddf58b5052c71c37c72bc5dfb65937ea",
+    "semantic_hash": "ddf58b5052c71c37c72bc5dfb65937ea"
+  },
+  "fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java.md": {
+    "mtime": 1781560755.8486767,
+    "ast_hash": "fe6987ef74eacecebcb399dc4c1f3c92",
+    "semantic_hash": "fe6987ef74eacecebcb399dc4c1f3c92"
+  },
+  "fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java_es.md": {
+    "mtime": 1781560982.5822396,
+    "ast_hash": "70302da3493295fef57b270e479c105e",
+    "semantic_hash": "70302da3493295fef57b270e479c105e"
+  },
+  "fullstack_linkedin_post2_java/job_analysis_report.md": {
+    "mtime": 1781560729.1960807,
+    "ast_hash": "2d483c50e5eb8ebec032dd5c768f6391",
+    "semantic_hash": "2d483c50e5eb8ebec032dd5c768f6391"
+  },
+  "generico/cv_gonzalo_generic_en.md": {
+    "mtime": 1785210548.5281792,
+    "ast_hash": "fd4932934dfb03051a12ab38cac80278",
+    "semantic_hash": "fd4932934dfb03051a12ab38cac80278"
+  },
+  "generico/cv_gonzalo_generic_es.md": {
+    "mtime": 1784658225.2159667,
+    "ast_hash": "0e9d78ddc7bddd8defb28a3404a621de",
+    "semantic_hash": "0e9d78ddc7bddd8defb28a3404a621de"
+  },
+  "generico/cv_gonzalo_generico_ia_es.md": {
+    "mtime": 1784819061.1860197,
+    "ast_hash": "a109acc9703a927fa70e6b5d02855c35",
+    "semantic_hash": "a109acc9703a927fa70e6b5d02855c35"
+  },
+  "getdata/cv_gonzalo_getdata_java_springboot.md": {
+    "mtime": 1783039815.2778404,
+    "ast_hash": "067fafe773bbd810e8e0afed5a9dd9e5",
+    "semantic_hash": "067fafe773bbd810e8e0afed5a9dd9e5"
+  },
+  "gft-technologies/cv_gonzalo_gft_technologies.md": {
+    "mtime": 1777346851.529628,
+    "ast_hash": "4c1b6a01729efe5d5f8247faa6444ef1",
+    "semantic_hash": "4c1b6a01729efe5d5f8247faa6444ef1"
+  },
+  "gft-technologies/gft_carta_presentacion.md": {
+    "mtime": 1777346981.0096674,
+    "ast_hash": "923edab818e87579e97761cd567af1c8",
+    "semantic_hash": "923edab818e87579e97761cd567af1c8"
+  },
+  "gft-technologies/portal.txt": {
+    "mtime": 1777347493.8509016,
+    "ast_hash": "886f406af50d9f1d72db461c12f70bdd",
+    "semantic_hash": "886f406af50d9f1d72db461c12f70bdd"
+  },
+  "gft_technologies/respuestas_whatsapp.md": {
+    "mtime": 1777397274.5405056,
+    "ast_hash": "1869369a39af71d3d133fcc860d8e97a",
+    "semantic_hash": "1869369a39af71d3d133fcc860d8e97a"
+  },
+  "historial/cv.md": {
+    "mtime": 1781458514.7902224,
+    "ast_hash": "3e09fce7d743972fc0fc56075a47261d",
+    "semantic_hash": "3e09fce7d743972fc0fc56075a47261d"
+  },
+  "itps/cv_gonzalo_itps.md": {
+    "mtime": 1785486144.4907997,
+    "ast_hash": "8f27632a9b92a5875c12b0a05faee82f",
+    "semantic_hash": "8f27632a9b92a5875c12b0a05faee82f"
+  },
+  "job.html": {
+    "mtime": 1779199738.9371655,
+    "ast_hash": "ab3b0a1c7ae51f926c442a584b5edcb7",
+    "semantic_hash": "ab3b0a1c7ae51f926c442a584b5edcb7"
+  },
+  "job.txt": {
+    "mtime": 1779217093.268692,
+    "ast_hash": "75f268b8df854f1094b4402a3d0257c0",
+    "semantic_hash": "75f268b8df854f1094b4402a3d0257c0"
+  },
+  "job_analysis_reports/informe_analisis_fullstack.md": {
+    "mtime": 1779199847.280398,
+    "ast_hash": "718836cdba41614c0b7b26fdf8d289b1",
+    "semantic_hash": "718836cdba41614c0b7b26fdf8d289b1"
+  },
+  "job_analysis_reports/job_analysis_report.md": {
+    "mtime": 1777334041.8812828,
+    "ast_hash": "08e633f3c946e17686c990a575f46f17",
+    "semantic_hash": "08e633f3c946e17686c990a575f46f17"
+  },
+  "job_analysis_reports/job_analysis_report_2.md": {
+    "mtime": 1777335269.5476341,
+    "ast_hash": "3bdfe7c356a2588eae0323d0929352bc",
+    "semantic_hash": "3bdfe7c356a2588eae0323d0929352bc"
+  },
+  "job_analysis_reports/job_analysis_report_3.md": {
+    "mtime": 1777391247.9666636,
+    "ast_hash": "935147c521df846ab8a614d89e8c1112",
+    "semantic_hash": "935147c521df846ab8a614d89e8c1112"
+  },
+  "job_analysis_reports/job_analysis_report_4.md": {
+    "mtime": 1778683630.7201,
+    "ast_hash": "955619f8698f9f14b80f79ecc71fec49",
+    "semantic_hash": "955619f8698f9f14b80f79ecc71fec49"
+  },
+  "job_analysis_reports/job_analysis_report_5.md": {
+    "mtime": 1779116390.971303,
+    "ast_hash": "ac5421508444f93ac670e22475caf102",
+    "semantic_hash": "ac5421508444f93ac670e22475caf102"
+  },
+  "job_analysis_reports/job_analysis_report_espana.md": {
+    "mtime": 1779117545.5477257,
+    "ast_hash": "f722613c2b502feba56bf023681d27d7",
+    "semantic_hash": "f722613c2b502feba56bf023681d27d7"
+  },
+  "job_analysis_reports/job_analysis_report_espana_2.md": {
+    "mtime": 1779117976.4567745,
+    "ast_hash": "42a031967eff0a69a9a827da72fef6dc",
+    "semantic_hash": "42a031967eff0a69a9a827da72fef6dc"
+  },
+  "job_analysis_reports/job_analysis_report_fortia.md": {
+    "mtime": 1782541848.770043,
+    "ast_hash": "e173790269d628ac453fe63fb53bf177",
+    "semantic_hash": "e173790269d628ac453fe63fb53bf177"
+  },
+  "job_analysis_reports/job_analysis_report_java_chile_recent.md": {
+    "mtime": 1784926946.0293128,
+    "ast_hash": "ba30a3f54d0dc94dce497d4fc6459c3e",
+    "semantic_hash": "ba30a3f54d0dc94dce497d4fc6459c3e"
+  },
+  "job_analysis_reports/job_analysis_report_java_remoto_global_2026-07-27.md": {
+    "mtime": 1785158963.3517313,
+    "ast_hash": "d3c7e549316831775f60f65221e8ce23",
+    "semantic_hash": "d3c7e549316831775f60f65221e8ce23"
+  },
+  "job_analysis_reports/job_analysis_report_khipu.md": {
+    "mtime": 1779121086.5948687,
+    "ast_hash": "be0173695a7fc8c262f905da3a420bad",
+    "semantic_hash": "be0173695a7fc8c262f905da3a420bad"
+  },
+  "job_analysis_reports/job_analysis_report_peru_usd.md": {
+    "mtime": 1779120388.7879877,
+    "ast_hash": "c5e57aacac6cb5b0622bd205b46e0994",
+    "semantic_hash": "c5e57aacac6cb5b0622bd205b46e0994"
+  },
+  "khipu/cover_letter_es.md": {
+    "mtime": 1779121385.8091068,
+    "ast_hash": "b9dec5f4a2ff0446d51528d388a9a96c",
+    "semantic_hash": "b9dec5f4a2ff0446d51528d388a9a96c"
+  },
+  "khipu/cover_letter_short.md": {
+    "mtime": 1779121694.524212,
+    "ast_hash": "463c8c3ffe12b733f2a311e1a599ed41",
+    "semantic_hash": "463c8c3ffe12b733f2a311e1a599ed41"
+  },
+  "khipu/cv_gonzalo_khipu.md": {
+    "mtime": 1779121586.2500076,
+    "ast_hash": "3cf42c428cc43efb7c72e226ff2b2e4b",
+    "semantic_hash": "3cf42c428cc43efb7c72e226ff2b2e4b"
+  },
+  "kibernum_java_angular/cover_letter_kibernum.md": {
+    "mtime": 1777395930.2631292,
+    "ast_hash": "07fb56c7b6a3c58517a409473e5a5fc9",
+    "semantic_hash": "07fb56c7b6a3c58517a409473e5a5fc9"
+  },
+  "kibernum_java_angular/cv_gonzalo_kibernum.md": {
+    "mtime": 1777395922.6352448,
+    "ast_hash": "954f541e3321f51be414e9a18a22d69b",
+    "semantic_hash": "954f541e3321f51be414e9a18a22d69b"
+  },
+  "kibernum_java_angular/qa_faq.md": {
+    "mtime": 1777395959.075693,
+    "ast_hash": "afa4ad853ffdeb6b9a2d1a467e06f974",
+    "semantic_hash": "afa4ad853ffdeb6b9a2d1a467e06f974"
+  },
+  "kibernum_java_angular_2/cover_letter_kibernum.md": {
+    "mtime": 1779218065.0469813,
+    "ast_hash": "bddab35db7294617c95b44b323b115e4",
+    "semantic_hash": "bddab35db7294617c95b44b323b115e4"
+  },
+  "kibernum_java_angular_2/cv_gonzalo_kibernum.md": {
+    "mtime": 1779217970.1024206,
+    "ast_hash": "1465175ddc027d06eefb61c1242d101e",
+    "semantic_hash": "1465175ddc027d06eefb61c1242d101e"
+  },
+  "kibernum_java_angular_2/job_analysis_report.md": {
+    "mtime": 1779217952.717684,
+    "ast_hash": "d0d51ff1671aeeda1471a112a33ccf30",
+    "semantic_hash": "d0d51ff1671aeeda1471a112a33ccf30"
+  },
+  "knowmad_mood/cv_gonzalo_knowmad_mood.md": {
+    "mtime": 1782929037.4249203,
+    "ast_hash": "0f24a29d685641768a7cfb1b36edcc71",
+    "semantic_hash": "0f24a29d685641768a7cfb1b36edcc71"
+  },
+  "latam_chumi/cv_gonzalo_latam_chumi.md": {
+    "mtime": 1782929090.262044,
+    "ast_hash": "d8d954a4cb92315596f1eff3c4e6e219",
+    "semantic_hash": "d8d954a4cb92315596f1eff3c4e6e219"
+  },
+  "lean-tech/cv_gonzalo_lean_tech.md": {
+    "mtime": 1781555605.53574,
+    "ast_hash": "6d29d1d13cf02c94d0b54042c9dd819c",
+    "semantic_hash": "6d29d1d13cf02c94d0b54042c9dd819c"
+  },
+  "lean-tech/job_analysis_report.md": {
+    "mtime": 1781554617.3850994,
+    "ast_hash": "24235a93b43ff6af767185098bd9370b",
+    "semantic_hash": "24235a93b43ff6af767185098bd9370b"
+  },
+  "lisit/cover_letter_lisit.md": {
+    "mtime": 1779733892.8028169,
+    "ast_hash": "673fbb15ada830e538857b6d798b108e",
+    "semantic_hash": "673fbb15ada830e538857b6d798b108e"
+  },
+  "lisit/cv_gonzalo_lisit.md": {
+    "mtime": 1779733647.1858037,
+    "ast_hash": "6c4f285f51450977382ffb8dcb00b874",
+    "semantic_hash": "6c4f285f51450977382ffb8dcb00b874"
+  },
+  "lisit/job_analysis_report.md": {
+    "mtime": 1779733555.4461136,
+    "ast_hash": "147dc5eb4f351c5e41885ac8ebd20683",
+    "semantic_hash": "147dc5eb4f351c5e41885ac8ebd20683"
+  },
+  "manual/cv.md": {
+    "mtime": 1781541109.8807604,
+    "ast_hash": "dc29c52d63ceda209cf15a7d09a7ffb5",
+    "semantic_hash": "dc29c52d63ceda209cf15a7d09a7ffb5"
+  },
+  "metrica_espana/cover_letter_es.md": {
+    "mtime": 1779119893.8769205,
+    "ast_hash": "fe119fdc545613737616f6631bad7d0f",
+    "semantic_hash": "fe119fdc545613737616f6631bad7d0f"
+  },
+  "metrica_espana/cv_gonzalo_metrica.md": {
+    "mtime": 1779119637.895226,
+    "ast_hash": "6e42fcd3a0ff6270d1a012b2b864df81",
+    "semantic_hash": "6e42fcd3a0ff6270d1a012b2b864df81"
+  },
+  "metrica_programador/cv_gonzalo_metrica_programador.md": {
+    "mtime": 1782929087.4520905,
+    "ast_hash": "c680a2e08d784d534ecf2f21cd89138a",
+    "semantic_hash": "c680a2e08d784d534ecf2f21cd89138a"
+  },
+  "michael_page/cover_letter_michael_page.md": {
+    "mtime": 1783422606.1551878,
+    "ast_hash": "b4fc793b3d75c086bcbdd8db974f4bc3",
+    "semantic_hash": "b4fc793b3d75c086bcbdd8db974f4bc3"
+  },
+  "michael_page/cv_gonzalo_michael_page.md": {
+    "mtime": 1783422488.6259694,
+    "ast_hash": "c018e13066b083f4f9eb875dbd8884ff",
+    "semantic_hash": "c018e13066b083f4f9eb875dbd8884ff"
+  },
+  "michael_page/respuestas_preguntas.md": {
+    "mtime": 1781544118.300981,
+    "ast_hash": "2dda44efe66172ca412328696d250305",
+    "semantic_hash": "2dda44efe66172ca412328696d250305"
+  },
+  "micro1/cv_gonzalo_micro1.md": {
+    "mtime": 1781477727.3169296,
+    "ast_hash": "7b124593955ffa00d980d5326762e01a",
+    "semantic_hash": "7b124593955ffa00d980d5326762e01a"
+  },
+  "micro1/job_analysis_report.md": {
+    "mtime": 1781468721.8417811,
+    "ast_hash": "31667ef2c075d6276d365c0086c2cadd",
+    "semantic_hash": "31667ef2c075d6276d365c0086c2cadd"
+  },
+  "multinacional_servicios_ti/cover_letter_multinacional_ti.md": {
+    "mtime": 1779728926.158406,
+    "ast_hash": "c68506ec5c787d667419175d88bfd1e4",
+    "semantic_hash": "c68506ec5c787d667419175d88bfd1e4"
+  },
+  "multinacional_servicios_ti/cv_gonzalo_multinacional_ti.md": {
+    "mtime": 1779728774.065023,
+    "ast_hash": "1e56c246bacbd8d530c48044f729a03d",
+    "semantic_hash": "1e56c246bacbd8d530c48044f729a03d"
+  },
+  "niuro-codelco/cv_gonzalo_niuro_codelco.md": {
+    "mtime": 1785900510.6804926,
+    "ast_hash": "f5855f76bfbebd03c34c62ac9112a516",
+    "semantic_hash": "f5855f76bfbebd03c34c62ac9112a516"
+  },
+  "niuro-codelco/nota-reclutadora.md": {
+    "mtime": 1785897335.829721,
+    "ast_hash": "5ae789c0e9a0030d62fc60758dc64831",
+    "semantic_hash": "5ae789c0e9a0030d62fc60758dc64831"
+  },
+  "paperstreet/LINKEDIN_OUTREACH.txt": {
+    "mtime": 1785358246.3070085,
+    "ast_hash": "800513e3647a3c1034fc1b44f6305125",
+    "semantic_hash": "800513e3647a3c1034fc1b44f6305125"
+  },
+  "paperstreet/PAPERSTREET_DECISION_NOTES.md": {
+    "mtime": 1785358239.8191018,
+    "ast_hash": "3483a6e282cf8fe5a20d55d7b789bc5e",
+    "semantic_hash": "3483a6e282cf8fe5a20d55d7b789bc5e"
+  },
+  "paperstreet/cv_gonzalo_paperstreet.md": {
+    "mtime": 1785357587.5644863,
+    "ast_hash": "fde0b390d275c2080cd3139df84d82bf",
+    "semantic_hash": "fde0b390d275c2080cd3139df84d82bf"
+  },
+  "pasalc_spa/cv_gonzalo_pasalc_spa.md": {
+    "mtime": 1781549196.9319155,
+    "ast_hash": "850bcf28ed6d16f6b2de6966ae92af16",
+    "semantic_hash": "850bcf28ed6d16f6b2de6966ae92af16"
+  },
+  "pasalc_spa/job_analysis_report.md": {
+    "mtime": 1781549171.8723028,
+    "ast_hash": "f797a6929b4e5b5e917bbe15e5ede107",
+    "semantic_hash": "f797a6929b4e5b5e917bbe15e5ede107"
+  },
+  "patient_reach_360_elixir/cv_gonzalo_patient_reach_360.md": {
+    "mtime": 1784701941.7591045,
+    "ast_hash": "2700f53192dfa087633de9db631697f0",
+    "semantic_hash": "2700f53192dfa087633de9db631697f0"
+  },
+  "patient_reach_360_elixir/job_analysis_report.md": {
+    "mtime": 1784701964.3377595,
+    "ast_hash": "29192e9630d650e7e575c4b9cb35e58a",
+    "semantic_hash": "29192e9630d650e7e575c4b9cb35e58a"
+  },
+  "prima/cv_gonzalo_prima.md": {
+    "mtime": 1781555042.0625577,
+    "ast_hash": "f376b588a5f8184b69a07236ef7cc5a2",
+    "semantic_hash": "f376b588a5f8184b69a07236ef7cc5a2"
+  },
+  "prima/job_analysis_report.md": {
+    "mtime": 1781554643.515696,
+    "ast_hash": "5ca96b49881b582ea98d3e822e57d916",
+    "semantic_hash": "5ca96b49881b582ea98d3e822e57d916"
+  },
+  "profile/achievements.md": {
+    "mtime": 1778687070.3121371,
+    "ast_hash": "97bba350b5edf741d4fc8d001cc242ba",
+    "semantic_hash": "97bba350b5edf741d4fc8d001cc242ba"
+  },
+  "profile/biography.md": {
+    "mtime": 1778686845.5395343,
+    "ast_hash": "bed72d2e8969b0fb266c228865ee5240",
+    "semantic_hash": "bed72d2e8969b0fb266c228865ee5240"
+  },
+  "ps_grupo_automatizacion_ms/cover_letter_ps_grupo_automatizacion_ms.md": {
+    "mtime": 1785253863.3829162,
+    "ast_hash": "d728be162777dff62ff1bb4722a204cf",
+    "semantic_hash": "d728be162777dff62ff1bb4722a204cf"
+  },
+  "ps_grupo_automatizacion_ms/cv_gonzalo_ps_grupo_automatizacion_ms.md": {
+    "mtime": 1785253846.4661582,
+    "ast_hash": "53b148d49db78caa0dea0edde1a81359",
+    "semantic_hash": "53b148d49db78caa0dea0edde1a81359"
+  },
+  "remote-leverage/cover_letter_remote_leverage.md": {
+    "mtime": 1779734924.07365,
+    "ast_hash": "66d54cf33d9a2fe34b96c5791cd52759",
+    "semantic_hash": "66d54cf33d9a2fe34b96c5791cd52759"
+  },
+  "remote-leverage/cv_gonzalo_remote_leverage.md": {
+    "mtime": 1779734870.855903,
+    "ast_hash": "8c8629371951384a4ed68b8f0c30f693",
+    "semantic_hash": "8c8629371951384a4ed68b8f0c30f693"
+  },
+  "remote-leverage/cv_gonzalo_remote_leverage_en.md": {
+    "mtime": 1779734897.0460732,
+    "ast_hash": "9737b963b84ca8924ec1bd6cedc53d32",
+    "semantic_hash": "9737b963b84ca8924ec1bd6cedc53d32"
+  },
+  "remote-leverage/job_analysis_report.md": {
+    "mtime": 1779734749.1683896,
+    "ast_hash": "b6d39ee712ec0f89e175350189155136",
+    "semantic_hash": "b6d39ee712ec0f89e175350189155136"
+  },
+  "remote/application_responses.md": {
+    "mtime": 1781558822.699997,
+    "ast_hash": "9185bfdf91dff5504039340dd74348ff",
+    "semantic_hash": "9185bfdf91dff5504039340dd74348ff"
+  },
+  "remote/cv_gonzalo_remote_en.md": {
+    "mtime": 1781558434.7868295,
+    "ast_hash": "3e6533e9e39cab9fb9d10ac13e31db6f",
+    "semantic_hash": "3e6533e9e39cab9fb9d10ac13e31db6f"
+  },
+  "remote/job_analysis_report.md": {
+    "mtime": 1781557035.4979873,
+    "ast_hash": "c33e087adf4b7405c719b553b7fac12e",
+    "semantic_hash": "c33e087adf4b7405c719b553b7fac12e"
+  },
+  "ryz_labs_elixir/cv_gonzalo_ryz_labs.md": {
+    "mtime": 1784701992.4723299,
+    "ast_hash": "69d6ea23d4805adbf5c3c8f087172eb3",
+    "semantic_hash": "69d6ea23d4805adbf5c3c8f087172eb3"
+  },
+  "ryz_labs_elixir/job_analysis_report.md": {
+    "mtime": 1784702010.13306,
+    "ast_hash": "63f592839f1a3791d4c6ddb807a29b5f",
+    "semantic_hash": "63f592839f1a3791d4c6ddb807a29b5f"
+  },
+  "shinkansen/cv_gonzalo_shinkansen.md": {
+    "mtime": 1781555048.42146,
+    "ast_hash": "601eb67b2fddbf72abdab4d1eaeceaa7",
+    "semantic_hash": "601eb67b2fddbf72abdab4d1eaeceaa7"
+  },
+  "shinkansen/job_analysis_report.md": {
+    "mtime": 1781554667.7973216,
+    "ast_hash": "ba416d828c19421e5d970ee05aa52ebf",
+    "semantic_hash": "ba416d828c19421e5d970ee05aa52ebf"
+  },
+  "softserve/cover_letter.md": {
+    "mtime": 1786367259.472714,
+    "ast_hash": "ba5559334831918f3413c1b79a5a2e23",
+    "semantic_hash": "ba5559334831918f3413c1b79a5a2e23"
+  },
+  "softserve/cv_gonzalo_softserve.md": {
+    "mtime": 1779721828.9654052,
+    "ast_hash": "b2e4a64700883bdd73f0dca304bf1fc4",
+    "semantic_hash": "b2e4a64700883bdd73f0dca304bf1fc4"
+  },
+  "softserve/cv_gonzalo_softserve_fullstack_nextjs.md": {
+    "mtime": 1786367236.0490603,
+    "ast_hash": "9f551637b3ab9ccf5bf5969a5e0a4296",
+    "semantic_hash": "9f551637b3ab9ccf5bf5969a5e0a4296"
+  },
+  "softserve/job_description.md": {
+    "mtime": 1786367179.709894,
+    "ast_hash": "2df8d91e258f428bbb707ba8a54afaff",
+    "semantic_hash": "2df8d91e258f428bbb707ba8a54afaff"
+  },
+  "softserve/letter_to_recruiter.md": {
+    "mtime": 1786368725.5315492,
+    "ast_hash": "44147e38bc09e5617d9ca5fde7fac324",
+    "semantic_hash": "44147e38bc09e5617d9ca5fde7fac324"
+  },
+  "softserve/notes_gap_analysis.md": {
+    "mtime": 1786367928.4906328,
+    "ast_hash": "835e626ca79878cfd7d9b8f4130fa192",
+    "semantic_hash": "835e626ca79878cfd7d9b8f4130fa192"
+  },
+  "stord_elixir_latam/cv_gonzalo_stord.md": {
+    "mtime": 1784701889.827898,
+    "ast_hash": "36d4adbced8dcc2c1066f8242ddbaf5f",
+    "semantic_hash": "36d4adbced8dcc2c1066f8242ddbaf5f"
+  },
+  "stord_elixir_latam/job_analysis_report.md": {
+    "mtime": 1784701911.0535736,
+    "ast_hash": "9e86369efd5cfabb572f7af41e7d0e1e",
+    "semantic_hash": "9e86369efd5cfabb572f7af41e7d0e1e"
+  },
+  "subvisual_elixir/cv_gonzalo_subvisual.md": {
+    "mtime": 1784702038.5106263,
+    "ast_hash": "05132433827f674b08f38518cf4eb1d3",
+    "semantic_hash": "05132433827f674b08f38518cf4eb1d3"
+  },
+  "subvisual_elixir/job_analysis_report.md": {
+    "mtime": 1784702057.4863365,
+    "ast_hash": "542bbbb34c23fd23043b5790e73ba45e",
+    "semantic_hash": "542bbbb34c23fd23043b5790e73ba45e"
+  },
+  "tcit/cover_letter_tcit.md": {
+    "mtime": 1781477303.4816048,
+    "ast_hash": "5d3cb0a2d1a54d439a36a8339aaeffb3",
+    "semantic_hash": "5d3cb0a2d1a54d439a36a8339aaeffb3"
+  },
+  "tcit/cv_gonzalo_tcit.md": {
+    "mtime": 1781477731.5758648,
+    "ast_hash": "d8b143dfbf4f23225b1446a8f19294a2",
+    "semantic_hash": "d8b143dfbf4f23225b1446a8f19294a2"
+  },
+  "tcit/job_analysis_report.md": {
+    "mtime": 1781476762.997595,
+    "ast_hash": "54ff119efc17e847519237870f8dc8cb",
+    "semantic_hash": "54ff119efc17e847519237870f8dc8cb"
+  },
+  "technorex/job-post.txt": {
+    "mtime": 1778686708.6856027,
+    "ast_hash": "2a3563ef7dcd1569ec7335709ca2c764",
+    "semantic_hash": "2a3563ef7dcd1569ec7335709ca2c764"
+  },
+  "technorex_wellfound/cv_gonzalo_technorex.md": {
+    "mtime": 1779730350.9940085,
+    "ast_hash": "9b7855e2e50d0b4f3c531a87bf55a1cf",
+    "semantic_hash": "9b7855e2e50d0b4f3c531a87bf55a1cf"
+  },
+  "tecla_peru/cv_gonzalo_tecla_peru.md": {
+    "mtime": 1779120565.7291791,
+    "ast_hash": "c5249dad68d23646ee1286e205706953",
+    "semantic_hash": "c5249dad68d23646ee1286e205706953"
+  },
+  "tecnologia_personas/cv_gonzalo_tecnologia_personas.md": {
+    "mtime": 1779117849.378231,
+    "ast_hash": "13ae6a5cd39a02c2654d95909bd7605d",
+    "semantic_hash": "13ae6a5cd39a02c2654d95909bd7605d"
+  },
+  "telnyx/cv_gonzalo_telnyx.md": {
+    "mtime": 1781556490.5823143,
+    "ast_hash": "f7d6387b66cb9ff962020d06eeec8eac",
+    "semantic_hash": "f7d6387b66cb9ff962020d06eeec8eac"
+  },
+  "telnyx/experiencia-programacion-funcional.md": {
+    "mtime": 1781556971.0329652,
+    "ast_hash": "41c6cffa0483937edcabd7ed2fe92b8f",
+    "semantic_hash": "41c6cffa0483937edcabd7ed2fe92b8f"
+  },
+  "telnyx/job_analysis_report.md": {
+    "mtime": 1781554690.6109695,
+    "ast_hash": "be066209884c132335e328c82c38db0f",
+    "semantic_hash": "be066209884c132335e328c82c38db0f"
+  },
+  "termgrid/cv_gonzalo_termgrid.md": {
+    "mtime": 1782929060.8405318,
+    "ast_hash": "30a297a062f6a2ab448ab25639607faf",
+    "semantic_hash": "30a297a062f6a2ab448ab25639607faf"
+  },
+  "traackr/Gonzalo_Oviedo_Traackr_Software_Engineer.md": {
+    "mtime": 1785856518.3161612,
+    "ast_hash": "31b28c3ce6da75ce74738f20cec52af8",
+    "semantic_hash": "31b28c3ce6da75ce74738f20cec52af8"
+  },
+  "tracking/SUBSCRIPTIONS.md": {
+    "mtime": 1781563295.5929565,
+    "ast_hash": "f20e7761c188a64f7ad028a21b114c01",
+    "semantic_hash": "f20e7761c188a64f7ad028a21b114c01"
+  },
+  "wall-partners/cv_gonzalo_wall_partners.md": {
+    "mtime": 1781548711.3144174,
+    "ast_hash": "8181310df601f2be60c59f76a89b2a33",
+    "semantic_hash": "8181310df601f2be60c59f76a89b2a33"
+  },
+  "wall-partners/job_analysis_report.md": {
+    "mtime": 1781548684.4258327,
+    "ast_hash": "ba9023d815e111ff6129c0cc2203eba1",
+    "semantic_hash": "ba9023d815e111ff6129c0cc2203eba1"
+  },
+  "xteam_platform_elixir_ai/cv_gonzalo_xteam.md": {
+    "mtime": 1784701833.0257657,
+    "ast_hash": "d081b97dcb2b11bcd418bba1d1b84828",
+    "semantic_hash": "d081b97dcb2b11bcd418bba1d1b84828"
+  },
+  "xteam_platform_elixir_ai/job_analysis_report.md": {
+    "mtime": 1784701857.038399,
+    "ast_hash": "7f6d90ad140006e6cc7a78f35a735ced",
+    "semantic_hash": "7f6d90ad140006e6cc7a78f35a735ced"
+  },
+  "23people_equifax/cv-equifax-en.pdf": {
+    "mtime": 1782626069.3737295,
+    "ast_hash": "581573bd02e4b1f14731370d968875d5",
+    "semantic_hash": "581573bd02e4b1f14731370d968875d5"
+  },
+  "23people_equifax_interconnect/cover_letter_equifax_interconnect.pdf": {
+    "mtime": 1784563996.2828574,
+    "ast_hash": "849786f520809c817e9fe25080746c87",
+    "semantic_hash": "849786f520809c817e9fe25080746c87"
+  },
+  "23people_equifax_interconnect/cv_gonzalo_equifax_interconnect.pdf": {
+    "mtime": 1784572344.758712,
+    "ast_hash": "8cc5d7bfb411bd897fb0591049538ff6",
+    "semantic_hash": "8cc5d7bfb411bd897fb0591049538ff6"
+  },
+  "2brains/cv_gonzalo_2brains.pdf": {
+    "mtime": 1777389703.439414,
+    "ast_hash": "0c5f6c76f4e12543479ad997d1b735f2",
+    "semantic_hash": "0c5f6c76f4e12543479ad997d1b735f2"
+  },
+  "2brains/cv_gonzalo_2brains_fullstack_ia.pdf": {
+    "mtime": 1779117282.5929613,
+    "ast_hash": "246ac5f2826e38c4e0d4cc9844cd1237",
+    "semantic_hash": "246ac5f2826e38c4e0d4cc9844cd1237"
+  },
+  "Talentview3D.pdf": {
+    "mtime": 1781551194.1315935,
+    "ast_hash": "f1107376f31ce1d5840f6bdee7cef096",
+    "semantic_hash": "f1107376f31ce1d5840f6bdee7cef096"
+  },
+  "abenis-consultores/cv_gonzalo_abenis_consultores.pdf": {
+    "mtime": 1785358852.687681,
+    "ast_hash": "247269354a532518ec8e3624ce0030c0",
+    "semantic_hash": "247269354a532518ec8e3624ce0030c0"
+  },
+  "abenis/cv_gonzalo_abenis.pdf": {
+    "mtime": 1779217203.6050234,
+    "ast_hash": "961591a2368e94fe0abeb3cd37e40c57",
+    "semantic_hash": "961591a2368e94fe0abeb3cd37e40c57"
+  },
+  "acercarse/cv_gonzalo_acercarse.pdf": {
+    "mtime": 1781554528.3836982,
+    "ast_hash": "4edef2706614163c6a7855a3c4327b75",
+    "semantic_hash": "4edef2706614163c6a7855a3c4327b75"
+  },
+  "agtec_servicios/cover_letter_agtec.pdf": {
+    "mtime": 1777393864.1762497,
+    "ast_hash": "33eab95379ce034ffa8606dbbb0742c9",
+    "semantic_hash": "33eab95379ce034ffa8606dbbb0742c9"
+  },
+  "agtec_servicios/cv_gonzalo_agtec.pdf": {
+    "mtime": 1777392927.883163,
+    "ast_hash": "c94f14d07e4335c16a7a26074bb49854",
+    "semantic_hash": "c94f14d07e4335c16a7a26074bb49854"
+  },
+  "avos_tech/cv_gonzalo_avos_tech.pdf": {
+    "mtime": 1781547348.1612709,
+    "ast_hash": "3032d6db48b0f7f73b25dad92c0589f0",
+    "semantic_hash": "3032d6db48b0f7f73b25dad92c0589f0"
+  },
+  "babel/cv_gonzalo_babel_health.pdf": {
+    "mtime": 1779771157.268475,
+    "ast_hash": "06409e04da374f93165bd5087de358c9",
+    "semantic_hash": "06409e04da374f93165bd5087de358c9"
+  },
+  "bc-tecnologia/cv_gonzalo_bc_tecnologia.pdf": {
+    "mtime": 1777346240.0416152,
+    "ast_hash": "232d347626a4732059350214c552f8d9",
+    "semantic_hash": "232d347626a4732059350214c552f8d9"
+  },
+  "bc-tecnologia_2/cv_gonzalo_bc_fullstack_cloud.pdf": {
+    "mtime": 1779729873.2426376,
+    "ast_hash": "6ea69d149a77da0a16e55b4be9eb8873",
+    "semantic_hash": "6ea69d149a77da0a16e55b4be9eb8873"
+  },
+  "bc-tecnologia_3/cv_gonzalo_bc_fullstack_semisenior.pdf": {
+    "mtime": 1782931542.4758391,
+    "ast_hash": "a26cbdd08bbfef014be5c3c7e50ad0d7",
+    "semantic_hash": "a26cbdd08bbfef014be5c3c7e50ad0d7"
+  },
+  "bc-tecnologia_4/cover_letter_bc_tecnologia_4.pdf": {
+    "mtime": 1785265686.5098822,
+    "ast_hash": "cd8d185f5aaad23e9b0a75304a53f212",
+    "semantic_hash": "cd8d185f5aaad23e9b0a75304a53f212"
+  },
+  "bc-tecnologia_4/cv_gonzalo_bc_tecnologia_4.pdf": {
+    "mtime": 1785265678.0190039,
+    "ast_hash": "3c6ec40d49beb2e6cb5a56b9743dbdcd",
+    "semantic_hash": "3c6ec40d49beb2e6cb5a56b9743dbdcd"
+  },
+  "coderlabs/cv_gonzalo_coderslab.pdf": {
+    "mtime": 1777391900.7319188,
+    "ast_hash": "d581625b97a4d57740399c97bd8418c2",
+    "semantic_hash": "d581625b97a4d57740399c97bd8418c2"
+  },
+  "coderslab/cv_gonzalo_coderslab.pdf": {
+    "mtime": 1781549874.8533392,
+    "ast_hash": "e849cdb432bf08a1353ba3d276d2ce96",
+    "semantic_hash": "e849cdb432bf08a1353ba3d276d2ce96"
+  },
+  "companies/Gonzalo_Oviedo_CV.pdf": {
+    "mtime": 1785475796.5344865,
+    "ast_hash": "83abcbc58f7b5b3c4a21992436a5d326",
+    "semantic_hash": "83abcbc58f7b5b3c4a21992436a5d326"
+  },
+  "companies/cv_gonzalo_2brains_fullstack_ia.pdf": {
+    "mtime": 1779116933.1865816,
+    "ast_hash": "8fcf2184d67480d30dd508dfa6600402",
+    "semantic_hash": "8fcf2184d67480d30dd508dfa6600402"
+  },
+  "companies/cv_gonzalo_consorcio.pdf": {
+    "mtime": 1777351144.348649,
+    "ast_hash": "54ec774f1a41088158e8a2d641b8ccdf",
+    "semantic_hash": "54ec774f1a41088158e8a2d641b8ccdf"
+  },
+  "companies/cv_gonzalo_miratech.pdf": {
+    "mtime": 1778684487.1061666,
+    "ast_hash": "aef90e54522da787de3e99e46d924345",
+    "semantic_hash": "aef90e54522da787de3e99e46d924345"
+  },
+  "companies/cv_gonzalo_plaintech_solutions.pdf": {
+    "mtime": 1784927021.1429262,
+    "ast_hash": "f0745adc3697649a9422fade2850184a",
+    "semantic_hash": "f0745adc3697649a9422fade2850184a"
+  },
+  "companies/cv_gonzalo_technorex.pdf": {
+    "mtime": 1778686093.4601486,
+    "ast_hash": "7880598b47219565625921fa6386b81f",
+    "semantic_hash": "7880598b47219565625921fa6386b81f"
+  },
+  "companies/cv_gonzalo_turtle_trax.pdf": {
+    "mtime": 1785159251.97076,
+    "ast_hash": "588d4f8b81a644e9f5d41f46e7377ba6",
+    "semantic_hash": "588d4f8b81a644e9f5d41f46e7377ba6"
+  },
+  "computrabajo_analista_programador/cv_gonzalo_analista_programador.pdf": {
+    "mtime": 1779217777.7685087,
+    "ast_hash": "0fd3ce726849f2b42e137df00b9bc88d",
+    "semantic_hash": "0fd3ce726849f2b42e137df00b9bc88d"
+  },
+  "connect-antigravity/cv_gonzalo_connect_antigravity.pdf": {
+    "mtime": 1779978719.5731986,
+    "ast_hash": "adae6391b47ff518964d57a78603ef25",
+    "semantic_hash": "adae6391b47ff518964d57a78603ef25"
+  },
+  "consorcio/cv_gonzalo_consorcio.pdf": {
+    "mtime": 1777351205.1867273,
+    "ast_hash": "ed9493c534f38801a842db880d97578e",
+    "semantic_hash": "ed9493c534f38801a842db880d97578e"
+  },
+  "contractor/carta_contractor_es.pdf": {
+    "mtime": 1784582098.7137403,
+    "ast_hash": "f594cd8cbdf99a1bbcd97743b8a04113",
+    "semantic_hash": "f594cd8cbdf99a1bbcd97743b8a04113"
+  },
+  "contractor/cv_gonzalo_contractor_es.pdf": {
+    "mtime": 1784588249.07426,
+    "ast_hash": "fd6295f15357cb198ce646a97bd09fd3",
+    "semantic_hash": "fd6295f15357cb198ce646a97bd09fd3"
+  },
+  "cv-en.pdf": {
+    "mtime": 1780077547.4184558,
+    "ast_hash": "66e0c9d2708e3d0923afe00b4b1951e6",
+    "semantic_hash": "66e0c9d2708e3d0923afe00b4b1951e6"
+  },
+  "cv-goviedo.pdf": {
+    "mtime": 1782250009.6342802,
+    "ast_hash": "1281b8793642d73740a6143649fb8b0a",
+    "semantic_hash": "1281b8793642d73740a6143649fb8b0a"
+  },
+  "fistrek/cv_gonzalo_fistrek.pdf": {
+    "mtime": 1782929047.4059694,
+    "ast_hash": "fd2587d534b31836be78bf29842ba5ec",
+    "semantic_hash": "fd2587d534b31836be78bf29842ba5ec"
+  },
+  "fullstack/cv_gonzalo_fullstack.pdf": {
+    "mtime": 1779201507.5682259,
+    "ast_hash": "6cb46ba9c8a64397f55ad185d363bf37",
+    "semantic_hash": "6cb46ba9c8a64397f55ad185d363bf37"
+  },
+  "fullstack_agentic_elixir/cv_gonzalo_fullstack.pdf": {
+    "mtime": 1785213500.1448963,
+    "ast_hash": "e6f18d63c14342705542eba0310e7a10",
+    "semantic_hash": "e6f18d63c14342705542eba0310e7a10"
+  },
+  "fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react.pdf": {
+    "mtime": 1781560779.0485895,
+    "ast_hash": "44eb9b045f63dc9c3ab6e8e19708fc66",
+    "semantic_hash": "44eb9b045f63dc9c3ab6e8e19708fc66"
+  },
+  "fullstack_linkedin_post1/cv_gonzalo_fullstack_node_react_es.pdf": {
+    "mtime": 1781560965.589526,
+    "ast_hash": "42fb9d56d306a287c24b9bcc70ab5a84",
+    "semantic_hash": "42fb9d56d306a287c24b9bcc70ab5a84"
+  },
+  "fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java.pdf": {
+    "mtime": 1781560768.3631115,
+    "ast_hash": "a0a95b5330d3327f49cdd448e7a962fa",
+    "semantic_hash": "a0a95b5330d3327f49cdd448e7a962fa"
+  },
+  "fullstack_linkedin_post2_java/cv_gonzalo_fullstack_java_es.pdf": {
+    "mtime": 1781560996.9464047,
+    "ast_hash": "bdd23778f6871f88f084fae370f1aa15",
+    "semantic_hash": "bdd23778f6871f88f084fae370f1aa15"
+  },
+  "generico/cv_gonzalo_generic_en.pdf": {
+    "mtime": 1785210574.9538007,
+    "ast_hash": "1f498e5b15a8351bf8c5baeb57f6238d",
+    "semantic_hash": "1f498e5b15a8351bf8c5baeb57f6238d"
+  },
+  "generico/cv_gonzalo_generic_es.pdf": {
+    "mtime": 1784658250.220514,
+    "ast_hash": "607054e88d0fcf0e8b368f2d16338e46",
+    "semantic_hash": "607054e88d0fcf0e8b368f2d16338e46"
+  },
+  "generico/cv_gonzalo_generico_ia_es.pdf": {
+    "mtime": 1784819076.2487829,
+    "ast_hash": "05ee90048fb949e4a459436dc8b5b970",
+    "semantic_hash": "05ee90048fb949e4a459436dc8b5b970"
+  },
+  "generico/cv_gonzalo_oviedo.pdf": {
+    "mtime": 1784658255.4045062,
+    "ast_hash": "607054e88d0fcf0e8b368f2d16338e46",
+    "semantic_hash": "607054e88d0fcf0e8b368f2d16338e46"
+  },
+  "getdata/cv_gonzalo_getdata_java_springboot.pdf": {
+    "mtime": 1783039827.2166536,
+    "ast_hash": "c9e874fd02a56e07429864719068dda9",
+    "semantic_hash": "c9e874fd02a56e07429864719068dda9"
+  },
+  "gft-technologies/cv_gonzalo_gft_technologies.pdf": {
+    "mtime": 1777346866.9235363,
+    "ast_hash": "6c59c12567d5f7a48bfc0d558739c220",
+    "semantic_hash": "6c59c12567d5f7a48bfc0d558739c220"
+  },
+  "gft-technologies/gft_carta_presentacion.pdf": {
+    "mtime": 1777347021.652303,
+    "ast_hash": "9fb67a6eed01d250a711f55dfdd27538",
+    "semantic_hash": "9fb67a6eed01d250a711f55dfdd27538"
+  },
+  "itps/cv_gonzalo_itps.pdf": {
+    "mtime": 1785486154.4489336,
+    "ast_hash": "c63e53fe66051b7cce24ffc2981e8739",
+    "semantic_hash": "c63e53fe66051b7cce24ffc2981e8739"
+  },
+  "khipu/cv_gonzalo_khipu.pdf": {
+    "mtime": 1779121590.1718607,
+    "ast_hash": "897042eec190f8ae3e9f1c37ec86a97b",
+    "semantic_hash": "897042eec190f8ae3e9f1c37ec86a97b"
+  },
+  "kibernum_java_angular/cover_letter_kibernum.pdf": {
+    "mtime": 1777396244.429349,
+    "ast_hash": "f6f5c2dd464731726a5982c4de53a573",
+    "semantic_hash": "f6f5c2dd464731726a5982c4de53a573"
+  },
+  "kibernum_java_angular/cv_gonzalo_kibernum.pdf": {
+    "mtime": 1777396180.1892087,
+    "ast_hash": "b06f6b7d2b68318c0c8d191205d2c90b",
+    "semantic_hash": "b06f6b7d2b68318c0c8d191205d2c90b"
+  },
+  "kibernum_java_angular_2/cv_gonzalo_kibernum.pdf": {
+    "mtime": 1779218021.6653223,
+    "ast_hash": "8e60b4be65a9bba17b10004a6413922f",
+    "semantic_hash": "8e60b4be65a9bba17b10004a6413922f"
+  },
+  "knowmad_mood/cv_gonzalo_knowmad_mood.pdf": {
+    "mtime": 1782929071.49613,
+    "ast_hash": "533093f620c448f90b0acc768a5b7e1e",
+    "semantic_hash": "533093f620c448f90b0acc768a5b7e1e"
+  },
+  "latam_chumi/cv_gonzalo_latam_chumi.pdf": {
+    "mtime": 1782929111.0770166,
+    "ast_hash": "4664f123ba46d9add2f778dae07d7bc7",
+    "semantic_hash": "4664f123ba46d9add2f778dae07d7bc7"
+  },
+  "lisit/cv_gonzalo_lisit.pdf": {
+    "mtime": 1779733668.0247009,
+    "ast_hash": "ad7a8281a558548dcf5f1a5448601ff8",
+    "semantic_hash": "ad7a8281a558548dcf5f1a5448601ff8"
+  },
+  "manual/cv.pdf": {
+    "mtime": 1781541126.832752,
+    "ast_hash": "e98982aa63afac199d75c07840c2edf6",
+    "semantic_hash": "e98982aa63afac199d75c07840c2edf6"
+  },
+  "metrica_espana/cv_gonzalo_metrica.pdf": {
+    "mtime": 1779119672.5324683,
+    "ast_hash": "64200d3bccddb40db29b6b769e97aa8e",
+    "semantic_hash": "64200d3bccddb40db29b6b769e97aa8e"
+  },
+  "metrica_programador/cv_gonzalo_metrica_programador.pdf": {
+    "mtime": 1782929122.512298,
+    "ast_hash": "0c14f0e0b4d42e047253aa230d2f8c60",
+    "semantic_hash": "0c14f0e0b4d42e047253aa230d2f8c60"
+  },
+  "michael_page/cover_letter_michael_page.pdf": {
+    "mtime": 1783422755.557766,
+    "ast_hash": "bee265698868e5e0a7591ba6748b3387",
+    "semantic_hash": "bee265698868e5e0a7591ba6748b3387"
+  },
+  "michael_page/cv_gonzalo_michael_page.pdf": {
+    "mtime": 1783422510.0956464,
+    "ast_hash": "59da3a7b468cb04f0c3deb13b95cd72a",
+    "semantic_hash": "59da3a7b468cb04f0c3deb13b95cd72a"
+  },
+  "micro1/cv_gonzalo_micro1.pdf": {
+    "mtime": 1781474363.411185,
+    "ast_hash": "5adefc8d237f60336e8a4bab33e2f32f",
+    "semantic_hash": "5adefc8d237f60336e8a4bab33e2f32f"
+  },
+  "multinacional_servicios_ti/cv_gonzalo_multinacional_ti.pdf": {
+    "mtime": 1779728785.254603,
+    "ast_hash": "811830739f5733449349d09690322889",
+    "semantic_hash": "811830739f5733449349d09690322889"
+  },
+  "niuro-codelco/cv_gonzalo_niuro_codelco.pdf": {
+    "mtime": 1785900526.4545765,
+    "ast_hash": "7b8842224c48cf42815cd9e437716ba8",
+    "semantic_hash": "7b8842224c48cf42815cd9e437716ba8"
+  },
+  "niuro-codelco/descripcion-laboral-niuro-senior.pdf": {
+    "mtime": 1785895800.1964257,
+    "ast_hash": "e80adca34212bd83193d3dc38616aa88",
+    "semantic_hash": "e80adca34212bd83193d3dc38616aa88"
+  },
+  "pasalc_spa/cv_gonzalo_pasalc_spa.pdf": {
+    "mtime": 1781549267.4568262,
+    "ast_hash": "dfe9f3474437f8be6232c8424f98c7e6",
+    "semantic_hash": "dfe9f3474437f8be6232c8424f98c7e6"
+  },
+  "patient_reach_360_elixir/cv_gonzalo_patient_reach_360.pdf": {
+    "mtime": 1784702100.6034272,
+    "ast_hash": "d630f1318f13349c8d0c410477f0c437",
+    "semantic_hash": "d630f1318f13349c8d0c410477f0c437"
+  },
+  "prima/cv_gonzalo_prima.pdf": {
+    "mtime": 1781555934.5992072,
+    "ast_hash": "6bb71ace368e0547c3a123722197f39a",
+    "semantic_hash": "6bb71ace368e0547c3a123722197f39a"
+  },
+  "ps_grupo_automatizacion_ms/cover_letter_ps_grupo_automatizacion_ms.pdf": {
+    "mtime": 1785253886.6295717,
+    "ast_hash": "b6bf1875921aad03802773977a464d95",
+    "semantic_hash": "b6bf1875921aad03802773977a464d95"
+  },
+  "ps_grupo_automatizacion_ms/cv_gonzalo_ps_grupo_automatizacion_ms.pdf": {
+    "mtime": 1785253878.8414168,
+    "ast_hash": "067e3236ec4b9cf1914864e32c6bc94d",
+    "semantic_hash": "067e3236ec4b9cf1914864e32c6bc94d"
+  },
+  "remote-leverage/cv_gonzalo_remote_leverage_en.pdf": {
+    "mtime": 1779735544.9663887,
+    "ast_hash": "3615d47fd1256c9b6a05b9fd2495ca60",
+    "semantic_hash": "3615d47fd1256c9b6a05b9fd2495ca60"
+  },
+  "remote/application_responses.pdf": {
+    "mtime": 1781558834.7568157,
+    "ast_hash": "1ecd812ec246d93def931aad9fe0aa27",
+    "semantic_hash": "1ecd812ec246d93def931aad9fe0aa27"
+  },
+  "remote/cv_gonzalo_remote_en.pdf": {
+    "mtime": 1781558454.8885272,
+    "ast_hash": "cbebe55cea36ad12a11e8dad407c4731",
+    "semantic_hash": "cbebe55cea36ad12a11e8dad407c4731"
+  },
+  "ryz_labs_elixir/cv_gonzalo_ryz_labs.pdf": {
+    "mtime": 1784702109.0156293,
+    "ast_hash": "0edb4013558cf14f5d759d51cc4b54a1",
+    "semantic_hash": "0edb4013558cf14f5d759d51cc4b54a1"
+  },
+  "softserve/cv_gonzalo_softserve.pdf": {
+    "mtime": 1779721842.3882244,
+    "ast_hash": "80f502b42969d5c40e8cb5306dd2cd6b",
+    "semantic_hash": "80f502b42969d5c40e8cb5306dd2cd6b"
+  },
+  "softserve/cv_gonzalo_softserve_fullstack_nextjs.pdf": {
+    "mtime": 1786367312.2310379,
+    "ast_hash": "6c10115729038fbee35787b0b1274724",
+    "semantic_hash": "6c10115729038fbee35787b0b1274724"
+  },
+  "stord_elixir_latam/cv_gonzalo_stord.pdf": {
+    "mtime": 1784702092.472046,
+    "ast_hash": "b41d3aab1116430d5255cdd3d5b30c91",
+    "semantic_hash": "b41d3aab1116430d5255cdd3d5b30c91"
+  },
+  "subvisual_elixir/cv_gonzalo_subvisual.pdf": {
+    "mtime": 1784702117.4169989,
+    "ast_hash": "a979c453b9cffbfc8844b1d6c1c29905",
+    "semantic_hash": "a979c453b9cffbfc8844b1d6c1c29905"
+  },
+  "tcit/cv_gonzalo_tcit.pdf": {
+    "mtime": 1781477428.700624,
+    "ast_hash": "1ca36d0e9d98c0b868e4c2989dc85a1a",
+    "semantic_hash": "1ca36d0e9d98c0b868e4c2989dc85a1a"
+  },
+  "technorex_wellfound/cv_gonzalo_technorex.pdf": {
+    "mtime": 1779730361.7520132,
+    "ast_hash": "e1bbf7037539b1436f69d4cc6099a29b",
+    "semantic_hash": "e1bbf7037539b1436f69d4cc6099a29b"
+  },
+  "tecla_peru/cv_gonzalo_tecla_peru.pdf": {
+    "mtime": 1779120596.2456722,
+    "ast_hash": "96ff8730bdc383e7702e01504592e388",
+    "semantic_hash": "96ff8730bdc383e7702e01504592e388"
+  },
+  "tecnologia_personas/cv_gonzalo_tecnologia_personas.pdf": {
+    "mtime": 1779117852.882402,
+    "ast_hash": "4dbfb1c2720060cad712e8e7bb0cfed1",
+    "semantic_hash": "4dbfb1c2720060cad712e8e7bb0cfed1"
+  },
+  "telnyx/cv_gonzalo_telnyx.pdf": {
+    "mtime": 1781556756.8981078,
+    "ast_hash": "5903b399e4fa93a744f9fc0322e02f61",
+    "semantic_hash": "5903b399e4fa93a744f9fc0322e02f61"
+  },
+  "termgrid/cv_gonzalo_termgrid.pdf": {
+    "mtime": 1782929078.7882864,
+    "ast_hash": "3306c1aa0bd136164ccca178d58215d8",
+    "semantic_hash": "3306c1aa0bd136164ccca178d58215d8"
+  },
+  "traackr/Gonzalo_Oviedo_Traackr_Software_Engineer.pdf": {
+    "mtime": 1785856530.8149803,
+    "ast_hash": "cb0abf8bb0cf36a8e9eddab1f339fe18",
+    "semantic_hash": "cb0abf8bb0cf36a8e9eddab1f339fe18"
+  },
+  "wall-partners/cv_gonzalo_wall_partners.pdf": {
+    "mtime": 1781548797.5350854,
+    "ast_hash": "b1930935d662c6597e93b848559c55da",
+    "semantic_hash": "b1930935d662c6597e93b848559c55da"
+  },
+  "xteam_platform_elixir_ai/cv_gonzalo_xteam.pdf": {
+    "mtime": 1784702083.951663,
+    "ast_hash": "6b9028dcbc0ee940e0f934d8b0391ec5",
+    "semantic_hash": "6b9028dcbc0ee940e0f934d8b0391ec5"
+  }
+}

@@ -1,0 +1,1726 @@
+===== #1 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-desarrollador-fullstack-microsoft-en-santiago-centro-67290C1C5943291F61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Analista Desarrollador FullStack Microsoft
+Valor Unico - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Importante empresa solicita Analista Desarrollador FullStack Microsoft con mínimo 5 años de experiencia respecto el cargo para Apoyar al Área de Procesos, Innovación y Tecnología mediante el desarrollo, mantención y actualización de sistemas, asegurando la calidad, oportunidad y consistencia del producto y su información, contribuyendo a soportar los procesos de negocio de la empresa y su gestión.FUNCIONES OPERATIVAS DEL CARGOProfesional especializado en el desarrollo, mantenimiento evolutivo y corrección de aplicaciones corporativas construidas sobre SharePoint Online, Power Automate, Power Apps y JavaScript. Con experiencia en la lectura, auditoría y refactorización de código legacy, integración mediante SharePoint REST API y modernización de componentes frontend. Capaz de asumir la toma de control de sistemas existentes con mínima documentación, garantizando continuidad, estabilidad y evolución funcional.Análisis Funcional • Levantamiento y análisis de requerimientos junto a usuarios de negocio. • Traducción de necesidades operativas en soluciones tecnológicas eficientes. • Diseño de procesos colaborativos y documentales. • Identificación de oportunidades de automatización y mejora continua.Desarrollo y Administración de SharePoint • Administración y desarrollo sobre SharePoint Online • Diseño, implementación y gestión de sitios, listas, bibliotecas documentales y permisos. • Definición de arquitecturas de información y soluciones de gestión documental. • Configuración y optimización de flujos de trabajo y procesos automatizados.Desarrollo de Soluciones • Auditoría, análisis y estabilización de código • Modernización y evolución de aplicaciones • Desarrollo utilizando JavaScript, TypeScript, HTML y CSS• Implementación de soluciones mediante SharePoint Framework (SPFx) • Integración con APIs REST y Microsoft Graph. • Creación de Web Parts, extensiones y componentes personalizados • Colaboración y soporte técnicoEcosistema de Microsoft 365 • Diseño de automatizacio
+===== #2 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-arquitecto-de-software-en-santiago-las-condes-51F9FF89E2EDD96561373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Arquitecto de Software
+COASIN - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.500.000,00 (Mensual)
+contrato indefinido
+Jornada de 42 horas semanales
+Presencial y remoto
+Logicalis valora la diversidad, brindando igualdad de oportunidades a todas las personas que califican para sus puestos, sin importar género, raza, orientación sexual, discapacidad o cualquier otra característica
+Somos ArchitectsOfChange.
+Ayudamos a miles de empresas a transformarse y tener éxito en un mundo digital.
+Aquí creemos que la tecnología puede cambiar el mundo y convertirlo en un lugar mejor para vivir, fomentando una cultura alineada a nuestros valores: integridad, innovación, excelencia, alianzas y empoderamiento.
+Mira cómo será tu día a día:
+El nombre interno del puesto es: Arquitecto de Software
+Funciones:
+Arquitectura y diseño de soluciones sobre bases de datos relaciones, no relacionales y/o documentales (por ejemplo, Oracle, SQL Non Stop, MS SQL Server, PostgreSQL, MySQL, Mongo DB, Elasticsearch)
+Elaboración de estándares de arquitectura, desarrollo seguro y de calidad
+Programación orientada a objetos y estructurada
+Sistemas registrales
+¿Qué necesitas para cubrir esta vacante?
+Desarrollo sobre plataformas TANDEM(HPNon Stop)SQL/MPGUARDIAN COBOL85
+Desarrollo sobre plataformas TANDEM(HPNon Stop)SQL/MP TUXEDO - ANSI C
+Desarrollo sobre plataformas Windows Server2000 SQL Server 2000
+Desarrollo sobre plataformas SUN TUXEDO- gSOAP 2.7.12 ANSI C
+Lenguajes de programación como Java y/o C. Frameworks como Spring, .NET. Librerías como REACT, jQuery, Bootstrap
+Arquitectura y diseño de ecosistemas cloud, arquitecturas serverless, servicios, microservicio y aplicaciones monolíticas (por ejemplo API Manager, API gateway, contenedores, orquestadores, application server, entre otros)
+Idiomas:
+Ingles Avanzado (Excluyente)
+Condiciones ofrecidas para este cargo
+Jornada laboral 42 hrs. semanales
+Nuestros beneficios:
+Contrato a plazo indeterminado en planilla
+EPS cubierto al 100% para el titular y sus derechohabientes.
+Birthday off: el día de tu cumpleaños lo tienes libre para disfrutar.
+RechargeDays: 3 días libres al año para recargar energías.
+Programa de a
+===== #3 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-en-santiago-las-condes-98EF5F3B05044ED061373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Backend
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos!
+En Abenis estamos constantemente Reclutando diferentes Perfiles TI.
+Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar!
+Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, programador
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Grato ambiente laboral, salario acorde a
+===== #4 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-go-ia-en-santiago-centro-80ED1FCC09C3456861373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Backend (Go) + IA
+Aeolabs - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 40 horas semanales
+Remoto
+Únete a nuestro equipo como Desarrollador Backend + IA en Aeolabs.
+Responsabilidades generales
+Diseñar, desarrollar y mantener funcionalidades end-to-end siguiendo especificaciones funcionales y técnicas.
+Diseñar y exponer APIs RESTful.
+Implementar manejo de errores y logging estructurado.
+Escribir pruebas unitarias e integración.
+Participar en code reviews y mantener estándares de calidad y estilo.
+Participar en ceremonias ágiles (planning, refinamiento, daily, review, retro).
+Contribuir a documentación técnica (endpoints, flujos, decisiones de diseño).
+Utilizar IA como apoyo (planificación, generación de código, refactor, documentación, pruebas).
+Trabajar con especificaciones (SDD) como fuente de verdad entre diseño e implementación. Responsabilidades específicas (Backend / Go)
+Diseñar y desarrollar servicios backend escalables y mantenibles.
+Implementar APIs RESTful y lógica de negocio alineada con reglas del dominio.
+Integrar y modelar datos en bases relacionales y no relacionales.
+Asegurar performance, seguridad y observabilidad de los servicios.
+Participar en decisiones técnicas que afecten el flujo completo de las funcionalidades.
+Tecnologías y competencias esperadas
+Go (Golang) como lenguaje principal de backend.
+Principios de arquitectura limpia, separación de capas y diseño de APIs RESTful.
+Concurrencia en Go (goroutines, canales, sincronización, context propagation) aplicada con criterio.
+Testing en Go (unitario/integración) y uso del tooling estándar (go test, race detector, etc.).
+Logging estructurado, métricas y monitoreo básico.
+Bases de datos: PostgreSQL, MongoDB, Redis (modelado, consultas, índices básicos).
+Conocimiento intermedio de Node.js / Express para servicios de soporte o tooling es un plus.
+Familiaridad con containers (Docker) y manejo de variables de entorno y despliegues.
+Conocimientos en sistemas de mensajería y colas (por ejemplo, Kafka, Google Pub/Sub, RabbitMQ o NATS) aplicados al diseño de flujos asíncronos e integración entre servicios.
+Requisitos generales
+Títu
+===== #5 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-typescript-nestjs-microservicios-en-santiago-las-condes-E27B84F051988DB161373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Backend (TypeScript / NestJS / Microservicios)
+Ingenieria informatica Kibernum S.A. - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Remoto
+En Kibernum buscamos un/a Desarrollador Backend, con experiencia en arquitecturas de microservicios, para integrarse a una plataforma empresarial desplegada en AWS EKS con Kubernetes, utilizando NestJS y TypeScript.Funciones del rolDesarrollo de microservicios backend en Node.js / NestJSImplementación de arquitectura hexagonal (BCL / BFF)Integración con APIs externas vía REST y API Gateway (IBM API Connect)Desarrollo y mantención de APIs con OpenAPI 3.0Implementación de autenticación OAuth2 y JWTGestión de cache distribuido (Redis / Valkey)Despliegues en Kubernetes (AWS EKS)Desarrollo de pipelines CI/CD en GitLabParticipación en troubleshooting de incidentes en producciónRequisitos+3 años de experiencia en Node.js / TypeScriptExperiencia en NestJSExperiencia en arquitectura de microservicios o clean/hexagonalAPIs REST y consumo de servicios externosDocker y Kubernetes (EKS deseable)CI/CD con GitLabManejo de Redis o cache distribuidoExperiencia con OAuth2 y JWTOfrecemosContrato indefinidoModalidad 100% remotaSeguro complementario de salud, vida y dentalAguinaldos de Fiestas Patrias y NavidadAjuste trimestral por IPCConvenios corporativos y beneficios Kibernum
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, programador
+Hace 5 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Ingenieria informatica Kibernum S.A.
+Empresa de servicios de tecnología y habilitación de empresas aumentadas con IA. Conscientes de la necesidad de acompañar a las personas, como principal activo de movilización a las Transofrmación real. Nuestra expertise en talento tecnológico y la academia en estos 34 años de historia y nuestra presencia en 4 países, nos ha permitido navegar en esta nueva era, con sólidas evidencias para promo
+===== #6 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack--con-experiencia-en-salud-hospitalaria-en-santiago-providencia-E8DDD6CCDB75008861373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack / con experiencia en salud hospitalaria
+TicMoAI - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Presencial y remoto
+En TicMoAI buscamos profesionales que se atrevan a tomar nuevos desafíos, súmate a nuestro equipo como Desarrollador Full Stack
+Requisitos:
+Experiencia comprobada de al menos 5 años en desarrollo de sistemas y aplicaciones computacionales.
+Experiencia en salud hospitalaria pública y/o privada de al menos 2 años en proyectos.
+Experiencia previa de al menos 6 meses en el Hospital La Florida.
+ASP.NET con experiencia mínima de 4 años o desarrollo de microservicios API en C.
+Modelamiento, consumo y consultas de bases de datos SQL Server y PL/SQL.
+Desarrollo de aplicaciones en Angular 16 o superior (mínimo 2 años).
+Lenguajes y frameworks: C, JavaScript, jQuery, HTML, CSS, Bootstrap, ASPX, VB.Net, .NET 5-6, Framework 4.5+, EF6.
+Entornos de desarrollo (Visual Studio, .NET Core, VS Code) y Oracle 11g+.
+Servicios web RESTful, Angular 16+, SASS y experiencia como front-end developer. 
+Metodologías Agile, sistemas operativos Windows/Linux y procesos de desarrollo e implementación de software.
+Ingeniero en Informática o Sistemas (incluye Ejecución y Civil).
+Ofrecemos:
+Acceso a un catálogo de beneficios disponible desde el primer día y que irá en ascendencia según tu entrega, rendimiento y antigüedad.
+Unirse a un grupo empresarial con un potencial enorme de crecimiento en Chile y en Latinoamérica.
+Entorno de trabajo con amplias posibilidades de crecimiento profesional y personal.
+Si cumples con los requisitos no lo dudes y postula ¡Te estamos esperando!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.5 años de experiencia
+Palabras clave: developer, programador, health, salut
+Hace 3 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de TicMoAI
+TicMoAI es una consultora TIC especializada en diseño, desarrollo y puesta en marcha de sistemas de información y solucion
+===== #7 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack--con-experiencia-en-salud-hospitalaria-presencial-en-santiago-providencia-2D89892F8E5772F761373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack / con experiencia en salud hospitalaria - Presencial
+TicMoAI - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+En TicMoAI buscamos profesionales que se atrevan a tomar nuevos desafíos, súmate a nuestro equipo como Desarrollador Full Stack
+Requisitos:
+Experiencia comprobada de al menos 5 años en desarrollo de sistemas y aplicaciones computacionales.
+Experiencia en salud hospitalaria pública y/o privada de al menos 2 años en proyectos.
+Experiencia previa de al menos 6 meses en el Hospital La Florida.
+ASP.NET con experiencia mínima de 4 años o desarrollo de microservicios API en C.
+Modelamiento, consumo y consultas de bases de datos SQL Server y PL/SQL.
+Desarrollo de aplicaciones en Angular 16 o superior (mínimo 2 años).
+Lenguajes y frameworks: C, JavaScript, jQuery, HTML, CSS, Bootstrap, ASPX, VB.Net, .NET 5-6, Framework 4.5+, EF6.
+Entornos de desarrollo (Visual Studio, .NET Core, VS Code) y Oracle 11g+.
+Servicios web RESTful, Angular 16+, SASS y experiencia como front-end developer. 
+Metodologías Agile, sistemas operativos Windows/Linux y procesos de desarrollo e implementación de software.
+Ingeniero en Informática o Sistemas (incluye Ejecución y Civil).
+Ofrecemos:
+Acceso a un catálogo de beneficios disponible desde el primer día y que irá en ascendencia según tu entrega, rendimiento y antigüedad.
+Unirse a un grupo empresarial con un potencial enorme de crecimiento en Chile y en Latinoamérica.
+Entorno de trabajo con amplias posibilidades de crecimiento profesional y personal.
+Si cumples con los requisitos no lo dudes y postula ¡Te estamos esperando!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.5 años de experiencia
+Palabras clave: developer, programador, health, salut
+Hace 4 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de TicMoAI
+TicMoAI es una consultora TIC especializada en diseño, desarrollo y puesta en marcha de sistemas de información y soluciones TIC,
+===== #8 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-concon-en-concon-307AC1D9D7788F0D61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack - Concón
+Burô Temps - concón, Valparaíso
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Empresa del rubro de telecomunicaciones, con más de 30 años de trayectoria desarrollando soluciones tecnológicas de alta complejidad, se encuentra en búsqueda de un/a Ingeniero/a de Gestión Tecnológica, quien se integrará a su equipo en la V Región.El propósito del cargo será brindar soporte especializado a soluciones tecnológicas de la compañía, participando activamente en la gestión de incidencias, desarrollo y mejora de productos, así como en la ejecución de proyectos tecnológicos, actuando como nexo entre clientes, área de proyectos y equipos de desarrollo.Funciones Principales:• Gestionar, analizar y dar seguimiento a incidencias técnicas asociadas a soluciones desarrolladas por la compañía. • Atender y diagnosticar fallas de software y hardware, coordinando su resolución con los equipos correspondientes. • Brindar soporte técnico especializado a clientes internos y externos. • Participar en la implementación, seguimiento y puesta en marcha de proyectos tecnológicos. • Apoyar al área de proyectos en actividades técnicas y de coordinación. • Colaborar con equipos de desarrollo Backend y Frontend en la identificación, análisis y resolución de requerimientos e incidencias. • Participar en pruebas funcionales y validaciones de nuevas soluciones o mejoras. • Elaborar documentación técnica, informes y reportes de gestión. • Levantar requerimientos técnicos y oportunidades de mejora para los productos y servicios de la compañía. • Contribuir al desarrollo y evolución de soluciones tecnológicas basadas en nuevas tendencias y tecnologías emergentes. Formación y experiencia:• Título profesional de Ingeniería Civil Electrónica, Ingeniería Electrónica o carrera afín. • Al menos 3 – 5 años de experiencia en desarrollo, soporte o implementación de soluciones tecnológicas. • Experiencia en gestión y resolución de incidencias técnicas. • Experiencia participando en proyectos tecnológicos y trabajo con equipos multidisciplinarios. • Experiencia en desarrollo de software. • Inglés avanzado (excluyente). • Experiencia
+===== #9 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-en-santiago-centro-B3E29BE0803DE26F61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack
+BCTecnología - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.300.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+Buscamos un(a) Desarrollador(a) Full Stack con experiencia en tecnologías Cloud GCP, responsable de diseñar, desarrollar e implementar soluciones tecnológicas escalables, seguras y de alta calidad. La persona será parte de equipos ágiles, participando en el desarrollo continuo de aplicaciones y APIs, asegurando el cumplimiento de las mejores prácticas de desarrollo de software y una entrega centrada en el cliente.RequisitosExperienciaEntre 2 y 5 años de experiencia en desarrollo de software.Experiencia trabajando con Google Cloud Platform (GCP).Experiencia en desarrollo e integración de APIs y microservicios.Participación en equipos de trabajo bajo metodologías ágiles.Conocimientos técnicosJava.Node.js.React.Google Cloud Platform (GCP).Jira.SonarQube.Veracode.OpenAPI Specification (Swagger).Versionamiento de código (Git o similar).Desarrollo de APIs REST.Patrones de diseño y arquitecturas de software.Principales responsabilidadesDesarrollar e implementar soluciones de software mediante metodologías iterativas, incrementales y de entrega continua, respetando las políticas y estándares de desarrollo establecidos por la organización.Comprender en profundidad los sistemas bajo su responsabilidad para desarrollar soluciones alineadas con la visión de producto y las necesidades del cliente.Ejecutar pruebas unitarias y revisiones de código propias y de otros desarrolladores, asegurando la calidad, estabilidad y seguridad de las aplicaciones.Diseñar, desarrollar y proponer soluciones técnicas para la integración de plataformas y construcción de aplicaciones robustas, escalables y mantenibles.Documentar aplicaciones y desarrollos siguiendo los estándares definidos por el área de Arquitectura y Ecosistemas.Estimar esfuerzos, planificar desarrollos y mantener una hoja de ruta técnica que permita priorizar iniciativas de acuerdo con las necesidades del negocio.Implementar soluciones siguiendo patrones de diseño, arquitecturas de referencia y lineamientos técnic
+===== #10 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-en-santiago-pedro-aguirre-cerda-FEF91365592689FC61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack
+Importante empresa del sector - Santiago - Pedro Aguirre Cerda, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Importante empresa busca incorporar a su equipo de Tecnología un Desarrollador Full Stack, quien será responsable de diseñar, desarrollar y mantener aplicaciones web completas, asegurando soluciones eficientes, seguras y escalables.
+El rol tendrá un impacto directo en la construcción de productos digitales, conectando interfaces modernas con servicios backend robustos.
+Objetivo del cargo
+Diseñar y desarrollar aplicaciones end-to-end, abarcando tanto el front-end como el back-end, contribuyendo a la creación de soluciones tecnológicas de alto rendimiento y calidad.
+Responsabilidades principales
+Desarrollar y mantener aplicaciones web e interfaces de usuario (UI) modernas y funcionales
+Construir y mantener servicios backend, APIs y microservicios
+Gestionar e integrar bases de datos relacionales y no relacionales
+Administrar control de versiones mediante Git
+Realizar pruebas unitarias, de integración y funcionales
+Participar en procesos de despliegue en distintos ambientes (desarrollo, QA y producción)
+Colaborar activamente bajo metodologías ágiles (Scrum/Kanban)
+Requisitos técnicos
+Excluyentes
+Al menos 4 años de experiencia en desarrollo de software
+Experiencia en desarrollo Front-end con React o Angular
+Experiencia en desarrollo Back-end con Node.js (Express o NestJS)
+Manejo de bases de datos SQL y/o NoSQL
+Experiencia con Git y control de versiones
+Deseables
+Conocimientos en Java (Spring Boot) o .NET
+Experiencia en arquitecturas de microservicios
+Experiencia en plataformas cloud (AWS, Azure o GCP)
+Conocimiento en herramientas como Socket.io
+Experiencia con otros frameworks front-end (Vue.js)
+Herramientas y metodologías
+IDEs y editores de código (Visual Studio Code, Eclipse u otros)
+Metodologías ágiles: Scrum, Kanban
+Condiciones laborales
+Ubicación: Pedro Aguirre Cerda
+Contrato directo con la empresa
+Estabilidad laboral y proyección de crecimiento
+Renta competitiva acorde al mercado + bonos y beneficios
+Postulación
+Si buscas un desafío donde puedas aportar con tus conocimientos y se
+===== #11 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-en-santiago-providencia-7E720E5630AF165F61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack
+KPGroup - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Desarrollador Full Stack | Reemplazo | Gestión de Proyectos
+Buscamos Desarrollador Full Stack con experiencia en diseño, desarrollo e integración de sistemas, capaz de levantar requerimientos, proponer soluciones y ejecutar proyectos tecnológicos de manera autónoma, trabajando en conjunto con distintas áreas de la organización.
+Principales funciones:
+Analizar requerimientos y diseñar soluciones tecnológicas de acuerdo con las necesidades del negocio.
+Desarrollar aplicaciones Full Stack utilizando tecnologías .NET.
+Diseñar estructuras de bases de datos, layouts, integraciones y controles de acceso.
+Gestionar proyectos tecnológicos, coordinando requerimientos, plazos, recursos, riesgos y costos.
+Brindar soporte a los sistemas de información, asegurando su continuidad operativa.
+Identificar oportunidades de mejora en sistemas y procesos tecnológicos.
+Administrar la integración entre plataformas y realizar seguimiento a proyectos en desarrollo.
+Elaborar reportes de avance e indicadores para las distintas áreas.
+Relacionarse con jefaturas y clientes internos para asegurar el cumplimiento de los objetivos del proyecto.
+Participar en futuros proyectos tecnológicos desde su levantamiento hasta su implementación.
+Requisitos:
+Título de Ingeniería en Informática, Ingeniería en Computación, Ingeniería en Sistemas o carrera afín.
+Al menos 4 años de experiencia como Desarrollador Full Stack.
+Experiencia en análisis de requerimientos, diseño y desarrollo de soluciones tecnológicas.
+Experiencia en desarrollo con C, VB.NET, .NET Framework y/o .NET Core.
+Manejo de SQL Server, procedimientos almacenados y optimización de consultas.
+Conocimientos en Visual Studio, Git, TFS o Azure DevOps.
+Experiencia en integración mediante APIs REST/SOAP, webMethods o tecnologías similares.
+Conocimientos en CSS3, JavaScript, jQuery y Bootstrap.
+Deseable manejo de Power BI, Power Automate y/o Power Apps.
+Capacidad de planificación, análisis, trabajo en equipo, orientación a resultados y habilidades para coordinar pro
+===== #12 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-importante-afp-proyecto-6-meses-en-santiago-las-condes-05DD1AEB70551B1C61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack Importante AFP - Proyecto 6 meses
+Esencial Consultores SPA - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 1.500.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+En Esencial Staff nos encontramos en búsqueda de un Desarrollador Full Stack para nuestro importante cliente AFP Plan Vital ubicado en la comuna de las Condes, para trabajar en modalidad hibrida por proyecto con duración de 6 meses con posibilidad de extensión.Funciones:Participar activamente en la modernización de aplicaciones desde ASP.NETa ASP.NET Core.Diseñar, desarrollar y mantener servicios backend robustos y eficientes.Implementar y consumir API RESTful.Aplicar buenas prácticas de desarrollo, incluyendo testing automatizado ydocumentación.Gestionar código fuente utilizando control de versiones (Git).Colaborar estrechamente con equipos de DevSecOps y otras áreastécnicas.Reducción de deuda técnica a través de prácticas de testing, calidad ymantenibilidad.Requisitos:Ingeniero en computación, Ingeniero Civil en computación o similar.Al menos 2 años de experiencia en desarrollo con .NET Framework y Net Core.Conocimiento en bases de datos SQL Server.Manejo de control de versiones con Git.Ingeniero en computación, Ingeniero Civil en computación o similar.Condiciones:Contrato a plazo fijo (proyecto 6 meses app).Horario de trabajo.Lunes a jueves de 09:00 a 18:00; viernes de 09:0 a 16:00 horas.Modalidad: Hibrida (1 día presencial y 4 teletrabajo)Renta $1.500.000 líquidos.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.2 años de experienciaConocimientos: Python, Rpa, Scrum
+Aptitudes asociadas a esta ofertaNuevo
+Python
+Rpa
+Scrum
+Ver 0 aptitudes más
+Hay 3 aptitudes que faltan en tu perfil
+Si las tienes, añádelas a tu perfil para encajar mejor en esta vacante.
+Mostar competencias
+Se han añadido correctamente las competencias en tu perfil.
+Palabras clave: developer, programador, project
+26 de julio (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca
+===== #13 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-ingeniero-electronico-concon-en-concon-DBB7B6E1FD049F3161373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack / Ingeniero Electrónico - Concón
+Burô Temps - concón, Valparaíso
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Empresa del rubro de telecomunicaciones, con más de 30 años de trayectoria desarrollando soluciones tecnológicas de alta complejidad, se encuentra en búsqueda de un/a Ingeniero/a de Gestión Tecnológica, quien se integrará a su equipo en la V Región.El propósito del cargo será brindar soporte especializado a soluciones tecnológicas de la compañía, participando activamente en la gestión de incidencias, desarrollo y mejora de productos, así como en la ejecución de proyectos tecnológicos, actuando como nexo entre clientes, área de proyectos y equipos de desarrollo.Funciones Principales:• Gestionar, analizar y dar seguimiento a incidencias técnicas asociadas a soluciones desarrolladas por la compañía. • Atender y diagnosticar fallas de software y hardware, coordinando su resolución con los equipos correspondientes. • Brindar soporte técnico especializado a clientes internos y externos. • Participar en la implementación, seguimiento y puesta en marcha de proyectos tecnológicos. • Apoyar al área de proyectos en actividades técnicas y de coordinación. • Colaborar con equipos de desarrollo Backend y Frontend en la identificación, análisis y resolución de requerimientos e incidencias. • Participar en pruebas funcionales y validaciones de nuevas soluciones o mejoras. • Elaborar documentación técnica, informes y reportes de gestión. • Levantar requerimientos técnicos y oportunidades de mejora para los productos y servicios de la compañía. • Contribuir al desarrollo y evolución de soluciones tecnológicas basadas en nuevas tendencias y tecnologías emergentes. Formación y experiencia:• Título profesional de Ingeniería Civil Electrónica, Ingeniería Electrónica o carrera afín. • Al menos 3 – 5 años de experiencia en desarrollo, soporte o implementación de soluciones tecnológicas. • Experiencia en gestión y resolución de incidencias técnicas. • Experiencia participando en proyectos tecnológicos y trabajo con equipos multidisciplinarios. • Experiencia en desarrollo de software. • Inglés avanzado (ex
+===== #14 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-java-en-santiago-centro-FE63CCF6E13BD7CD61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack Java
+BCTecnología - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.400.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+Te apasiona el desarrollo de aplicaciones empresariales y buscas participar en proyectos de alta complejidad? Estamos en búsqueda de un Desarrollador Full Stack Java / Angular para integrarse a un equipo de desarrollo en proyectos del sector financiero.¿Qué harás?Desarrollar y mantener aplicaciones Java empresariales.Implementar e integrar servicios REST y SOAP bajo arquitectura SOA.Desarrollar interfaces utilizando AngularJS.Participar en el análisis, desarrollo, pruebas y mantención de aplicaciones.Integrar soluciones con bases de datos Oracle o SQL Server.Trabajar colaborativamente con equipos multidisciplinarios bajo buenas prácticas de desarrollo.Requisitos ExcluyentesTítulo de Analista Programador, Ingeniero en Ejecución en Informática o carrera afín.Experiencia desarrollando con Java J2EE.Conocimientos en JSF, Hibernate, JSP y Camel.Experiencia con servidores de aplicaciones Red Hat JBoss EAP, IBM WebSphere o Oracle WebLogic.Conocimientos de JBoss Fuse.Experiencia con AngularJS 1.5 o superior.Manejo de TypeScript y JavaScript.Desarrollo e integración de Servicios REST y SOAP.Manejo de estructuras JSON.Experiencia con bases de datos Oracle (PL/SQL) o SQL Server.Uso de herramientas como Eclipse, Red Hat JBoss Developer Studio, Git, NPM, Bower y Gulp.Conocimientos de APIs y seguridad de servicios.Será un plus si cuentas conExperiencia adicional en Red Hat JBoss Fuse.Conocimientos del lenguaje Apache Camel.Experiencia trabajando con Git.Experiencia en proyectos del sector bancario o financiero (idealmente 2 años o más).Buscamos personas que seanAnalíticas y orientadas a la resolución de problemas.Proactivas y con capacidad de aprendizaje.Responsables y comprometidas.Con buenas habilidades de trabajo en equipo y comunicación.Orientadas a la calidad y las buenas prácticas de desarrollo.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.4 años de experiencia
+Palabras clave: developer, programador
+Hace 6 días (actualizada)
+Postularme
+===== #15 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-java-nodejs-gcp-en-santiago-centro-C788AE0F26428F8461373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack Java /Node.js GCP
+BCTecnología - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.300.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+Buscamos un(a) Desarrollador(a) Full Stack con experiencia en tecnologías Cloud GCP, responsable de diseñar, desarrollar e implementar soluciones tecnológicas escalables, seguras y de alta calidad. La persona será parte de equipos ágiles, participando en el desarrollo continuo de aplicaciones y APIs, asegurando el cumplimiento de las mejores prácticas de desarrollo de software y una entrega centrada en el cliente.RequisitosExperienciaEntre 2 y 5 años de experiencia en desarrollo de software.Experiencia trabajando con Google Cloud Platform (GCP).Experiencia en desarrollo e integración de APIs y microservicios.Participación en equipos de trabajo bajo metodologías ágiles.Conocimientos técnicosJava.Node.js.React.Google Cloud Platform (GCP).Jira.SonarQube.Veracode.OpenAPI Specification (Swagger).Versionamiento de código (Git o similar).Desarrollo de APIs REST.Patrones de diseño y arquitecturas de software.Principales responsabilidadesDesarrollar e implementar soluciones de software mediante metodologías iterativas, incrementales y de entrega continua, respetando las políticas y estándares de desarrollo establecidos por la organización.Comprender en profundidad los sistemas bajo su responsabilidad para desarrollar soluciones alineadas con la visión de producto y las necesidades del cliente.Ejecutar pruebas unitarias y revisiones de código propias y de otros desarrolladores, asegurando la calidad, estabilidad y seguridad de las aplicaciones.Diseñar, desarrollar y proponer soluciones técnicas para la integración de plataformas y construcción de aplicaciones robustas, escalables y mantenibles.Documentar aplicaciones y desarrollos siguiendo los estándares definidos por el área de Arquitectura y Ecosistemas.Estimar esfuerzos, planificar desarrollos y mantener una hoja de ruta técnica que permita priorizar iniciativas de acuerdo con las necesidades del negocio.Implementar soluciones siguiendo patrones de diseño, arquitecturas de referencia y l
+===== #16 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-full-stack-senior-java-nodejs-gcp-en-santiago-centro-8F00D8060F16F4C661373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Full Stack Senior Java / Node.js – (GCP)
+BCTecnología - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.500.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+Buscamos un(a) Desarrollador(a) Full Stack Senior con sólida experiencia en desarrollo de software, arquitecturas modernas y servicios Cloud GCP. Será responsable de diseñar, desarrollar e implementar soluciones escalables y de alta disponibilidad, participando activamente en equipos ágiles y asegurando el cumplimiento de las mejores prácticas de desarrollo, calidad y seguridad del código.RequisitosExperienciaMínimo 5 años de experiencia en desarrollo de software.Experiencia comprobable trabajando con Google Cloud Platform (GCP).Experiencia en desarrollo de APIs, microservicios y arquitecturas distribuidas.Participación en equipos de desarrollo bajo metodologías ágiles (Scrum/Kanban).Conocimientos técnicosLenguajes y FrameworksJava Full Stack.Node.js.NestJS.React.JavaScript.TypeScript.Cloud y DevOpsGoogle Cloud Platform (GCP).Docker.Kubernetes.CI/CD.Arquitectura y DesarrolloMicroservicios REST/RESTful.Arquitectura Hexagonal.Arquitectura Orientada a Eventos.Patrones de diseño (SOLID, Clean Architecture, YAGNI).Pruebas unitarias.Prácticas de desarrollo: TDD, DDD, ATDD, Pair Programming y Group Programming.Integración y PlataformasBrokers de mensajeríaOpenAPI Specification (OAS).Estándares de diseño de APIs.Bases de DatosRelacionales: SQL Server, PostgreSQL o similares.No relacionales: MongoDB o similares.Calidad y GestiónSonarQube.Veracode.Git y/o SVN.Jira.Será un plusPrincipales responsabilidadesDesarrollar e implementar soluciones mediante metodologías iterativas, incrementales y de entrega continua, respetando las políticas y estándares de desarrollo definidos por la organización.Comprender en profundidad los sistemas bajo su responsabilidad para desarrollar soluciones alineadas con la visión de producto y las necesidades del negocio.Ejecutar pruebas unitarias y revisiones de código, garantizando altos estándares de calidad, mantenibilidad y seguridad.Diseñar e implementar soluciones técnicas robustas, escalables y ori
+===== #17 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-gcp-en-santiago-las-condes-90560923C0AFFC8561373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Fullstack GCP
+Ingenieria informatica Kibernum S.A. - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Presencial y remoto
+Fullstack Senior GCP | KibernumEn Kibernum estamos buscando un/a Fullstack Senior con experiencia en Google Cloud Platform (GCP), desarrollo backend con Node.js y experiencia en modernización de aplicaciones cloud-native.Si te apasiona construir soluciones escalables, trabajar con arquitecturas modernas y participar en iniciativas de transformación tecnológica utilizando IA y servicios cloud, esta oportunidad puede ser para ti. ¿Qué harás?• Diseñar y desarrollar servicios backend escalables sobre GCP. • Crear y mantener microservicios, APIs e integraciones. • Participar activamente en procesos de modernización de aplicaciones hacia Google Cloud Platform. • Implementar lógica de negocio y procesos críticos. • Colaborar con arquitectos y equipos de desarrollo para acelerar despliegues. • Apoyar al equipo en la adopción de herramientas de IA aplicadas al desarrollo. • Implementar soluciones seguras y escalables utilizando servicios cloud y pipelines CI/CD. • Desarrollar integraciones con servicios de IA y GenAI. • Realizar mentorías a desarrolladores de menor experiencia. • Identificar oportunidades de mejora arquitectónica y reducción de deuda técnica. RequisitosExcluyentes• Experiencia sólida trabajando con Google Cloud Platform (GCP). • Experiencia en desarrollo backend con Node.js. • Experiencia en desarrollo frontend con Angular. • Manejo de Python. • Experiencia con PostgreSQL y/o Cloud SQL. • Experiencia desarrollando APIs y microservicios. • Experiencia participando en proyectos de modernización o migración tecnológica. Muy valorado• Experiencia utilizando herramientas de IA para desarrollo. • Conocimiento o experiencia con Claude Code. • Experiencia en arquitecturas cloud-native. • Experiencia guiando técnicamente a otros desarrolladores. • Conocimientos de CI/CD y buenas prácticas DevOps. Condiciones• Contrato por proyecto de 3 meses con posibilidades de renovación. • Modalidad híbrida (Asistencia presencial los días miércoles. )¿Te int
+===== #18 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-para-las-condes-en-santiago-las-condes-902D294EE89BA0A061373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Fullstack para Las Condes
+Grafton Latam - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 44 horas semanales
+En Grafton Latam nos encontramos en búsqueda de un/a Desarrollador Full Stack para incorporarse a importante cliente ubicado en Las Condes.
+Buscamos profesionales con alta capacidad analítica, orientación a la resolución de problemas y habilidades para trabajar colaborativamente con equipos multidisciplinarios, comunicando de manera efectiva soluciones y hallazgos técnicos.
+Responsabilidades:
+Diseñar, desarrollar e integrar aplicaciones Full Stack, participando en componentes frontend, backend y soluciones mobile, asegurando coherencia técnica y funcional entre las distintas capas.
+Desarrollar interfaces web y mobile centradas en usabilidad, rendimiento y experiencia de usuario, aplicando buenas prácticas de diseño y accesibilidad.
+Implementar buenas prácticas de desarrollo, control de versiones, pruebas unitarias e integración continua, garantizando calidad y mantenibilidad del código.
+Mantener actualizada la documentación técnica relacionada con arquitecturas, APIs, aplicaciones y flujos de integración en repositorios colaborativos.
+Brindar soporte técnico en implementaciones, validaciones y demostraciones de nuevas funcionalidades cuando sea requerido.
+Velar por el cumplimiento de normativas, políticas y estándares de seguridad de la información dentro de su ámbito de responsabilidad.
+Requisitos:
+Título profesional en Ingeniería Civil, Ingeniería en Informática, Ciencias de la Ingeniería o carreras afines.
+Al menos 3 años de experiencia en cargos similares.
+Experiencia demostrable mediante portafolio o proyectos.
+Dominio avanzado de Python, Django y VueJS 3.
+Experiencia en integración de aplicaciones mediante APIs y servicios internos/externos.
+Conocimientos en autenticación y autorización (JWT, OAuth2 y OpenID Connect).
+Inglés intermedio/avanzado (conversacional).
+Condiciones:
+Jornada laboral: lunes a jueves de 08:30 a 18:30 hrs y viernes de 08:30 a 14:30 hrs (modalidad híbrida).
+Contratación a través de Grafton Latam.
+Renta acorde al mercado.
+Si buscas un 
+===== #19 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-senior-nodejs-react-en-santiago-las-condes-894028F31B66516161373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Fullstack Senior Node.js / React
+Ingenieria informatica Kibernum S.A. - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Remoto
+En Kibernum estamos buscando un(a) Desarrollador(a) Fullstack Senior para incorporarse a un equipo tecnológico orientado al desarrollo de soluciones escalables, modernas y de alto impacto.Buscamos profesionales con sólida experiencia en desarrollo Fullstack, con foco principal en tecnologías Node.js, NestJS y React, capaces de participar en el diseño, construcción y evolución de aplicaciones robustas, aplicando buenas prácticas de desarrollo y arquitectura.Principales desafíos del rol:Diseñar y desarrollar soluciones Fullstack utilizando Node.js, NestJS y React.Construir y mantener APIs y servicios backend escalables.Participar en el diseño e implementación de arquitecturas basadas en microservicios.Desarrollar interfaces modernas utilizando React (SPA).Integrarse con diferentes servicios y componentes tecnológicos.Aplicar buenas prácticas de desarrollo, clean code, testing y estándares de calidad.Colaborar con equipos técnicos en la evolución de plataformas y nuevas iniciativas.Apoyar iniciativas donde se requiera comprensión de componentes desarrollados en C#/.NET.Requisitos técnicos:Experiencia de al menos 5 años en desarrollo.Experiencia sólida desarrollando con Node.js.Experiencia utilizando NestJS.Dominio de React para desarrollo de aplicaciones SPA.Manejo avanzado de JavaScript y/o TypeScript.Experiencia trabajando con APIs REST y arquitecturas desacopladas.Experiencia en diseño o desarrollo bajo arquitectura de microservicios.Conocimientos en bases de datos relacionales como SQL Server y/o PostgreSQL.Experiencia utilizando herramientas de control de versiones (Git).Será valorado contar con experiencia en:Arquitecturas orientadas a eventos (event-driven architecture).Servicios cloud (AWS, Azure o GCP).Docker y Kubernetes.Redis.DynamoDB.Conocimientos de C#/.NET para integración o apoyo en componentes existentes.Prácticas de calidad como testing automatizado, SOLID y Clean Code.Buscamos profesionales que destaquen por:Capacidad de aná
+===== #20 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-senior-presencial-en-puerto-montt-CBC5BB5BF22D5CFA61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Fullstack Senior - Presencial
+Michael Page - Puerto Montt, Los Lagos
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 40 horas semanales
+¡Únete a nuestro equipo!Buscamos un Senior Full Stack Developer con sólida experiencia en Java y arquitectura de software para integrarse a un equipo de desarrollo que impulsa soluciones tecnológicas críticas para el negocio. Si disfrutas enfrentar desafíos técnicos, liderar iniciativas y participar en el ciclo completo de desarrollo de software, esta oportunidad es para ti.Ubicación: Puerto Montt (100% Presencial)Jornada: Lunes a viernes, de 08:30 a 18:00 hrs.Tipo de contrato: Plazo fijo 4 + 4 meses, con posibilidad de contrato indefinido según desempeño.¿Cuál será tu misión?Serás responsable de diseñar, desarrollar, mantener y evolucionar aplicaciones empresariales de alta disponibilidad, participando activamente en el diseño de arquitecturas escalables, integraciones entre sistemas y mejora continua de nuestras plataformas tecnológicas.Además, tendrás un rol de referente técnico, aportando buenas prácticas, mentoría y propuestas de mejora para el equipo.Principales responsabilidadesDiseñar, desarrollar y mantener aplicaciones empresariales utilizando Java.Participar en el diseño e implementación de arquitecturas basadas en microservicios.Desarrollar y consumir APIs REST e integrar sistemas internos y plataformas de terceros.Analizar requerimientos y proponer soluciones técnicas junto a equipos de negocio.Diseñar, optimizar y administrar consultas y estructuras de bases de datos SQL.Participar en revisiones de código, procesos CI/CD y resolución de incidentes complejos.Elaborar documentación técnica, funcional y de arquitectura.Promover buenas prácticas de desarrollo, seguridad, calidad y mantenibilidad del software.Brindar soporte técnico avanzado e implementar soluciones de largo plazo.Compartir conocimiento y apoyar el desarrollo técnico del equipo.Requisitos excluyentesTítulo profesional de Ingeniería Informática, Ingeniería en Computación, Analista Programador o carrera afín.Al menos 5 años de experiencia desarrollando software en Java en ambientes productivos.Exper
+===== #21 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-typescript-en-santiago-providencia-C15D1889BF71A77061373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Fullstack - Typescript
+Ingenieria informatica Kibernum S.A. - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Presencial y remoto
+Desarrollador TI Full Stack | TypeScript + Node.js + ReactEn Kibernum estamos buscando a un/a Desarrollador/a TI que quiera sumarse a proyectos desafiantes, modernos y con impacto real en el negocio.Si te apasiona desarrollar soluciones escalables, trabajar con arquitecturas modernas y ser parte de un equipo donde la tecnología sí mueve la aguja, esta oportunidad puede ser para ti.Buscamos perfiles con mirada analítica, orientación a la mejora continua y motivación por construir productos tecnológicos de calidad.¿Qué harás en este rol?• Desarrollo y mantención de aplicaciones y sistemas corporativos. • Construcción de soluciones backend utilizando arquitectura de microservicios. • Desarrollo de interfaces frontend modernas y escalables. • Participación en mejoras continuas, optimización y buenas prácticas. • Trabajo colaborativo con equipos multidisciplinarios. • Gestión de versiones, calidad y estándares de desarrollo. • Participación en iniciativas de investigación y aprendizaje tecnológico. Requisitos excluyentes• Título de Analista Programador, Ingeniería en Informática, Ingeniería de Sistemas o carrera afín. • Desde 3 años de experiencia en desarrollo de software. • Experiencia desarrollando microservicios. • Experiencia con Node.js utilizando Express, NestJS y TypeORM. • Manejo avanzado de TypeScript. • Experiencia con SQL Server y PostgreSQL. • Experiencia desarrollando microfrontends con Single SPA. • Experiencia con React. • Manejo de React Query / TanStack Query y Hooks. • Manejo de HTML5, CSS3 y TypeScript. • Experiencia utilizando Tailwind CSS o Ant Design. ImportanteComo parte del proceso de selección, se realizará una prueba técnica de desarrollo como etapa de prefiltro.Condiciones• Contrato plazo fijo por 1 mes, renovable por 2 meses más y posteriormente indefinido. o Modalidad híbrida: 3 días presenciales en oficinas del cliente en Providencia. Y días remotos. ¿Te interesa?Envíanos tu CV actualizado. 
+Requerimientos
+E
+===== #22 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-en-santiago-las-condes-0585DB253BA43FA461373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador java
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos! 
+En Abenis estamos constantemente Reclutando diferentes Perfiles TI. 
+Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar! 
+Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, programador
+Hace 6 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Grato ambiente laboral, salario acorde a
+===== #23 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-y-cloud-en-santiago-las-condes-539F1690F69EB08D61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Java y Cloud
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 1.000.000,00 (Mensual)
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos! En Abenis estamos constantemente Reclutando diferentes Perfiles TI. Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar! Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, programador
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Grato ambiente labora
+===== #24 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-senior-backend-typescript-y-nodejs-20-en-santiago-huechuraba-EFCE05AD928C492261373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador Senior Backend - TypeScript y NodeJs 20+
+Perceptual Consultores Ltda. - Santiago - Huechuraba, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 40 horas semanales
+Presencial y remoto
+Importante Empresa contructura requiere para su equipo Desarrollador Backend Senior TypeScript y NodeJs 20+ para incorporarse de manera urgente a su equipo.Descripción:• Desarrollar y ejecutar proyectos, aplicaciones tecnológicas y/o sistemas de información de acuerdo con los requerimientos del área de Desarrollo e Innovación, estableciendo en conjunto con su equipo y respectiva jefatura, un diagnóstico de la necesidad e involucrándose en cada una de las fases del ciclo de vida del desarrollo, con el fin de lograr la integración con la arquitectura tecnológica, cumpliendo con los niveles de servicio establecidos por la organización.• Desarrollar y codificar los diferentes requerimientos en los lenguajes definidos para su función.• Empaquetar componentes y subir a controlador de versiones.• Generar documentación necesaria para realizar una entrega formal de los desarrollos.• Optimizar las plataformas y los productos desarrollados para obtener su mejor desempeño en términos de velocidad, seguridad y escalabilidad.• Asegurar una fluida interacción con cada uno de los equipos de la compañía que garantice el correcto funcionamiento de los desarrollos.Requisitos:• + 2 años de experiencia en cargos/roles que desempeñen funciones similares, en entornos de desarrollo de Productos Digitales como Desarrollador Backend.• Debe interactuar con los demás integrantes de su equipo y en oportunidades con clientes (internos/externos) para comprender de mejor manera los requerimientos de los proyectos en que participa.Formación académica:• Universitaria o Técnica, titulado/a de carreras afines a tecnología (Ingeniería Informática, Programador, Analista de sistemas, o similar)Otros:• Lenguajes: Dominio experto de TypeScript y Node.js 20+.• Arquitectura Serverless: Experiencia avanzada en diseño y despliegue de AWS Lambda Functions.• Frameworks: Manejo sólido de NestJS y Sequelize (ORM para PostgreSQL).• DevOps & CI/CD:o Bitbucket Pipe
+===== #25 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-software-backendintegracion-en-santiago-providencia-59F48284E69ACAE361373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador software - backend/integración
+Manpower Chile - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 200.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+En Experis, una marca de ManpowerGroup, somos líderes en la atracción y gestión del talento tecnológico. Nuestro equipo de expertos y trayectoria a nivel global nos convierten en un partner estratégico de las empresas para atraer el mejor talento TI, siendo la principal elección entre candidatos y candidatas para acceder a las mejores oportunidades laborales en tecnología.Nos encontramos en búsqueda de un Desarrollador/a Backend/integración para un cliente del rubro de soluciones tecnológicas.Requisitos:Experiencia de al menos 3 años en Java.Experiencia con AWS (Idealmente IoT Core, Kinesis y Lambda).Experiencia en sistemas distribuidos.Experiencia en Arquitectura orientada a eventos.Experiencia integrando sistemas mediante APIs y contratos de datos.Experiencia trabajando con mecanismos de mensajería o streaming.Conocimiento funcional de sistemas IoTInglés Intermedio – conversacional.Deseables:Conocimientos en Python, Node.JS o GoExperiencia en Kubernetes u otros.Experiencia con Kafka u otro.Experiencia en bases de datos de series de tiempo o big data (InfluxDB, TimescaleDB, BigQuery u otras).Condiciones de contratación:Contrato directo con cliente a plazo fijo 3 meses, posterior indefinido (Según desempeño)Modalidad: Hibrida. 2 días presencial a la semana, más 1 día adicional a definir dentro del mes. (50% presencial/ 50% remoto)Oficina: Comuna de Providencia.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, programador
+13 de julio (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Manpower Chile
+En ManpowerGroup somos líderes globales en servicios y soluciones innovadoras de capital humano, ayudando a las organizaciones a transformarse en una Era de cambios constantes a través de la búsqueda, evaluaci
+===== #26 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-backend-cloud-las-condes-en-santiago-las-condes-78098F51E8C0F23261373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador(a) Backend Cloud - Las Condes.
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Desarrollador(a) Backend Cloud para integrarse a un importante proyecto del sector financiero.
+Modalidad: Presencial | Las Condes, Santiago.
+Proyecto inicial de 6 meses, con posibilidades de extensión e incluso continuidad indefinida según desempeño.
+¿Cuál será tu desafío?
+Diseñar y desarrollar soluciones backend escalables en entornos cloud.
+Construir y mantener APIs REST y microservicios.
+Participar en decisiones de arquitectura y optimización de plataformas.
+Implementar pipelines CI/CD y buenas prácticas de desarrollo.
+Trabajar junto a equipos de QA, DevOps, Frontend y Product en un entorno ágil.
+Buscamos profesionales con:
+Al menos 4 años de experiencia en desarrollo Backend con Java (Spring Boot) y/o .NET Core.
+Experiencia comprobable de al menos 1 año en AWS.
+Desarrollo de APIs RESTful.
+Contenedores y pipelines CI/CD.
+Git y bases de datos SQL/NoSQL.
+Formación en Ingeniería.
+Inglés técnico para lectura de documentación.
+Será un plus si además cuentas con:
+React y TypeScript.
+Experiencia en microservicios.
+Conocimientos de Python o JavaScript.
+Experiencia en banca o fintech.
+Inglés avanzado.
+Si buscas participar en proyectos cloud con foco en arquitectura, escalabilidad y tecnologías modernas, ¡queremos conocerte!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Hace 2 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nues
+===== #27 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-full-stack-hibrido-en-santiago-las-condes-718C270A7FEE7EBC61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador(a) Full Stack - Hibrido
+BCTecnología - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.500.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Presencial y remoto
+Buscamos un(a) Desarrollador(a) Full Stack, responsable de desarrollar e implementar soluciones tecnológicas de complejidad media, asegurando el cumplimiento de estándares técnicos y de calidad definidos por la organización.El cargo considera trabajo colaborativo con Product Owner, Líder Técnico y QA, participando activamente en células ágiles y asegurando entregables pre-validados y listos para testing.Principales responsabilidadesDesarrollar soluciones Backend y Frontend según requerimientos del producto.Participar activamente en ceremonias ágiles: planning, daily, refinamiento y retrospectivas.Gestionar tareas e historias de usuario en Jira.Documentar desarrollos técnicos y funcionales en Confluence.Colaborar con Product Owner en definición y entendimiento de requerimientos.Alinear soluciones técnicas con Líder Técnico.Entregar desarrollos pre-validados y pre-testeados al equipo QA.Corregir observaciones y defectos detectados en testing.Proponer mejoras técnicas y de procesos dentro del equipo.Requisitos técnicosBackendJava + Spring Boot.Node.js + NestJS.Desarrollo de APIs REST.Buenas prácticas de desarrollo:Clean Code.Principios SOLID.FrontendReact.Next.js.Python.React Native (Deseable)Metodologías y herramientasExperiencia trabajando con Scrum y/o Kanban.Manejo de Jira para gestión de tareas.Uso de Confluence para documentación.Experiencia trabajando en células ágiles.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Hace 4 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de BCTecnología
+Empresa consultora con más de 6 años de experiencia en el mercado realizando subcotratación, búsqueda, reclutamiento y selección, software factory y proyectos llave en mano.
+Beneficios de BCTecnología
+Seguros, salud y bienestar
+Seguro de vida
+Se
+===== #28 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-web-full-stack-providencia-en-santiago-providencia-C9F9214D7ECF26FB61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrollador(a) Web Full Stack - Providencia
+ATCOM - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 42 horas semanales
+Importante empresa del rubro tecnológico se encuentra en búsqueda de un(a) Desarrollador(a) Web para integrarse a su equipo de Desarrollo.Buscamos profesionales con experiencia en desarrollo de aplicaciones web, integración de sistemas y mantención de plataformas, con interés en participar tanto en nuevos desarrollos como en la evolución de sistemas existentes.Objetivo del cargoParticipar en el desarrollo, integración y mantenimiento de aplicaciones web, colaborando con un equipo consolidado para la implementación de nuevos módulos y el soporte de plataformas existentes, asegurando la continuidad operacional de los sistemas.Principales funcionesDesarrollar módulos Front End utilizando React JS, PHP o Java.Participar en el desarrollo de componentes Back End utilizando Java Spring Boot.Crear y optimizar consultas SQL sobre base de datos Oracle.Apoyar en el levantamiento de requerimientos junto a clientes internos.Realizar soporte y mantención de sistemas legacy desarrollados en PHP y Java.Colaborar con el equipo de desarrollo en proyectos de mejora continua.RequisitosTítulo de Programador, Analista Programador, Ingeniería en Informática o carrera afín.Experiencia en desarrollo con React JS.Conocimientos en PHP, Java y Java Spring Boot.Manejo de bases de datos Oracle y lenguaje PL/SQL.Conocimientos de HTML, CSS y Material UI.Deseable experiencia con WordPress (no excluyente).Capacidad para trabajar en equipo y adaptarse a entornos de desarrollo colaborativo.Condiciones laboralesModalidad: Presencial.Lugar de trabajo: Santiago.Contrato: Plazo fijo con posibilidad de continuidad.Renta líquida: Entre $900.000 y $1.200.000, de acuerdo con experiencia y conocimientos.Si buscas integrarte a un equipo de desarrollo con proyectos desafiantes y oportunidades de crecimiento profesional, ¡postula con ATCOM!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.2 años de experiencia
+Palabras clave: internet, web
+Hace 4 días (actualizada)
+Postularme
+Postulado
+Avísame co
+===== #29 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladores-backend-jornada-presencial-en-santiago-las-condes-0DC2C086FE4539A161373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Desarrolladores Backend - Jornada Presencial
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 44 horas semanales
+Estamos en búsqueda de Desarrolladores Backend para desempeñarse en importante cliente por tiempo indefinido. 
+Requisitos: 
+- Experiencia en Desarrollo Backend con Java (Spring Boot) y/o .NET Core. 
+- Dominio de al menos una de JavaScript o Python.
+- Experiencia comprobable en Amazon Web Services (AWS)
+- Experiencia en diseño y desarrollo de APIs RESTful.
+- Contar con estudios Profesionales de Ingeniería en Informática o similar. 
+Funciones: 
+Diseño y desarrollo de la lógica backend
+Integración y uso de servicios Cloud
+Arquitectura y optimización
+Seguridad y cumplimiento
+Monitoreo y mantenimiento
+Colaboración y liderazgo técnico
+Jornada Presencial en Las Condes 
+Lunes a Viernes de 09:00 a 18:30 hrs
+Contratación: Por ABENIS, plazo fijo inicial, luego indefinido. 
+Duración: Al menos 6 meses con extensión según desempeño.
+Beneficios: 
+- Seguro Complementario de Vida, Salud y Dental (Al pasar a indefinido)
+- Aguinaldos fiestas patrias y año nuevo. 
+- Regalo cumpleaños. 
+- Sistemas digitalizados de documentación personal (Talana) 
+- Caja de Compensación Los Andes. 
+- Abenis Academy (Plan de Capacitación)(Al pasar a indefinido)
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y 
+===== #30 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-developer-full-stack-angular-20-web-components-nodejs-nestjs-typescript-rest-apis-jest-en-santiago-providencia-F94BB2ACE981820161373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Developer Full Stack - Angular 20+, Web Components, Node.js, NestJS, TypeScript, REST APIs, Jest
+AGtec Servicios Informáticos - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 42 horas semanales
+Presencial y remoto
+Sobre el rol
+Buscamos un(a) Developer Full Stack Semi Senior o Senior para integrarse a un equipo ágil, participando en el desarrollo de aplicaciones modernas con foco en arquitectura basada en Web Components y APIs robustas.
+Serás parte del ciclo completo de desarrollo, aportando activamente en decisiones técnicas, calidad de código y mejora continua de la arquitectura.
+Responsabilidades
+Desarrollar y mantener aplicaciones web en Angular 20+.
+Diseñar e implementar APIs RESTful con NestJS.
+Construir Web Components reutilizables (Angular Elements o Custom Elements).
+Desarrollar tests unitarios con Jest asegurando calidad y cobertura.
+Participar en code reviews y proponer mejoras técnicas.
+Colaborar con equipos de diseño, producto y DevOps.
+Mantener y evolucionar la arquitectura existente (refactorización y performance).
+Documentar soluciones técnicas y procesos.
+Requisitos técnicos
+Frontend
+Angular 20+ (avanzado): ciclo de vida, signals, standalone components
+Web Components (Angular Elements o nativos)
+HTML5, CSS3/SCSS, diseño responsive y accesibilidad (a11y)
+Manejo de estado (NgRx, Signals Store o similar)
+Backend
+NestJS: módulos, providers, guards, interceptors, pipes
+Experiencia con ORMs (TypeORM, Prisma o Sequelize)
+Manejo de bases de datos SQL y/o NoSQL
+Autenticación y autorización (JWT, OAuth2)
+Buenas prácticas: SOLID, Clean Architecture, diseño de APIs
+Perfil buscado
+Capacidad para trabajar end-to-end (frontend + backend)
+Enfoque en calidad, testing y buenas prácticas
+Pensamiento analítico y orientación a mejoras continuas
+Proactividad y colaboración en equipo
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.5 años de experiencia
+Palabras clave: desarrollador, programador, internet, web, componentes, materials, components, materiales
+Ayer (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+N
+===== #31 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-developer-presencial-en-puerto-montt-en-puerto-montt-1DA2A365B9465E8261373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Fullstack Developer - Presencial en Puerto Montt
+Michael Page - Puerto Montt, Los Lagos
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Estamos en busca de un Fullstack Developer con experiencia demostrable en el desarrollo de aplicaciones web.Buscamos a alguien con una sólida comprensión tanto de las tecnologías de frontend como de backend.Tu capacidad para trabajar en ambos lados de la aplicación será fundamental para el éxito del proyecto.Necesitamos a alguien que pueda colaborar en equipo y que tenga una mentalidad proactiva para resolver problemas y mejorar los procesos de desarrollo.Experiencia en framework Ruby on Rails, spring boot y lenguaje como Java, HTML, CSS y bases de datos Postgree SQL son requisitos clave.Además, valoramos positivamente tu capacidad para trabajar bajo presión y tu habilidad para adaptarte rápidamente a nuevos entornos y tecnologías.Tus responsabilidades incluirán el diseño, desarrollo y mantenimiento de aplicaciones web, así como la colaboración con otros miembros del equipo para garantizar la entrega de proyectos a tiempo y dentro del presupuesto.Debes ser capaz de comunicarte eficazmente y trabajar en un entorno colaborativo.Si tienes un enfoque meticuloso hacia el desarrollo de software y te apasiona la tecnología, esta oportunidad podría ser ideal para ti.Nos gustaría que te unieras a nuestro equipo para contribuir al desarrollo de soluciones innovadoras y eficientes.Si cumples con los requisitos y estás interesado en este desafío, estamos ansiosos por conocerte y ver cómo tus habilidades y experiencia pueden contribuir al éxito de nuestro proyecto.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experienciaConocimientos: Git, Java, Postgresql, Ruby on rails
+Aptitudes asociadas a esta ofertaNuevo
+Git
+Java
+Postgresql
+Ruby on rails
+Ver 0 aptitudes más
+Hay 3 aptitudes que faltan en tu perfil
+Si las tienes, añádelas a tu perfil para encajar mejor en esta vacante.
+Mostar competencias
+Se han añadido correctamente las competencias en tu perfil.
+Palabras clave: desarrollador, programador
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofe
+===== #32 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-senior-en-santiago-las-condes-FB455ACE8E86D4A261373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Fullstack Senior
+BCTecnología - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.700.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Presencial y remoto
+Para importante proyecto de modernización tecnológica, buscamos un/a desarrollador/a Fullstack Senior con sólida experiencia en arquitecturas cloud y desarrollo de soluciones escalables sobre Google Cloud Platform.ModalidadHíbrida (1 día presencial a la semana)Duración del proyecto3 meses iniciales con posibilidad de renovaciónPrincipales responsabilidadesDiseñar y desarrollar servicios backend escalables utilizando Node.js sobre GCP.Crear y administrar microservicios, APIs e integraciones.Participar activamente en procesos de modernización y migración de aplicaciones a GCP.Implementar lógica de negocio y procesamiento de datos.Trabajar junto a arquitectos y equipos técnicos para acelerar despliegues.Liderar iniciativas de buenas prácticas y uso de IA en desarrollo.Implementar soluciones seguras, escalables y cloud-native utilizando CI/CD.Integrar capacidades de IA/GenAI, incluyendo APIs de modelos, inferencia y pipelines RAG.Realizar mentorías técnicas a perfiles junior e intermedios.Proponer mejoras de arquitectura y reducción de deuda técnica.Requisitos técnicosExperiencia en:GCPNode.jsAngularPythonPostgreSQL / Cloud SQLMicroservicios y APIs RESTCI/CDIntegraciones IA / GenAIClaude Code
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.4 años de experiencia
+Palabras clave: senior, sr
+Hace 5 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de BCTecnología
+Empresa consultora con más de 6 años de experiencia en el mercado realizando subcotratación, búsqueda, reclutamiento y selección, software factory y proyectos llave en mano.
+Beneficios de BCTecnología
+Seguros, salud y bienestar
+Seguro de vida
+Seguro dental
+Seguro de salud
+Financieros y Jubilación
+Bonos por metas alcanzadas
+Familia y paternidad
+Trabajar desde casa
+Guardería infantil
+Permisos de maternidad y paternidad
+Jornada
+===== #33 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-software-en-santiago-las-condes-3E8E289F890DD2A561373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Ingeniero de Software
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos! En Abenis estamos constantemente Reclutando diferentes Perfiles TI. Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar! Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: engineers, ingeniera, ing, engineer
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Grato ambiente laboral, sal
+===== #34 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-software-java-hibernate-spring-en-santiago-las-condes-F6EBC520458C71F561373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Ingeniero de Software Java, Hibernate, Spring
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 1.000.000,00 (Mensual)
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos! En Abenis estamos constantemente Reclutando diferentes Perfiles TI. Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar! Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: engineers, ingeniera, ing, engineer
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+E
+===== #35 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-java-angular-nodejs-en-santiago-las-condes-8C7CD0CCB238212061373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Ingeniero Java, Angular, Nodejs
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 1.000.000,00 (Mensual)
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos! En Abenis estamos constantemente Reclutando diferentes Perfiles TI. Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar! Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: engineers, ingeniera, ing, engineer
+Hace 7 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Gra
+===== #36 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingenieroa-de-planificacionprogramador-senior-presencial-santiago-en-santiago-centro-50C413A3C3095C6661373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Ingeniero/a de Planificación/Programador Senior - Presencial Santiago
+J.E.J INGENIERIA S.A - Santiago Centro, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 44 horas semanales
+En JEJ Ingeniería nos encontramos en búsqueda de un/a Ingeniero/a de Planificación/Programador Senior para prestar servicio a ENAMI, en modalidad 5*2 presencial en oficinas de Stgo Centro. Objetivo del cargo:El Ingeniero de Planificación/Programador es responsable de desarrollar, implementar y gestionar planes de trabajo para proyectos, asegurando la adecuada asignación de recursos y el cumplimiento de plazos establecidos. Este rol implica la creación de cronogramas detallados, la identificación de actividades críticas y la evaluación del progreso del proyecto. Funciones:Elaborar y gestionar cronogramas de proyectos, asegurando el cumplimiento de plazos y recursos.· Identificar actividades críticas y analizar el impacto de los cambios en la planificación del proyecto.· Monitorear el progreso del proyecto y realizar ajustes en la planificación según sea necesario.· Colaborar con equipos multidisciplinarios para integrar diferentes aspectos del proyecto.· Utilizar herramientas de software de planificación para generar informes sobre el estado de avance físico y financiero del proyecto.· Proporcionar soporte en la toma de decisiones mediante análisis de datos y evaluación de riesgos.· Conocer y cumplir siempre con los procedimientos e instructivos de trabajo.· Reportar cualquier situación o incidente que ocurra durante la realización del trabajo para investigar y adoptar medidas para evitar su repetición. · Experiencia en la planificación de proyectos mineros e Industriales.· Experiencia en control en avance físico y financiero del proyecto y Estudios. RequisitosDe formación Ingeniería Industrial, Comercial, Ingeniería Civil, o constructor Civil o carrera afínCon 15 años de experiencia especifica desempeñando el cargo o funciones similaresManejo de Primavera P6, Power BIDisponibilidad para viajes esporádicos a Copiapó En J.E.J. valoramos nuestras diferencias y lo que hace a cada persona única, es por ello que promovemos la diversidad, equidad y c
+===== #37 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-lider-tecnico-senior-en-santiago-las-condes-5A82CE66517F93A461373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Líder Técnico Senior
+COASIN - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.500.000,00 (Mensual)
+contrato indefinido
+Jornada de 42 horas semanales
+Presencial y remoto
+Logicalis valora la diversidad, brindando igualdad de oportunidades a todas las personas que califican para sus puestos, sin importar género, raza, orientación sexual, discapacidad o cualquier otra característica
+Somos ArchitectsOfChange.
+Ayudamos a miles de empresas a transformarse y tener éxito en un mundo digital.
+Aquí creemos que la tecnología puede cambiar el mundo y convertirlo en un lugar mejor para vivir, fomentando una cultura alineada a nuestros valores: integridad, innovación, excelencia, alianzas y empoderamiento.
+Mira cómo será tu día a día:
+El nombre interno del puesto es: Líder Técnico Senior
+Funciones:
+Jefatura de proyectos de desarrollo de software
+Desarrollo de software sobre sistemas y plataformas de alta transaccionalidad
+Arquitectura de software
+Diseño y modelamiento de base de datos
+¿Qué necesitas para cubrir esta vacante?
+Conocimientos técnicos.
+Entornos HP Non Stop (Tandem) Sistemas operativos y bases de datos
+Sistemas operativos Linux y Windows
+Programación en PHP, Java, C y Visual Basic
+Base de datos Non Stop SQL, Oracle, SQL-Server y PostgreSQL 
+Monitor transaccional Tuxedo
+Idiomas:
+Ingles Avanzado (Excluyente)
+Condiciones ofrecidas para este cargo
+Jornada laboral 42 hrs. semanales
+Nuestros beneficios:
+Contrato a plazo indeterminado en planilla
+EPS cubierto al 100% para el titular y sus derechohabientes.
+Birthday off: el día de tu cumpleaños lo tienes libre para disfrutar.
+RechargeDays: 3 días libres al año para recargar energías.
+Programa de asistencia al empleado: contamos con asistencia 24*7 de especialistas para temas: emocionales, nutricionales, legales y financieros.
+¡SÚMATE A NUESTRO EQUIPO DE TRABAJO!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.5 años de experiencia
+Palabras clave: jefe, gerente, manager, director, chief, lead, jefatura, regente, tecnologo, tecnico, tech, technician, technology, tecnologia, technologist, senior, sr
+Hace 2 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas simil
+===== #38 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-full-stack-proyecto-6-meses-en-santiago-providencia-61BA65F187CE9E8D61373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Programador Full Stack / Proyecto 6 meses
+Castaño Panaderías - Santiago - Providencia, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato a plazo fijo
+Jornada de 42 horas semanales
+¡En Castaño estamos buscando un Desarrollador Full Stack! 
+¿Qué harás en este rol?
+Construir y mantener la infraestructura analítica y de datos de la organización, conectando las fuentes corporativas principalmente SAP con soluciones de inteligencia de negocio accesibles, confiables y orientadas a la toma de decisiones, tanto a nivel operativo como directivo.
+Funciones principales:
+Extracción y modelado de datos desde SAP S/4HANA y otras fuentes (SQL, ETL, CDS Views)
+Construcción de modelos analíticos con DAX y capas semánticas
+Desarrollo backend (APIs) y frontend para consumo de datos
+Dashboards e informes en Power BI para operaciones y dirección}
+Levantamiento de requerimientos con usuarios de negocio
+Documentación de KPIs, fuentes y reglas de negocio
+Propuesta de estándares de desarrollo y buenas prácticas
+Requisitos que buscamos:
+Título Ingeniería Civil Industrial, Informático o afín.
+Experiencia de dos años cargos similares.
+Manejo Power BI (excluyente):
+Deseables destacados: AWS (S3, Glue, Lambda, Redshift), arquitecturas Lakehouse/Data Lake, Python, CI/CD, Microsoft Fabric y gobierno de datos.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.2 años de experiencia
+Palabras clave: developer, desarrollador, project
+Hace 3 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Castaño Panaderías
+Castaño ha evolucionado desde una pequeña panadería a una gran empresa, la cual en la actualidad otorga trabajo a más de 2.000 personas a lo largo de una extensa red de locales, nuestras dos modernas plantas productivas y una amplia red de distribución. Cada uno de nuestros colaboradores comparte un elevado compromiso de calidad en lo que elaboran, siendo éste el pilar fundamental de nuestra actividad.
+Beneficios de Castaño Panaderías
+Financieros y Jubilación
+Planes de acciones
+Bonos po
+===== #39 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-java-en-santiago-las-condes-3FC7D2FDF9DF2CD661373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Programador java
+Abenis - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+Otro tipo de contrato
+Jornada de 42 horas semanales
+Presencial y remoto
+Hola a Todos!
+En Abenis estamos constantemente Reclutando diferentes Perfiles TI.
+Adjunta tu CV Actualizado mencionando tus pretensiones de renta Aproximadas, de esta forma te Contactaremos al momento de contar con alguna posibilidad Laboral que te pueda interesar!
+Gracias por Participar!
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.3 años de experiencia
+Palabras clave: developer, desarrollador
+26 de julio (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+Acerca de Abenis
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos co...
++11 años de trayectoria sólida brindando asesoría, servicios y productos especializados en Tecnologías de la Información a empresas privadas y gubernamentales.¡Profesionales de élite!Somos especialistas en capturar el talento más sobresaliente del mundo TI para conectarlo con organizaciones que tienen por objetivo innovar y agilizar su crecimiento.Nos apasiona ser mejores.Somos una empresa certificada bajo la norma ISO 9001:2015, además nuestra política empresarial nos convierte en candidatos a la certificación como empresa B.
+Ver más sobre la empresa
+Evaluación general
+3.8
+23 Evaluaciones
+5
+54%
+4
+13%
+3
+8%
+2
+17%
+1
+8%
+3,45
+Ambiente de trabajo
+3,23
+Salario y prestaciones
+2,57
+Oportunidades de carrera
+2,95
+Director general
+60% profesionales recomiendan trabajar aquí
+Analista externo
+Actual empleado
+R.Metropolitana
+Enero, 2025
+Grato ambiente laboral, salario acorde al m
+===== #40 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-senior-backend-typescript-y-nodejs-20-en-santiago-huechuraba-2B3C83437673BA3261373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Programador Senior Backend - TypeScript y NodeJs 20+
+Perceptual Consultores Ltda. - Santiago - Huechuraba, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+A convenir
+contrato indefinido
+Jornada de 40 horas semanales
+Presencial y remoto
+Importante Empresa contructura requiere para su equipo Desarrollador Backend Senior TypeScript y NodeJs 20+ para incorporarse de manera urgente a su equipo.Descripción:• Desarrollar y ejecutar proyectos, aplicaciones tecnológicas y/o sistemas de información de acuerdo con los requerimientos del área de Desarrollo e Innovación, estableciendo en conjunto con su equipo y respectiva jefatura, un diagnóstico de la necesidad e involucrándose en cada una de las fases del ciclo de vida del desarrollo, con el fin de lograr la integración con la arquitectura tecnológica, cumpliendo con los niveles de servicio establecidos por la organización.• Desarrollar y codificar los diferentes requerimientos en los lenguajes definidos para su función.• Empaquetar componentes y subir a controlador de versiones.• Generar documentación necesaria para realizar una entrega formal de los desarrollos.• Optimizar las plataformas y los productos desarrollados para obtener su mejor desempeño en términos de velocidad, seguridad y escalabilidad.• Asegurar una fluida interacción con cada uno de los equipos de la compañía que garantice el correcto funcionamiento de los desarrollos.Requisitos:• + 2 años de experiencia en cargos/roles que desempeñen funciones similares, en entornos de desarrollo de Productos Digitales como Desarrollador Backend.• Debe interactuar con los demás integrantes de su equipo y en oportunidades con clientes (internos/externos) para comprender de mejor manera los requerimientos de los proyectos en que participa.Formación académica:• Universitaria o Técnica, titulado/a de carreras afines a tecnología (Ingeniería Informática, Programador, Analista de sistemas, o similar)Otros:• Lenguajes: Dominio experto de TypeScript y Node.js 20+.• Arquitectura Serverless: Experiencia avanzada en diseño y despliegue de AWS Lambda Functions.• Frameworks: Manejo sólido de NestJS y Sequelize (ORM para PostgreSQL).• DevOps & CI/CD:o Bitbucket Pipeli
+===== #41 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-senior-fullstack-gcp-en-santiago-las-condes-15DB12DE7397328361373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Senior Fullstack GCP
+BCTecnología - Santiago - Las condes, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Empresa
+Evaluaciones
+Salarios
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 2.700.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Presencial y remoto
+¿Te apasiona la tecnología, la nube y la innovación? ¿Te gustaría ser parte de un proyecto de transformación y modernización tecnológica, llevando aplicaciones a un entorno Cloud y trabajando con tecnologías de vanguardia?En BC Tecnología estamos buscando un/a **Senior Fullstack** para sumarse a un importante proyecto de transformación tecnológica, donde podrás participar en el diseño y desarrollo de soluciones escalables sobre Google Cloud Platform (GCP).**¿Qué desafíos tendrás?*** Desarrollar soluciones backend de alto rendimiento con Node.js.* Participar en el desarrollo frontend utilizando Angular.* Diseñar y desarrollar microservicios, APIs e integraciones.* Participar en la modernización y migración de aplicativos hacia GCP.* Implementar soluciones Cloud Native, seguras y escalables.* Trabajar con procesos y pipelines CI/CD.* Integrar capacidades de IA/GenAI, APIs de modelos, servicios de inferencia y soluciones RAG.* Explorar y promover el uso de herramientas de IA aplicadas al desarrollo de software, incluyendo Claude Code.* Colaborar con arquitectos y equipos técnicos para acelerar la implementación de soluciones.* Aportar como referente técnico y realizar mentoría a desarrolladores junior e intermedios.* Proponer mejoras de arquitectura y contribuir a la reducción de deuda técnica.**Buscamos profesionales con experiencia en:*** Desarrollo Fullstack Senior.* Node.js avanzado.* Angular.* Google Cloud Platform (GCP).* Microservicios y APIs REST.* Arquitecturas Cloud Native.* CI/CD y prácticas DevOps.* IA Generativa / GenAI.* Integración de APIs de modelos de IA y/o soluciones RAG.**Será un plus** contar con experiencia en Claude Code, proyectos de modernización Cloud y mentoría técnica de equipos de desarrollo.Buscamos un perfil Senior, hands-on y con visión técnica, que disfrute resolver desafíos complejos, trabajar con nuevas tecnologías y aportar tanto desde la ejecución como desde el conocimiento y acompañamiento al equipo.**Modalidad:*
+===== #42 https://cl.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-software-engineer-en-colina-085DD90B76C7AE8461373E686DCF3405
+APPLIEDFLAG=false
+Volver al listado
+Software Engineer
+Importante empresa del sector - Colina, R.Metropolitana
+Ya aplicaste a esta oferta
+Oferta
+Ofertas similares
+Ocultaste esta oferta, pulsa 
+Recuperar oferta
+para verla de nuevo en los listados
+Eliminado de 
+Ofertas ocultas
+Deshacer
+Descripción de la oferta
+$ 1.800.000,00 (Mensual)
+contrato a plazo fijo
+Jornada de 44 horas semanales
+Presencial y remoto
+Estamos buscando un Software Engineer para unirse a nuestro equipo en una posición presencial.La persona seleccionada será responsable del desarrollo y mantenimiento de nuestros sistemas de software, trabajando en estrecha colaboración con nuestro equipo de ingeniería y diseño.Requisitos:1.Experiencia comprobada en el desarrollo de software utilizando lenguajes de programación como Python, Java o C++.2.Conocimientos sólidos en 3ds Max.3. Capacidad demostrada para diseñar, desarrollar y mantener software de alta calidad.4.Experiencia en el uso de herramientas de control de versiones como Git.5.Buenas habilidades de resolución de problemas y capacidad para trabajar en un entorno de equipo.Responsabilidades:1.Desarrollar software de alta calidad según las especificaciones proporcionadas.2.Realizar pruebas unitarias y pruebas de integración para garantizar la calidad del software.3.Trabajar en colaboración con el equipo de ingeniería y diseño para garantizar la entrega puntual de productos de alta calidad.4.Participar en la planificación de proyectos y asignar tareas a los miembros del equipo.5.Mantener la documentación del software y actualizarla según sea necesario.Si está interesado en esta oportunidad, envíe su currículum vitae y una carta de presentación a nuestra dirección de correo electrónico.
+Requerimientos
+Educación mínima: Universitaria / I.P. / C.F.T.2 años de experienciaEdad: entre 25 y 40 añosConocimientos: 3ds maxLicencias de conducir: B 
+Aptitudes asociadas a esta ofertaNuevo
+3ds max
+Ver 0 aptitudes más
+Hay 1 aptitudes que faltan en tu perfil
+Si las tienes, añádelas a tu perfil para encajar mejor en esta vacante.
+Mostar competencias
+Se han añadido correctamente las competencias en tu perfil.
+Palabras clave: ingeniero, engineers, ingeniera, ing, engineer
+Hace 3 días (actualizada)
+Postularme
+Postulado
+Avísame con ofertas similares
+Denunciar empleo
+Gracias por ayudarnos a mejorar Computrabajo
+Nos tomamos muy en serio tus comentarios y lo revisaremos lo antes posible.
+V

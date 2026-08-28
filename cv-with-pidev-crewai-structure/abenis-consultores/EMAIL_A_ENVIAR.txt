@@ -1,0 +1,30 @@
+========================================
+DESTINATARIO: fescalona@abenis.cl
+ASUNTO: Backend Cloud Engineer - Disponible para presencial o remoto con negociación
+========================================
+
+Estimado/a Francisca,
+
+Escribo en relación a la vacante de Desarrollador(a) Backend Cloud (Java/.NET) que publicaron para Abenis Consultores.
+
+Tengo 15+ años de experiencia en arquitectura backend y cloud. Mi stack actual es Java 21, Spring Boot, AWS, Docker, CI/CD y PostgreSQL/Oracle — el 100% de lo que piden. Adicional: experiencia en banca (Citibank, Santander, Coopeuch) e inglés técnico fluido tras 6+ años en equipos distribuidos internacionales. Actualmente opero una plataforma en producción en Google Cloud desde 2024, con infraestructura automatizada y pipelines CI/CD completos.
+
+Una aclaración importante: resido en Limache (V Región), no en Las Condes. Entiendo que la vacante es presencial en Santiago. Aquí viene mi propuesta:
+
+**Estoy dispuesto a una negociación muy importante a la baja en tarifa si ustedes aceptan trabajo remoto con 1–2 días presenciales en Las Condes por mes.** Esto reduce mis costos de transporte y me permite ofrecer una compensación significativamente más baja que el mercado. Viajo sin problema.
+
+Si el proyecto requiere 100% presencial en Las Condes, también podemos hablarlo — pero la tarifa sería diferente.
+
+El proyecto de 6 meses con posibilidad de continuidad indefinida es exactamente lo que busco. Tengo disponibilidad inmediata.
+
+Adjunto mi CV. Quedo atento a tus comentarios.
+
+Saludos,
+Gonzalo Oviedo
++56 9 6372 3603
+goviedo.laboral@gmail.com
+linkedin.com/in/gol
+
+========================================
+ARCHIVO ADJUNTO: cv_gonzalo_abenis_consultores.pdf (o .md si lo prefieres en formato web)
+========================================

@@ -1,0 +1,85 @@
+GONZALO OVIEDO LAMBERT
+
+Staff Java Software Engineer / AI-Augmented Engineering Lead
+Santiago, Chile (GMT-4 / UTC-4) | goviedo.laboral@gmail.com | +56 9 6372 3603
+LinkedIn: https://www.linkedin.com/in/gol
+Language Proficiency: English (Professional working proficiency — 6+ years in fully English-speaking distributed teams: US, India, Ukraine)
+
+================================================================================
+PROFESSIONAL SUMMARY
+================================================================================
+Lead Java engineer with 15+ years of experience architecting transactional 
+backend systems, financial APIs, and payment flow integrations. Focuses on 
+end-to-end system design and unsupervised team mentorship across US, India, 
+and Latin American financial sectors. Integrates agentic workflows using 
+software agent harnesses (such as Pi.dev and opencode) to automate quality 
+verification gates and accelerate development loops.
+
+================================================================================
+TECHNICAL SKILLS
+================================================================================
+* Core Languages & Frameworks: Java (8 - 21), Spring Boot, PL/SQL, Elixir (Phoenix Framework)
+* Databases & Storage: Oracle SQL, PostgreSQL, MySQL, MongoDB
+* Cloud, DevOps & Infrastructure: Google Cloud Platform (GCP), Azure DevOps, Docker, Pulumi (IaC), AWS Lambda
+* AI-Augmented Development: Software Agent Harnesses (Pi.dev, opencode, Hermes), LLM Orchestration, Prompt Engineering
+* Architecture & Methodologies: RESTful APIs, System Design, Microservices, Extreme Programming (XP), Agile/Scrum
+
+================================================================================
+PROFESSIONAL EXPERIENCE
+================================================================================
+
+Lead Software Engineer & Technical Architect | Mobility Startup
+2024 – Present
+Technologies: Java 21, Spring Boot, GraalVM, Google Cloud Platform (GCP), Pulumi (IaC), Elixir, Ash Framework, Flutter, Agentic AI with Pi.dev & opencode
+
+* Designed and built the entire core backend services utilizing Java 21 and Spring Boot, optimizing performance and hosting on serverless GCP Cloud Run.
+* Built autonomous agent workflows using software agent harnesses (Pi.dev/opencode) to manage development tasks, quality gates, and automated test execution.
+* Automated infrastructure deployments on GCP using Pulumi (IaC), maintaining clean development, staging, and production parity.
+* Mentored a distributed engineering team and drove technical decisions without external supervision.
+
+--------------------------------------------------------------------------------
+
+Java Associate Developer | Perficient - Caterpillar
+2022 – 2023
+Technologies: Java, Spring Boot, Agile, Git, REST APIs
+
+* Maintained global e-commerce backend microservices in Java/Spring Boot, ensuring strict integration with inventory and financial accounting modules.
+* Collaborated daily in English-speaking distributed teams across the US, India, and Latin America under Agile sprints.
+
+--------------------------------------------------------------------------------
+
+Java Specialist | Citibank
+2021 – 2022
+Technologies: Java, Oracle PL/SQL, Spring, Jenkins, Gradle, WebSphere, Git
+
+* Migrated critical legacy financial databases from Sybase to Oracle, preserving 15M+ active transactional records under strict zero-downtime requirements.
+* Built automated reporting pipelines for compliance and regulatory audits, interfacing directly with teams in the US, Ukraine, India, and Chile.
+* Maintained monthly banking compliance microservices using Citibank's internal Spring-based enterprise frameworks.
+
+--------------------------------------------------------------------------------
+
+Lead Software Engineer & Solutions Architect | Seven IT SpA (Hospital Cruz del Norte, SQM)
+2017 – 2020
+Technologies: Spring Boot, PostgreSQL, Linux, Google Cloud (VM), GitLab, JavaScript, Bootstrap
+
+* Directed technical architecture and development of the core Hospital Management System (HMS) for clinical and administrative operations.
+* Developed the secure patient billing module and financial tracking engines.
+* Supervised a co-located team of 4 software developers, coordinating sprint planning and delivery schedules.
+
+--------------------------------------------------------------------------------
+
+Java Senior Developer | WebClass, Creasys, Coopeuch, Others
+2008 – 2017
+Technologies: Java, AS/400, Struts, JSP, Hibernate, PostgreSQL, Oracle, SQL Server, Jenkins
+
+* Managed legacy AS/400 migrations to Java-based services for banking clients including Coopeuch, Ripley, and Santander.
+* Built electronic invoicing engines and transaction processors handling regional financial operations.
+* Developed new administrative modules for an educational platform deployed at 1,800 schools, serving 500,000 daily user requests.
+* Analyzed business requirements, system design, development, and QA for bank and ed-tech applications.
+
+================================================================================
+EDUCATION
+================================================================================
+B.S. in Computer Science and Software Engineering (Ingeniería en Ejecución en Computación e Informática)
+Universidad del Bío Bío
+Thesis: Extreme Programming (XP) - Theory and Practice
