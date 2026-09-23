@@ -96,13 +96,28 @@ def test_flujo_interactivo_add_usa_respuestas_en_orden():
             "elixir;react",  # stack
             "",  # salario_publicado
             "no",  # referido
+            "manual",  # modo_postulacion
             "una nota",  # notas
         ]
     )
     app = cli.flujo_interactivo_add(entrada=lambda _prompt: next(respuestas))
     assert app.empresa == "Equifax"
     assert app.stack_tecnologias() == ("elixir", "react")
+    assert app.modo_postulacion == "manual"
     assert app.notas == "una nota"
+
+
+def test_flujo_interactivo_add_modo_postulacion_por_defecto_automatizada():
+    respuestas = iter(
+        [
+            "2026-08-26",  # fecha
+            "Equifax",  # empresa
+            "Fullstack",  # cargo
+        ]
+        + [""] * 12  # el resto de campos opcionales vacios, incluyendo modo_postulacion
+    )
+    app = cli.flujo_interactivo_add(entrada=lambda _prompt: next(respuestas))
+    assert app.modo_postulacion == "automatizada"
 
 
 def test_flujo_interactivo_add_reintenta_campos_obligatorios_vacios():
@@ -113,7 +128,7 @@ def test_flujo_interactivo_add_reintenta_campos_obligatorios_vacios():
             "Equifax",  # empresa
             "Fullstack",  # cargo
         ]
-        + [""] * 11  # el resto de campos opcionales vacios
+        + [""] * 12  # el resto de campos opcionales vacios (incluye modo_postulacion)
     )
     app = cli.flujo_interactivo_add(entrada=lambda _prompt: next(respuestas))
     assert app.empresa == "Equifax"

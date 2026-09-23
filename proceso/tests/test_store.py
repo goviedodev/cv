@@ -52,8 +52,8 @@ def test_load_applications_con_campos_vacios(apps_csv):
     apps_csv.write_text(
         "id,fecha_postulacion,empresa,cargo,seniority,portal,url,modalidad,"
         "pais,idioma_cv,version_cv,stack,salario_publicado,referido,"
-        "estado_actual,fecha_ultimo_evento,notas\n"
-        "x,2026-08-26,Equifax,Fullstack,,,,,,,,,,no,postulado,,\n"
+        "modo_postulacion,estado_actual,fecha_ultimo_evento,notas\n"
+        "x,2026-08-26,Equifax,Fullstack,,,,,,,,,,no,automatizada,postulado,,\n"
     )
     cargadas = store.load_applications(apps_csv)
     assert len(cargadas) == 1

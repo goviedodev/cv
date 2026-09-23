@@ -53,6 +53,18 @@ def test_application_minima_valida():
     )
     assert app.estado_actual == "postulado"
     assert app.referido == "no"
+    assert app.modo_postulacion == "automatizada"
+
+
+def test_application_rechaza_modo_postulacion_invalido():
+    with pytest.raises(ValidationError):
+        Application(
+            id="x",
+            fecha_postulacion="2026-08-26",
+            empresa="Equifax",
+            cargo="Fullstack",
+            modo_postulacion="a mano",
+        )
 
 
 def test_application_rechaza_empresa_vacia():

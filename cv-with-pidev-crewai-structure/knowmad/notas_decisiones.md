@@ -1,0 +1,13 @@
+# Notas de decisiones — Knowmad Mood (Fullstack Developer Java + React)
+
+- **Vacante:** distinta a la ya registrada en `knowmad_mood/` (Software Engineer Java 100% remoto, 2026-07-01, Job ID/URL de LinkedIn). Esta es Fullstack Java + React sobre un entorno de gestión logística, pegada directamente por el usuario sin URL de portal (Modo directo). Carpeta separada (`knowmad/`) para no pisar el registro anterior.
+- **Perfil:** no encaja limpio en A/B/C del `cv-tailor` (no es Chile CLP ni USD remoto ni Elixir). Empresa española de transformación digital (+3.000 personas) — tratado como oferta España/UE: español, título espejado palabra por palabra ("Fullstack Developer (Java + React)"), sin declarar renta (la oferta no la pide ni la publica).
+- **Ubicación:** Limache + línea de reubicación inmediata a Madrid, España (mismo patrón que `prima/`), consistente con el objetivo declarado de empleo en España, no LATAM.
+- **Keywords espejadas ≥2 veces:** Java 11 (cubierto por rango 8–21), Spring Boot, React, bases de datos relacionales, JDBC, consultas SQL, arquitecturas por capas (REST, Service, DAO), interfaces REST, testing unitario, Git (gitflow, pull requests), CI/CD, metodologías Agile.
+- **React — respaldo real:** experiencia laboral en Nubox (2014–2017, React + jQuery), proyecto público niuro (Next.js 14 + React 18 + TypeScript + NestJS + Jest — ya usado y aprobado en `factor-it/`), y primera versión React Native de la plataforma de movilidad. **Redux: sin experiencia productiva — no se reclamó**, declarado en `mensaje_reclutador.md`.
+- **Colas/mensajería (deseable del aviso):** cubierto de verdad con IBM MQ + Redis en Salcobrand (2023–2024) — mismo dato ya usado en `abenis-automatizacion-ia/`.
+- **Gaps reales no inventados:** OAuth/OpenID (sin experiencia documentada, declarado en el mensaje al reclutador). "Entorno de gestión logística" del aviso: sin experiencia directa en logística; se usó el antecedente más cercano (gestión de stock/inventario en Cencosud) sin forzar la palabra "logística" como experiencia literal.
+- **Testing unitario:** cubierto con JUnit (contexto Java/Spring Boot) y Jest (proyecto niuro), no como cifra sino como práctica (puerta de calidad antes de despliegue).
+- **Verificabilidad:** sin cifras de la lista negra; la única métrica dura es la migración Sybase→Oracle (15M+ registros, Citibank), ya validada en CVs anteriores.
+- **Formato:** ATS-safe (default, Restricción global n.º 5). Harvard no aplicado — no se ha preguntado/confirmado con el usuario todavía.
+- **Estado:** CV y mensaje generados. Falta que el usuario confirme el envío real (portal/canal de postulación) para registrar el estado "Enviado" en `cv_job_links.md` y en `../proceso` (Restricción global n.º 6).

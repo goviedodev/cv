@@ -51,6 +51,7 @@ APPLICATION_FIELDS: tuple[str, ...] = (
     "stack",
     "salario_publicado",
     "referido",
+    "modo_postulacion",
     "estado_actual",
     "fecha_ultimo_evento",
     "notas",
@@ -126,6 +127,7 @@ class Application:
     stack: str = ""  # valores separados por ';'
     salario_publicado: str = ""
     referido: str = "no"
+    modo_postulacion: str = "automatizada"
     estado_actual: str = "postulado"
     fecha_ultimo_evento: str = ""
     notas: str = ""
@@ -138,6 +140,11 @@ class Application:
         if self.referido not in ("si", "no"):
             raise ValidationError(
                 f"referido invalido: {self.referido!r} (si|no)"
+            )
+        if self.modo_postulacion not in ("automatizada", "manual"):
+            raise ValidationError(
+                f"modo_postulacion invalido: {self.modo_postulacion!r} "
+                "(automatizada|manual)"
             )
         if not self.empresa.strip():
             raise ValidationError("empresa no puede estar vacia")

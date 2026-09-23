@@ -43,9 +43,10 @@ COMANDOS
 
   ./track add
 
-  Pregunta 13 campos: empresa*, cargo*, seniority, portal, url, modalidad,
+  Pregunta 14 campos: empresa*, cargo*, seniority, portal, url, modalidad,
   pais, idioma_cv, version_cv, stack (separado por ';'), salario_publicado,
-  referido (si/no) y notas. Solo empresa y cargo son obligatorios (*).
+  referido (si/no), modo_postulacion (automatizada/manual, default
+  'automatizada') y notas. Solo empresa y cargo son obligatorios (*).
 
   Genera el id automatico (2026-08-27-fullstack-elixir-backend-engineer),
   deja la postulacion en estado 'postulado' y crea el evento inicial del
@@ -94,7 +95,8 @@ COMANDOS
     EMBUDO           conteo por etapa, conversion entre etapas
                      consecutivas y estados terminales
     QUE FUNCIONA     tasa de respuesta segmentada por portal, idioma_cv,
-    MEJOR            version_cv, seniority, modalidad, referido y stack
+    MEJOR            version_cv, seniority, modalidad, referido,
+                     modo_postulacion y stack
     TIEMPOS          mediana de dias hasta la primera respuesta y
                      postulaciones vivas mas antiguas sin novedades
     RITMO SEMANAL    ultimas 8 semanas contra la meta semanal
@@ -175,6 +177,7 @@ CAMPOS_INTERACTIVOS: tuple[tuple[str, str, bool], ...] = (
     ("stack", "Stack, separado por ; (ej: elixir;react)", False),
     ("salario_publicado", "Salario publicado", False),
     ("referido", "Referido (si/no)", False),
+    ("modo_postulacion", "Modo de postulacion (automatizada/manual)", False),
     ("notas", "Notas", False),
 )
 
@@ -185,6 +188,7 @@ CAMPOS_SEGMENTACION: tuple[str, ...] = (
     "seniority",
     "modalidad",
     "referido",
+    "modo_postulacion",
     "stack",
 )
 
@@ -271,6 +275,8 @@ def flujo_interactivo_add(
     cargo = respuestas.pop("cargo")
     if not respuestas.get("referido"):
         respuestas["referido"] = "no"
+    if not respuestas.get("modo_postulacion"):
+        respuestas["modo_postulacion"] = "automatizada"
 
     return construir_postulacion(fecha, empresa, cargo, respuestas)
 
